@@ -1,0 +1,67 @@
+{
+  "type": "function",
+  "name": "select_books",
+  "description": "根據與使用者的對話紀錄、prepare_environment_snapshot_for_book_selection 提供的環境參數快照、generate_rationale_for_book_selection 提供的推理結果，選擇出 candidate_books 中最符合使用者需求的 10 本書籍作為 accepted_books，並詳細說明接受的原因，其餘書籍則作為 rejected_books，也需要詳細說明拒絕的原因。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "accepted_books": {
+        "type": "array",
+        "description": "candidate_books 中最符合使用者需求的 10 本書籍。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "該書籍的唯一識別碼。"
+            },
+            "title": {
+              "type": "string",
+              "description": "該書籍的標題。"
+            },
+            "searched_at_turn": {
+              "type": "integer",
+              "description": "該書被搜尋到時的對話輪數。"
+            },
+            "reason_for_acceptance": {
+              "type": "string",
+              "description": "接受該書籍的原因。"
+            }
+          },
+          "required": ["id", "title", "searched_at_turn", "reason_for_acceptance"],
+          "additionalProperties": false
+        }
+      },
+      "rejected_books": {
+        "type": "array",
+        "description": "candidate_books 中不符合使用者需求的書籍。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "該書籍的唯一識別碼。"
+            },
+            "title": {
+              "type": "string",
+              "description": "該書籍的標題。"
+            },
+            "searched_at_turn": {
+              "type": "integer",
+              "description": "該書被搜尋到時的對話輪數。"
+            },
+            "reason_for_rejection": {
+              "type": "string",
+              "description": "拒絕該書籍的原因。"
+            }
+          },
+          "required": ["id", "title", "searched_at_turn", "reason_for_rejection"],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": ["accepted_books", "rejected_books"],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "answer_question",
+  "description": "根據與圖書館員的對話紀錄、prepare_environment_snapshot_for_question_answering 提供的環境參數快照、generate_rationale_for_question_answering 提供的推理結果，詳細且清楚地回答圖書館員提出的問題。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "answer": {
+        "type": "string",
+        "description": "關於圖書館員提出的問題的回答。"
+      }
+    },
+    "required": ["answer"],
+    "additionalProperties": false
+  }
+}

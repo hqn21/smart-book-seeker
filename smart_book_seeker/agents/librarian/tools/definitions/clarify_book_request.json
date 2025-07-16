@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "clarify_book_request",
+  "description": "根據與使用者的對話紀錄及 prepare_environment_snapshot 回傳的書籍搜尋歷史，若多次搜尋後仍無法找到符合需求的書籍（可能完全無結果，或僅回傳最多 10 本但大多數不符），則自動產生一個關鍵澄清問題，引導使用者更精準描述需求，使其更貼合圖書館館藏。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "question": {
+        "type": "string",
+        "description": "根據多次書籍搜尋結果自動產生的關鍵澄清問題，用以引導使用者更精確、貼合圖書館館藏地描述需求"
+      }
+    },
+    "required": ["question"],
+    "additionalProperties": false
+  }
+}

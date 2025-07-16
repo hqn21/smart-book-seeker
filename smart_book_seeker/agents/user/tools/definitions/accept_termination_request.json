@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "accept_termination_request",
+  "description": "根據與圖書館員的對話紀錄、prepare_environment_snapshot_for_termination_request_decision 提供的環境參數快照、generate_rationale_for_termination_request_decision 提供的推理結果，詳細且清楚地說明為何接受該終止對話請求。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "reason_for_acceptance": {
+        "type": "string",
+        "description": "你接受該終止對話請求的原因。"
+      }
+    },
+    "required": ["reason_for_acceptance"],
+    "additionalProperties": false
+  }
+}

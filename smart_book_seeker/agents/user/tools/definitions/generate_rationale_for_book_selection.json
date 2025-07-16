@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "generate_rationale_for_book_selection",
+  "description": "依據與使用者的對話紀錄和 prepare_environment_snapshot_for_book_selection 的回傳值等資訊，生成對於書籍選擇的推理，依序詳細說明每本書籍對於你對書籍搜尋的需求的符合程度。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "rationale": {
+        "type": "string",
+        "description": "推理的內容"
+      }
+    },
+    "required": ["rationale"],
+    "additionalProperties": false
+  }
+}

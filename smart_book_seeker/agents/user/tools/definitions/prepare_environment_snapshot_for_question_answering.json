@@ -1,0 +1,40 @@
+{
+  "type": "function",
+  "name": "prepare_environment_snapshot_for_question_answering",
+  "description": "根據與圖書館員的對話紀錄，整理出目前用於 question_answering 的 environment_snapshot，用於後續的推理和決策。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "book_search_needs": {
+        "type": "string",
+        "description": "你對書籍搜尋的需求。"
+      },
+      "current_books": {
+        "type": "array",
+        "description": "你當前持有的書籍列表。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "該書籍的唯一識別碼。"
+            },
+            "title": {
+              "type": "string",
+              "description": "該書籍的標題。"
+            },
+            "searched_at_turn": {
+              "type": "integer",
+              "description": "該書被搜尋到時的對話輪數。"
+            }
+          },
+          "required": ["id", "title", "searched_at_turn"],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": ["book_search_needs", "current_books"],
+    "additionalProperties": false
+  }
+}

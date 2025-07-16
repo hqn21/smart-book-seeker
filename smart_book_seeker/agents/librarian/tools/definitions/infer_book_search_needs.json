@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "infer_book_search_needs",
+  "description": "根據與使用者的對話紀錄以及 prepare_environment_snapshot 的回傳值，整理出使用者進一步的書籍搜尋需求，這個需求要盡可能地具體化且詳細，以便後續的搜尋和決策。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "book_search_needs": {
+        "type": "string",
+        "description": "使用者進一步的書籍搜尋需求。"
+      }
+    },
+    "required": ["book_search_needs"],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "type": "function",
+  "name": "prepare_environment_snapshot",
+  "description": "根據與使用者的對話紀錄，整理出目前的 environment_snapshot，用於後續的推理和決策。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "initial_book_search_needs": {
+        "type": "string",
+        "description": "使用者對書籍搜尋的初始需求。"
+      },
+      "book_search_needs": {
+        "type": "string",
+        "description": "你對使用者目前的尋書需求之推測，可能會隨著對話推進而改變。"
+      },
+      "current_turn": {
+        "type": "integer",
+        "description": "當前對話輪數，從 1 開始計數，每次與使用者互動時增加 1。"
+      },
+      "book_search_count": {
+        "type": "integer",
+        "description": "你已進行的書籍搜尋次數，從 0 開始計數，每進行一次搜尋就增加 1。"
+      },
+      "book_search_history": {
+        "type": "array",
+        "description": "你已進行的書籍搜尋歷史，由近到遠排列。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "search_at_turn": {
+              "type": "integer",
+              "description": "該次搜尋發生的對話輪數。"
+            },
+            "search_query": {
+              "type": "string",
+              "description": "該次搜尋所使用的查詢字串。"
+            },
+            "found_books": {
+              "type": "array",
+              "description": "該次搜尋所獲得的書籍列表。",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "該書籍的唯一識別碼。"
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "該書籍的標題。"
+                  },
+                  "searched_at_turn": {
+                    "type": "integer",
+                    "description": "該書被搜尋到時的對話輪數。"
+                  }
+                },
+                "required": ["id", "title", "searched_at_turn"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["search_at_turn", "search_query", "found_books"],
+          "additionalProperties": false
+        }
+      },
+      "book_selection_history": {
+        "type": "array",
+        "description": "使用者已進行的書籍選擇歷史，由近到遠排列。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "selection_at_turn": {
+              "type": "integer",
+              "description": "該次選擇發生的對話輪數。"
+            },
+            "candidate_books": {
+              "type": "array",
+              "description": "該次選擇的候選書籍列表。",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "該書籍的唯一識別碼。"
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "該書籍的標題。"
+                  },
+                  "searched_at_turn": {
+                    "type": "integer",
+                    "description": "該書被搜尋到時的對話輪數。"
+                  },
+                  "selection_result": {
+                    "type": "string",
+                    "enum": ["accepted", "rejected"],
+                    "description": "使用者對該書籍的選擇結果，可能是 accepted（接受）或 rejected（拒絕）。"
+                  },
+                  "selection_reason": {
+                    "type": "string",
+                    "description": "使用者接受或拒絕該書籍的原因。"
+                  }
+                },
+                "required": ["id", "title", "searched_at_turn", "selection_result", "selection_reason"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["selection_at_turn", "candidate_books"],
+          "additionalProperties": false
+        }
+      },
+      "user_suggestion_history": {
+        "type": "array",
+        "description": "使用者已提出的建議歷史，由近到遠排列。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "suggestion_at_turn": {
+              "type": "integer",
+              "description": "該次建議發生時的對話輪數。"
+            },
+            "suggestion_text": {
+              "type": "string",
+              "description": "使用者提出的建議內容。"
+            }
+          },
+          "required": ["suggestion_at_turn", "suggestion_text"],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": ["initial_book_search_needs", "book_search_needs", "current_turn", "book_search_count", "book_search_history", "book_selection_history", "user_suggestion_history"],
+    "additionalProperties": false
+  }
+}
