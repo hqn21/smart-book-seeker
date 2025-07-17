@@ -1,1 +1,1 @@
-# smart-book-seeker-revamp
+# smart-book-seeker
