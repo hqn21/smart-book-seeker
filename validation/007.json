@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關介紹科學家費曼生平的故事",
+  "books": [
+    {
+      "id": "990058806810107976",
+      "title": "你管別人怎麼想 : 科學奇才費曼博士 = What do you care what other people think? : further adventures of a curious character"
+    },
+    {
+      "id": "990052474590107976",
+      "title": "別鬧了,費曼先生 : 科學頑童的故事 = Surely you're joking, Mr. Feynman!:adventures of a curious character"
+    },
+    {
+      "id": "990052034630107976",
+      "title": "費曼手札 : 不休止的鼓聲 = Perfectly reasonable deviations from the beaten track"
+    },
+    {
+      "id": "990072319330107976",
+      "title": "別鬧了, 費曼先生 : 科學頑童的故事 = Surely you're joking, Mr. Feynman! : Adventures of a Curious Character."
+    },
+    {
+      "id": "990058806660107976",
+      "title": "別鬧了,費曼先生 : 科學頑童的故事"
+    },
+    {
+      "id": "990071738420107976",
+      "title": "你管別人怎麼想 : 科學奇才費曼博士"
+    },
+    {
+      "id": "990063593840107976",
+      "title": "量子先生 : 費曼的科學人生"
+    },
+    {
+      "id": "990059827870107976",
+      "title": "量子先生 : 費曼的科學人生 = Quantum man : Richard Feynman's life in science"
+    },
+    {
+      "id": "990052043570107976",
+      "title": "別鬧了,費曼先生 : 科學頑童的故事"
+    },
+    {
+      "id": "990051695340107976",
+      "title": "天才費曼 : 科學與生活的探險家"
+    }
+  ]
+}

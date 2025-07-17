@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "ask_end_of_session",
+  "description": "根據與使用者的對話紀錄和 prepare_environment_snapshot 的回傳值，發現已嘗試所有可能符合使用者需求的書籍搜尋方向，因此將嘗試過的書籍搜尋方向統整好，詳細說明為何這些方向已完全涵蓋使用者的需求，詢問使用者是否結束本次會話，或者使用者能夠提供尚未嘗試的書籍搜尋方向。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "question": {
+        "type": "string",
+        "description": "詢問使用者是否結束本次會話的問題。"
+      }
+    },
+    "required": ["question"],
+    "additionalProperties": false
+  }
+}

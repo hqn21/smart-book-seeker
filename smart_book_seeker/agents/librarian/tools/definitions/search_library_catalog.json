@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "search_library_catalog",
+  "description": "根據與使用者的對話紀錄和 prepare_environment_snapshot 的回傳值，生成一個不重複的書籍查詢語句來搜尋圖書館的館藏目錄。這個查詢語句應該能夠涵蓋使用者的需求，並且盡可能地精確，以便找到符合條件的書籍。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "search_query": {
+        "type": "string",
+        "description": "生成的書籍查詢語句，用於搜尋圖書館的館藏目錄。這個語句應該能夠涵蓋使用者的需求，並且盡可能地精確，以便找到符合條件的書籍。"
+      }
+    },
+    "required": ["search_query"],
+    "additionalProperties": false
+  }
+}

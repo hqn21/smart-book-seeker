@@ -1,0 +1,21 @@
+{
+  "type": "function",
+  "name": "reject_termination_request",
+  "description": "根據與圖書館員的對話紀錄、prepare_environment_snapshot_for_termination_request_decision 提供的環境參數快照、generate_rationale_for_termination_request_decision 提供的推理結果，詳細且清楚地說明為何拒絕該終止對話請求，並提供圖書館員更多可嘗試且詳細的搜尋方向與建議。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "reason_for_rejection": {
+        "type": "string",
+        "description": "你拒絕該終止對話請求的原因。"
+      },
+      "suggestion_text": {
+        "type": "string",
+        "description": "你對圖書館員的建議，提供更多可嘗試且詳細的搜尋方向與建議。"
+      }
+    },
+    "required": ["reason_for_rejection", "suggestion_text"],
+    "additionalProperties": false
+  }
+}

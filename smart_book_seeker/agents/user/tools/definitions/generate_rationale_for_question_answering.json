@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "name": "generate_rationale_for_question_answering",
+  "description": "依據與使用者的對話紀錄、prepare_environment_snapshot_for_question_answering 提供的環境參數快照，生成對於回答圖書館員提出的問題的推理，仔細分析該問題，並詳細說明應該如何回答該問題。",
+  "strict": true,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "rationale": {
+        "type": "string",
+        "description": "推理的內容。"
+      }
+    },
+    "required": ["rationale"],
+    "additionalProperties": false
+  }
+}
