@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是學習商業微積分相關的基礎概念，並且他已具備一些微積分的基礎知識，沒有特定的應用領域",
+  "books": [
+    {
+      "id": "990052691730107976",
+      "title": "商用微積分 = Calculus for business"
+    },
+    {
+      "id": "990051193990107976",
+      "title": "商用微積分"
+    },
+    {
+      "id": "990060401900107976",
+      "title": "商用微積分"
+    },
+    {
+      "id": "990052968700107976",
+      "title": "商用微積分 = Brief calculus"
+    },
+    {
+      "id": "990052361310107976",
+      "title": "商用微積分 = Brief applied calculus"
+    },
+    {
+      "id": "990060238820107976",
+      "title": "現代商用微積分 = Modern commercial calculus"
+    },
+    {
+      "id": "990052069630107976",
+      "title": "現代商用微積分"
+    },
+    {
+      "id": "990060053120107976",
+      "title": "商用微積分 = Calculus for business"
+    },
+    {
+      "id": "990052567890107976",
+      "title": "商用微積分 = Adapted From Calculus"
+    },
+    {
+      "id": "990052684510107976",
+      "title": "商用微積分(第九版) = Applied calculus for business, economics, and the social and life science"
+    }
+  ]
+}
