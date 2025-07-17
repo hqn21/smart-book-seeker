@@ -1,5 +1,8 @@
 import json
 from typing import Any
+from smart_book_seeker.log_config import get_logger
+
+logger = get_logger(__name__)
 
 def prepare_environment_snapshot_for_book_selection(
     book_search_needs: str,
@@ -38,6 +41,7 @@ def prepare_environment_snapshot_for_book_selection(
             "candidate_books": candidate_books
         }
     }
+    logger.info(f"[prepare_environment_snapshot_for_book_selection]\n{json.dumps(environment_snapshot["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def generate_rationale_for_book_selection(
@@ -54,6 +58,7 @@ def generate_rationale_for_book_selection(
             "rationale": rationale
         }
     }
+    logger.info(f"[generate_rationale_for_book_selection]\n{json.dumps(rationale_data["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def select_books(
@@ -118,6 +123,7 @@ def select_books(
             "rejected_books": rejected_books
         }
     }
+    logger.info(f"[select_books]\n{json.dumps(selection_data["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(selection_data, ensure_ascii=False)
 
 def prepare_environment_snapshot_for_question_answering(
@@ -157,6 +163,7 @@ def prepare_environment_snapshot_for_question_answering(
             "current_books": current_books
         }
     }
+    logger.info(f"[prepare_environment_snapshot_for_question_answering]\n{json.dumps(environment_snapshot["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def generate_rationale_for_question_answering(
@@ -173,6 +180,7 @@ def generate_rationale_for_question_answering(
             "rationale": rationale
         }
     }
+    logger.info(f"[generate_rationale_for_question_answering]\n{json.dumps(rationale_data["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def answer_question(
@@ -189,6 +197,7 @@ def answer_question(
             "answer": answer
         }
     }
+    logger.info(f"[answer_question]\n{json.dumps(answer_data["value"], indent=2, ensure_ascii=False)}")
     return json.dumps(answer_data, ensure_ascii=False)
 
 def prepare_environment_snapshot_for_termination_request_decision(
@@ -350,6 +359,7 @@ def prepare_environment_snapshot_for_termination_request_decision(
             "suggestion_history": suggestion_history
         }
     }
+    logger.info(f"[prepare_environment_snapshot_for_termination_request_decision]\n{json.dumps(environment_snapshot['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def generate_rationale_for_termination_request_decision(
@@ -366,6 +376,7 @@ def generate_rationale_for_termination_request_decision(
             "rationale": rationale
         }
     }
+    logger.info(f"[generate_rationale_for_termination_request_decision]\n{json.dumps(rationale_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def accept_termination_request(
@@ -382,6 +393,7 @@ def accept_termination_request(
             "reason_for_acceptance": reason_for_acceptance
         }
     }
+    logger.info(f"[accept_termination_request]\n{json.dumps(termination_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(termination_data, ensure_ascii=False)
 
 def reject_termination_request(
@@ -404,4 +416,5 @@ def reject_termination_request(
             "suggestion_text": suggestion_text
         }
     }
+    logger.info(f"[reject_termination_request]\n{json.dumps(rejection_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(rejection_data, ensure_ascii=False)

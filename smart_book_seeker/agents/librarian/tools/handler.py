@@ -3,11 +3,10 @@ import json
 import requests
 from typing import Any
 from dotenv import load_dotenv
-
-from smart_book_seeker.models import Book
-
+from smart_book_seeker.log_config import get_logger
 load_dotenv()
 
+logger = get_logger(__name__)
 ES_API_URL = os.getenv("ES_API_URL")
 ES_API_KEY = os.getenv("ES_API_KEY")
 
@@ -147,12 +146,13 @@ def prepare_environment_snapshot(
             "user_suggestion_history": user_suggestion_history
         }
     }
+    logger.info(f"[prepare_environment_snapshot]\n{json.dumps(environment_snapshot["value"], ensure_ascii=False, indent=2)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def infer_book_search_needs(
     book_search_needs: str
 ) -> str:
-    book_search_needs = {
+    book_search_needs_data = {
         "meta": {
             "book_search_needs": {
                 "type": "string",
@@ -163,7 +163,8 @@ def infer_book_search_needs(
             "book_search_needs": book_search_needs
         }
     }
-    return json.dumps(book_search_needs, ensure_ascii=False)
+    logger.info(f"[infer_book_search_needs]\n{json.dumps(book_search_needs_data["value"], ensure_ascii=False, indent=2)}")
+    return json.dumps(book_search_needs_data, ensure_ascii=False)
 
 def generate_rationale(
     rationale: str
@@ -179,12 +180,13 @@ def generate_rationale(
             "rationale": rationale
         }
     }
+    logger.info(f"[generate_rationale]\n{json.dumps(rationale_data["value"], ensure_ascii=False, indent=2)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def ask_end_of_session(
     question: str
 ) -> str:
-    question = {
+    question_data = {
         "meta": {
             "question": {
                 "type": "string",
@@ -195,12 +197,13 @@ def ask_end_of_session(
             "question": question
         }
     }
-    return json.dumps(question, ensure_ascii=False)
+    logger.info(f"[ask_end_of_session]\n{json.dumps(question_data["value"], ensure_ascii=False, indent=2)}")
+    return json.dumps(question_data, ensure_ascii=False)
 
 def clarify_book_request(
     question: str
 ) -> str:
-    question = {
+    question_data = {
         "meta": {
             "question": {
                 "type": "string",
@@ -211,7 +214,8 @@ def clarify_book_request(
             "question": question
         }
     }
-    return json.dumps(question, ensure_ascii=False)
+    logger.info(f"[clarify_book_request]\n{json.dumps(question_data["value"], ensure_ascii=False, indent=2)}")
+    return json.dumps(question_data, ensure_ascii=False)
 
 def search_library_catalog(
     search_query: str,
@@ -262,4 +266,5 @@ def search_library_catalog(
             "found_books": found_books
         }
     }
+    logger.info(f"[search_library_catalog] 搜尋「{search_query}」\n{json.dumps(search_result["value"], ensure_ascii=False, indent=2)}")
     return json.dumps(search_result, ensure_ascii=False)
