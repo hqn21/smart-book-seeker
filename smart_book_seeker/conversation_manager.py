@@ -1,3 +1,4 @@
+import re
 import copy
 import os
 import json
@@ -78,7 +79,7 @@ class ConversationManager:
     def route(self, message: str):
         yield from self.understand_user_needs(message=message)
         if self.user_needs_agent.state == UserNeedsAgentState.IDLE:
-            book_search_needs = self.user_needs_agent_messages[-1]["content"]
+            book_search_needs = re.search(r'\[總結] (.*)', self.user_needs_agent_messages[-1]["content"]).group(1)
             self.user_needs_agent_messages = []
             logger.info("User Needs Agent 已生成需求總結，清空 User Needs Agent 的訊息歷史，並準備進行下一步操作")
             yield from self.discuss(book_search_needs=book_search_needs)
