@@ -17,7 +17,8 @@ def prepare_environment_snapshot(
     book_search_count: int,
     book_search_history: list[dict[str, Any]],
     book_selection_history: list[dict[str, Any]],
-    user_suggestion_history: list[dict[str, Any]]
+    user_suggestion_history: list[dict[str, Any]],
+    user_current_books: list[dict[str, Any]]
 ) -> str:
     environment_snapshot = {
         "meta": {
@@ -134,6 +135,27 @@ def prepare_environment_snapshot(
                         }
                     }
                 }
+            },
+            "user_current_books": {
+                "type": "array",
+                "description": "使用者當前持有的書籍列表。",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "description": "該書籍的唯一識別碼。"
+                        },
+                        "title": {
+                            "type": "string",
+                            "description": "該書籍的標題。"
+                        },
+                        "searched_at_turn": {
+                            "type": "integer",
+                            "description": "該書被搜尋到時的對話輪數。"
+                        }
+                    }
+                }
             }
         },
         "value": {
@@ -143,7 +165,8 @@ def prepare_environment_snapshot(
             "book_search_count": book_search_count,
             "book_search_history": book_search_history,
             "book_selection_history": book_selection_history,
-            "user_suggestion_history": user_suggestion_history
+            "user_suggestion_history": user_suggestion_history,
+            "user_current_books": user_current_books
         }
     }
     logger.info(f"[prepare_environment_snapshot]\n{json.dumps(environment_snapshot["value"], ensure_ascii=False, indent=2)}")

@@ -72,6 +72,7 @@ class ConversationManager:
             # Update Environment
             self.librarian_agent.environment.book_selection_history = self.user_agent.environment.book_selection_history
             self.librarian_agent.environment.user_suggestion_history = self.user_agent.environment.suggestion_history
+            self.librarian_agent.environment.user_current_books = self.user_agent.environment.current_books
         logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
 
     def route(self, message: str):

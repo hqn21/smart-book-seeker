@@ -129,9 +129,32 @@
           "required": ["suggestion_at_turn", "suggestion_text"],
           "additionalProperties": false
         }
+      },
+      "user_current_books": {
+        "type": "array",
+        "description": "使用者當前持有的書籍列表。",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "該書籍的唯一識別碼。"
+            },
+            "title": {
+              "type": "string",
+              "description": "該書籍的標題。"
+            },
+            "searched_at_turn": {
+              "type": "integer",
+              "description": "該書被搜尋到時的對話輪數。"
+            }
+          },
+          "required": ["id", "title", "searched_at_turn"],
+          "additionalProperties": false
+        }
       }
     },
-    "required": ["initial_book_search_needs", "book_search_needs", "current_turn", "book_search_count", "book_search_history", "book_selection_history", "user_suggestion_history"],
+    "required": ["initial_book_search_needs", "book_search_needs", "current_turn", "book_search_count", "book_search_history", "book_selection_history", "user_suggestion_history", "user_current_books"],
     "additionalProperties": false
   }
 }
