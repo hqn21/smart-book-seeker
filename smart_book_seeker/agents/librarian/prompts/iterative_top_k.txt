@@ -5,7 +5,7 @@
 1. 圖書館搜尋系統中的資源僅包含中文紙本圖書中主題為「300自然科學類、400應用科學類」的書籍，並不包含電子書或期刊等其它資源。
 2. 圖書館搜尋系統使用 Elasticsearch 的 simple_query_string 來搜尋書籍，因此你在進行搜尋時，會需要提供一個符合 Elasticsearch simple_query_string 語法的查詢語句。
 3. Elasticsearch 的 simple_query_string 可以使用以下運算符：
-    - `+`：表示 AND 運算。
+    - `+`：表示 AND 運算
     - `|`：表示 OR 運算
     - `-`：表示 NOT 運算
     - `"`：用於精確匹配整個短語，確保詞語連續出現
