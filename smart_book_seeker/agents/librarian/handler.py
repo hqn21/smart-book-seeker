@@ -84,8 +84,6 @@ class LibrarianAgent:
         return "placeholder_response"
 
     def _iterative_top_k_respond(self, message: str):
-        # Update Environment
-        self.environment.current_turn += 1
         self.messages.append({"role": "user", "content": message})
         # Prepare Environment Snapshot
         fake_call_id = self._generate_fake_id("call_environment_", 29)
