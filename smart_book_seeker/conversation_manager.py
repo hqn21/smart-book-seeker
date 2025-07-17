@@ -1,3 +1,4 @@
+import copy
 import os
 import json
 from typing import Literal
@@ -53,7 +54,15 @@ class ConversationManager:
             self.user_agent.environment.book_search_count = self.librarian_agent.environment.book_search_count
             self.user_agent.environment.book_search_history = self.librarian_agent.environment.book_search_history
             if self.librarian_agent.state == LibrarianAgentState.SEARCH:
-                self.user_agent.environment.candidate_books = self.user_agent.environment.current_books + self.librarian_agent.environment.book_search_history[0].found_books
+                self.user_agent.environment.candidate_books = copy.deepcopy(self.user_agent.environment.current_books)
+                for book in self.librarian_agent.environment.book_search_history[0].found_books:
+                    book_duplicated = False
+                    for candidate_book in self.user_agent.environment.candidate_books:
+                        if book.id == candidate_book.id:
+                            book_duplicated = True
+                            break
+                    if not book_duplicated:
+                        self.user_agent.environment.candidate_books.append(book)
 
             user_agent_response = self.user_agent.respond(message=librarian_agent_response, librarian_agent_state=self.librarian_agent.state)
             yield f"[User Agent] {user_agent_response}"
@@ -63,7 +72,7 @@ class ConversationManager:
             # Update Environment
             self.librarian_agent.environment.book_selection_history = self.user_agent.environment.book_selection_history
             self.librarian_agent.environment.user_suggestion_history = self.user_agent.environment.suggestion_history
-        yield f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}"
+        logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
 
     def route(self, message: str):
         yield from self.understand_user_needs(message=message)
