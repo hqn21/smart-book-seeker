@@ -170,6 +170,7 @@ class UserAgent:
                     {"type": "function", "name": "select_books"}
                 )
             )
+            logger.info(f"Book Selection Response: {response}")
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({
