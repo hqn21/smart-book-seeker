@@ -1,0 +1,41 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關透過使用Scratch來學習程式設計或是Arduino的書籍",
+  "books": [
+    {
+      "id": "990072199400107976",
+      "title": "程式設計邏輯訓練超簡單 : Scratch 3初學特訓班"
+    },
+    {
+      "id": "990060910160107976",
+      "title": "Scratch數位互動我最行"
+    },
+    {
+      "id": "990071792810107976",
+      "title": "用Scratch學程式! : 融合遊戲, 藝術, 科學, 數學的視覺化導引"
+    },
+    {
+      "id": "990063367570107976",
+      "title": "程式設計邏輯訓練超簡單 : Scratch初學特訓班"
+    },
+    {
+      "id": "990072792250107976",
+      "title": "邊玩邊學 使用Scratch學習AI程式設計"
+    },
+    {
+      "id": "990060777930107976",
+      "title": "用S4A(Scratch for Arduino)玩出科技創意大未來"
+    },
+    {
+      "id": "990063374380107976",
+      "title": "Scratch 2+S2A程式邏輯與Arduino創客訓練課"
+    },
+    {
+      "id": "990071791700107976",
+      "title": "實戰Scratch x Arduino運算思維能力養成"
+    },
+    {
+      "id": "990071791930107976",
+      "title": "S4A(Scratch For Arduino)輕鬆學 : 玩拼圖寫程式, 輕鬆進入Arduino的創意世界 = Adventure in Scratch"
+    }
+  ]
+}
