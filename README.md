@@ -1,1 +1,1 @@
-# smart-book-seeker
+# Smart Book Seeker
