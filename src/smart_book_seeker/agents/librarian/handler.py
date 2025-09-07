@@ -212,7 +212,7 @@ class LibrarianAgent:
                 search_query=args["search_query"],
                 found_books=found_books
             ))
-            reply_message = f"我根據您的需求，搜尋到以下書籍：\n{json.dumps(json.loads(tool_call_output)["value"]["found_books"], ensure_ascii=False)}"
+            reply_message = f"我根據您的需求，搜尋到以下書籍：\n{json.dumps(json.loads(tool_call_output)['value']['found_books'], ensure_ascii=False)}"
         else:
             reply_message = json.loads(tool_call_output)["value"]["question"]
         self.messages.append({

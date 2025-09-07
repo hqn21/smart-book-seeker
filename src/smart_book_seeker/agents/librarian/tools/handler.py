@@ -169,7 +169,7 @@ def prepare_environment_snapshot(
             "user_current_books": user_current_books
         }
     }
-    logger.info(f"[prepare_environment_snapshot]\n{json.dumps(environment_snapshot["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[prepare_environment_snapshot]\n{json.dumps(environment_snapshot['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def infer_book_search_needs(
@@ -186,7 +186,7 @@ def infer_book_search_needs(
             "book_search_needs": book_search_needs
         }
     }
-    logger.info(f"[infer_book_search_needs]\n{json.dumps(book_search_needs_data["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[infer_book_search_needs]\n{json.dumps(book_search_needs_data['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(book_search_needs_data, ensure_ascii=False)
 
 def generate_rationale(
@@ -203,7 +203,7 @@ def generate_rationale(
             "rationale": rationale
         }
     }
-    logger.info(f"[generate_rationale]\n{json.dumps(rationale_data["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[generate_rationale]\n{json.dumps(rationale_data['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def ask_end_of_session(
@@ -220,7 +220,7 @@ def ask_end_of_session(
             "question": question
         }
     }
-    logger.info(f"[ask_end_of_session]\n{json.dumps(question_data["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[ask_end_of_session]\n{json.dumps(question_data['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(question_data, ensure_ascii=False)
 
 def clarify_book_request(
@@ -237,7 +237,7 @@ def clarify_book_request(
             "question": question
         }
     }
-    logger.info(f"[clarify_book_request]\n{json.dumps(question_data["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[clarify_book_request]\n{json.dumps(question_data['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(question_data, ensure_ascii=False)
 
 def search_library_catalog(
@@ -289,5 +289,5 @@ def search_library_catalog(
             "found_books": found_books
         }
     }
-    logger.info(f"[search_library_catalog] 搜尋「{search_query}」\n{json.dumps(search_result["value"], ensure_ascii=False, indent=2)}")
+    logger.info(f"[search_library_catalog] 搜尋「{search_query}」\n{json.dumps(search_result['value'], ensure_ascii=False, indent=2)}")
     return json.dumps(search_result, ensure_ascii=False)

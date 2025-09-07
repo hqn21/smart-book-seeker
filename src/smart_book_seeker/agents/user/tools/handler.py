@@ -41,7 +41,7 @@ def prepare_environment_snapshot_for_book_selection(
             "candidate_books": candidate_books
         }
     }
-    logger.info(f"[prepare_environment_snapshot_for_book_selection]\n{json.dumps(environment_snapshot["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[prepare_environment_snapshot_for_book_selection]\n{json.dumps(environment_snapshot['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def generate_rationale_for_book_selection(
@@ -58,7 +58,7 @@ def generate_rationale_for_book_selection(
             "rationale": rationale
         }
     }
-    logger.info(f"[generate_rationale_for_book_selection]\n{json.dumps(rationale_data["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[generate_rationale_for_book_selection]\n{json.dumps(rationale_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def select_books(
@@ -123,7 +123,7 @@ def select_books(
             "rejected_books": rejected_books
         }
     }
-    logger.info(f"[select_books]\n{json.dumps(selection_data["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[select_books]\n{json.dumps(selection_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(selection_data, ensure_ascii=False)
 
 def prepare_environment_snapshot_for_question_answering(
@@ -163,7 +163,7 @@ def prepare_environment_snapshot_for_question_answering(
             "current_books": current_books
         }
     }
-    logger.info(f"[prepare_environment_snapshot_for_question_answering]\n{json.dumps(environment_snapshot["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[prepare_environment_snapshot_for_question_answering]\n{json.dumps(environment_snapshot['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(environment_snapshot, ensure_ascii=False)
 
 def generate_rationale_for_question_answering(
@@ -180,7 +180,7 @@ def generate_rationale_for_question_answering(
             "rationale": rationale
         }
     }
-    logger.info(f"[generate_rationale_for_question_answering]\n{json.dumps(rationale_data["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[generate_rationale_for_question_answering]\n{json.dumps(rationale_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(rationale_data, ensure_ascii=False)
 
 def answer_question(
@@ -197,7 +197,7 @@ def answer_question(
             "answer": answer
         }
     }
-    logger.info(f"[answer_question]\n{json.dumps(answer_data["value"], indent=2, ensure_ascii=False)}")
+    logger.info(f"[answer_question]\n{json.dumps(answer_data['value'], indent=2, ensure_ascii=False)}")
     return json.dumps(answer_data, ensure_ascii=False)
 
 def prepare_environment_snapshot_for_termination_request_decision(

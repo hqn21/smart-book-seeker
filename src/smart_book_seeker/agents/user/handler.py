@@ -383,7 +383,7 @@ class UserAgent:
                     suggestion_at_turn=self.environment.current_turn,
                     suggestion_text=json.loads(tool_call_output)["value"]["suggestion_text"]
                 ))
-                reply_message = f"{json.loads(tool_call_output)["value"]["reason_for_rejection"]}\n{json.loads(tool_call_output)["value"]["suggestion_text"]}"
+                reply_message = f"{json.loads(tool_call_output)['value']['reason_for_rejection']}\n{json.loads(tool_call_output)['value']['suggestion_text']}"
         self.messages.append({
             "role": "assistant",
             "content": reply_message
