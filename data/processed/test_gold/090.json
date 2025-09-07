@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關基因的分析以及相關應用的書籍",
+  "books": [
+    {
+      "id": "9973827086807976",
+      "title": "由化學建構的世界 : 鍊金術、工業革命到基因工程, 文明演化的每一步都是化學!"
+    },
+    {
+      "id": "9973787607207976",
+      "title": "隱藏的宇宙 : 生物多樣性,關於物種、基因、演化、功能和生態系統的驚奇故事"
+    },
+    {
+      "id": "9973794209907976",
+      "title": "以NLRP3發炎體抑制劑作為亨丁頓舞蹈症基因轉殖小鼠模型中神經保護的潛在治療方法 = A selective inhibitor of the NLRP3 inflammasome as a potential therapeutic approach for neuroprotection in a transgenic mouse model of Huntington's disease"
+    },
+    {
+      "id": "990051783390107976",
+      "title": "竄改基因 : 艾西莫夫科普開講"
+    },
+    {
+      "id": "990060805050107976",
+      "title": "創新科技設計 : 基因組學、機器人學與物聯網的UX設計"
+    },
+    {
+      "id": "990063371720107976",
+      "title": "機器學習 : 類神經網路、模糊系統以及基因演算法則"
+    },
+    {
+      "id": "9973837107407976",
+      "title": "細胞及基因治療白皮書 : 我們與新興醫療科技的距離 = White paper on cell and gene therapy : advancing accessibility of novel cell and gene therapies for patients"
+    },
+    {
+      "id": "9973840908407976",
+      "title": "四膜蟲使用刪除片段兩端之反向重複序列定義全基因異體染色質DNA刪除之邊界 = Setting boundaries for genome-wide heterochromatic DNA deletions through flanking inverted repeats in Tetrahymena thermophila"
+    },
+    {
+      "id": "990071374890107976",
+      "title": "超科少年 : 孟德爾 : 豌豆.遺傳學.基因 = Mendel"
+    },
+    {
+      "id": "9973825301907976",
+      "title": "額葉力 : 啟動大腦成功基因!"
+    }
+  ]
+}
