@@ -134,20 +134,22 @@ class LibrarianAgent:
         # Infer Book Search Needs [Update Environment]
         self.environment.book_search_needs = json.loads(tool_call_output)["value"]["book_search_needs"]
         # Generate Rationale
+        available_tools = [
+            self.tools["prepare_environment_snapshot"],
+            self.tools["infer_book_search_needs"],
+            self.tools["generate_rationale"],
+            self.tools["clarify_book_request"],
+            self.tools["search_library_catalog"]
+        ]
+        if len(self.environment.user_current_books) == 10:
+            available_tools.append(self.tools["ask_end_of_session"])
         response = self.client.responses.create(
             input=self.messages,
             instructions=self.system_prompt,
             model="gpt-4.1-mini",
             temperature=0.4,
             top_p=0.9,
-            tools=[
-                self.tools["prepare_environment_snapshot"],
-                self.tools["infer_book_search_needs"],
-                self.tools["generate_rationale"],
-                self.tools["ask_end_of_session"],
-                self.tools["clarify_book_request"],
-                self.tools["search_library_catalog"]
-            ],
+            tools=available_tools,
             tool_choice=cast(
                 ToolChoiceFunctionParam,
                 {"type": "function", "name": "generate_rationale"}
@@ -169,17 +171,19 @@ class LibrarianAgent:
             "output": tool_call_output
         })
         # Actions
+        available_tools = [
+            self.tools["clarify_book_request"],
+            self.tools["search_library_catalog"]
+        ]
+        if len(self.environment.user_current_books) == 10:
+            available_tools.append(self.tools["ask_end_of_session"])
         response = self.client.responses.create(
             input=self.messages,
             instructions=self.system_prompt,
             model="gpt-4.1-mini",
             temperature=0.4,
             top_p=0.9,
-            tools=[
-                self.tools["ask_end_of_session"],
-                self.tools["clarify_book_request"],
-                self.tools["search_library_catalog"]
-            ],
+            tools=available_tools,
             tool_choice="required"
         )
         tool_call = response.output[0]
