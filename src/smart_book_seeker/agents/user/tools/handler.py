@@ -129,6 +129,7 @@ def select_books(
 def prepare_environment_snapshot_for_question_answering(
     book_search_needs: str,
     current_books: list[dict[str, Any]],
+    current_books_count: int
 ) -> str:
     environment_snapshot = {
         "meta": {
@@ -156,11 +157,16 @@ def prepare_environment_snapshot_for_question_answering(
                         }
                     }
                 }
+            },
+            "current_books_count": {
+                "type": "integer",
+                "description": "你當前持有的書籍數量。"
             }
         },
         "value": {
             "book_search_needs": book_search_needs,
-            "current_books": current_books
+            "current_books": current_books,
+            "current_books_count": current_books_count
         }
     }
     logger.info(f"[prepare_environment_snapshot_for_question_answering]\n{json.dumps(environment_snapshot['value'], indent=2, ensure_ascii=False)}")
@@ -206,6 +212,7 @@ def prepare_environment_snapshot_for_termination_request_decision(
     book_search_count: int,
     termination_request_received_count: int,
     current_books: list[dict[str, Any]],
+    current_books_count: int,
     book_search_history: list[dict[str, Any]],
     book_selection_history: list[dict[str, Any]],
     suggestion_history: list[dict[str, Any]],
@@ -248,6 +255,10 @@ def prepare_environment_snapshot_for_termination_request_decision(
                         }
                     }
                 }
+            },
+            "current_books_count": {
+                "type": "integer",
+                "description": "你當前持有的書籍數量。"
             },
             "book_search_history": {
                 "type": "array",
@@ -354,6 +365,7 @@ def prepare_environment_snapshot_for_termination_request_decision(
             "book_search_count": book_search_count,
             "termination_request_received_count": termination_request_received_count,
             "current_books": current_books,
+            "current_books_count": current_books_count,
             "book_search_history": book_search_history,
             "book_selection_history": book_selection_history,
             "suggestion_history": suggestion_history

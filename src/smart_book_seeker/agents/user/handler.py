@@ -26,6 +26,7 @@ class UserAgent:
             book_search_count=0,
             termination_request_received_count=0,
             current_books=[],
+            current_books_count=0,
             book_search_history=[],
             book_selection_history=[],
             suggestion_history=[],
@@ -188,6 +189,7 @@ class UserAgent:
             })
             # Book Selection [Update Environment]
             self.environment.current_books = []
+            self.environment.current_books_count = 0
             self.environment.book_selection_history.insert(0, BookSelectionHistory(
                 selection_at_turn=self.environment.current_turn,
                 candidate_books=[]
@@ -207,6 +209,7 @@ class UserAgent:
                     selection_result="accepted",
                     selection_reason=book["reason_for_acceptance"]
                 ))
+            self.environment.current_books_count = len(self.environment.current_books)
             for book in json.loads(tool_call_output)["value"]["rejected_books"]:
                 self.environment.book_selection_history[0].candidate_books.append(CandidateBook(
                     book=Book(
@@ -222,7 +225,7 @@ class UserAgent:
         elif librarian_agent_state == LibrarianAgentState.ASK:
             # Prepare Environment Snapshot for Question Answering
             fake_call_id = self._generate_fake_id("call_environment_", 29)
-            args = {key: environment_dict[key] for key in {"book_search_needs", "current_books"} if key in environment_dict}
+            args = {key: environment_dict[key] for key in {"book_search_needs", "current_books", "current_books_count"} if key in environment_dict}
             self.messages.append({
                 "type": "function_call",
                 "call_id": fake_call_id,
@@ -302,7 +305,7 @@ class UserAgent:
         elif librarian_agent_state == LibrarianAgentState.ASK_TO_CLOSE:
             # Prepare Environment Snapshot for Termination Request Decision
             fake_call_id = self._generate_fake_id("call_environment_", 29)
-            args = {key: environment_dict[key] for key in {"book_search_needs", "current_turn", "book_search_count", "termination_request_received_count", "current_books", "book_search_history", "book_selection_history", "suggestion_history"} if key in environment_dict}
+            args = {key: environment_dict[key] for key in {"book_search_needs", "current_turn", "book_search_count", "termination_request_received_count", "current_books", "current_books_count", "book_search_history", "book_selection_history", "suggestion_history"} if key in environment_dict}
             self.messages.append({
                 "type": "function_call",
                 "call_id": fake_call_id,

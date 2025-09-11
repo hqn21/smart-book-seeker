@@ -152,9 +152,13 @@
           "required": ["id", "title", "searched_at_turn"],
           "additionalProperties": false
         }
+      },
+      "user_current_books_count": {
+        "type": "integer",
+        "description": "使用者當前持有的書籍數量。"
       }
     },
-    "required": ["initial_book_search_needs", "book_search_needs", "current_turn", "book_search_count", "book_search_history", "book_selection_history", "user_suggestion_history", "user_current_books"],
+    "required": ["initial_book_search_needs", "book_search_needs", "current_turn", "book_search_count", "book_search_history", "book_selection_history", "user_suggestion_history", "user_current_books", "user_current_books_count"],
     "additionalProperties": false
   }
 }

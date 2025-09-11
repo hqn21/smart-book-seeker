@@ -18,7 +18,8 @@ def prepare_environment_snapshot(
     book_search_history: list[dict[str, Any]],
     book_selection_history: list[dict[str, Any]],
     user_suggestion_history: list[dict[str, Any]],
-    user_current_books: list[dict[str, Any]]
+    user_current_books: list[dict[str, Any]],
+    user_current_books_count: int
 ) -> str:
     environment_snapshot = {
         "meta": {
@@ -156,6 +157,10 @@ def prepare_environment_snapshot(
                         }
                     }
                 }
+            },
+            "user_current_books_count": {
+                "type": "integer",
+                "description": "使用者當前持有的書籍數量。"
             }
         },
         "value": {
@@ -166,7 +171,8 @@ def prepare_environment_snapshot(
             "book_search_history": book_search_history,
             "book_selection_history": book_selection_history,
             "user_suggestion_history": user_suggestion_history,
-            "user_current_books": user_current_books
+            "user_current_books": user_current_books,
+            "user_current_books_count": user_current_books_count
         }
     }
     logger.info(f"[prepare_environment_snapshot]\n{json.dumps(environment_snapshot['value'], ensure_ascii=False, indent=2)}")

@@ -74,6 +74,7 @@ class ConversationManager:
             self.librarian_agent.environment.book_selection_history = self.user_agent.environment.book_selection_history
             self.librarian_agent.environment.user_suggestion_history = self.user_agent.environment.suggestion_history
             self.librarian_agent.environment.user_current_books = self.user_agent.environment.current_books
+            self.librarian_agent.environment.user_current_books_count = self.user_agent.environment.current_books_count
         logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
 
     def search_only(self, book_search_needs: str):

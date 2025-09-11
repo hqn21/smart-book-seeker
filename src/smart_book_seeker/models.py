@@ -66,6 +66,7 @@ class LibrarianAgentEnvironment:
     book_selection_history: list[BookSelectionHistory]
     user_suggestion_history: list[UserSuggestionHistory]
     user_current_books: list[Book]
+    user_current_books_count: int
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -77,6 +78,7 @@ class UserAgentEnvironment:
     book_search_count: int
     termination_request_received_count: int
     current_books: list[Book]
+    current_books_count: int
     book_search_history: list[BookSearchHistory]
     book_selection_history: list[BookSelectionHistory]
     suggestion_history: list[UserSuggestionHistory]

@@ -32,9 +32,13 @@
           "required": ["id", "title", "searched_at_turn"],
           "additionalProperties": false
         }
+      },
+      "current_books_count": {
+        "type": "integer",
+        "description": "你當前持有的書籍數量。"
       }
     },
-    "required": ["book_search_needs", "current_books"],
+    "required": ["book_search_needs", "current_books", "current_books_count"],
     "additionalProperties": false
   }
 }

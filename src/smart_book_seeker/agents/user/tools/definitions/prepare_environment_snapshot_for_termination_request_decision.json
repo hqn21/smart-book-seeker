@@ -45,6 +45,10 @@
           "additionalProperties": false
         }
       },
+      "current_books_count": {
+        "type": "integer",
+        "description": "你當前持有的書籍數量。"
+      },
       "book_search_history": {
         "type": "array",
         "description": "圖書館員已進行的書籍搜尋歷史，由近到遠排列。",
@@ -154,7 +158,7 @@
         }
       }
     },
-    "required": ["book_search_needs", "current_turn", "book_search_count", "termination_request_received_count", "current_books", "book_search_history", "book_selection_history", "suggestion_history"],
+    "required": ["book_search_needs", "current_turn", "book_search_count", "termination_request_received_count", "current_books", "current_books_count", "book_search_history", "book_selection_history", "suggestion_history"],
     "additionalProperties": false
   }
 }

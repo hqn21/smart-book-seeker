@@ -28,7 +28,8 @@ class LibrarianAgent:
             book_search_history=[],
             book_selection_history=[],
             user_suggestion_history=[],
-            user_current_books=[]
+            user_current_books=[],
+            user_current_books_count=0
         )
         self.tools = self._load_tools()
 
