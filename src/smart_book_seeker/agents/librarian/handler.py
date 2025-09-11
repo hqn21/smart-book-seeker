@@ -69,7 +69,7 @@ class LibrarianAgent:
             self.state = LibrarianAgentState.SEARCH
             args["current_turn"] = self.environment.current_turn
             return search_library_catalog(**args)
-        return None
+        raise ValueError(f"Unknown function name: {name}")
 
     @staticmethod
     def _generate_fake_id(prefix: str, length: int) -> str:

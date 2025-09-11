@@ -87,7 +87,7 @@ class UserAgent:
         if name == "reject_termination_request":
             self.state = UserAgentState.REJECT_TERMINATION
             return reject_termination_request(**args)
-        return None
+        raise ValueError(f"Unknown function name: {name}")
 
     @staticmethod
     def _generate_fake_id(prefix: str, length: int) -> str:
