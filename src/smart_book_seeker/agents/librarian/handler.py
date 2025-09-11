@@ -142,10 +142,11 @@ class LibrarianAgent:
             self.tools["infer_book_search_needs"],
             self.tools["generate_rationale"],
             self.tools["clarify_book_request"],
-            self.tools["search_library_catalog"]
+            self.tools["search_library_catalog"],
+            self.tools["ask_end_of_session"]
         ]
-        if len(self.environment.user_current_books) == 10:
-            available_tools.append(self.tools["ask_end_of_session"])
+        # if len(self.environment.user_current_books) == 10:
+        #     available_tools.append(self.tools["ask_end_of_session"])
         response = self.client.responses.create(
             input=self.messages,
             instructions=self.system_prompt,
@@ -176,10 +177,11 @@ class LibrarianAgent:
         # Actions
         available_tools = [
             self.tools["clarify_book_request"],
-            self.tools["search_library_catalog"]
+            self.tools["search_library_catalog"],
+            self.tools["ask_end_of_session"]
         ]
-        if len(self.environment.user_current_books) == 10:
-            available_tools.append(self.tools["ask_end_of_session"])
+        # if len(self.environment.user_current_books) == 10:
+        #     available_tools.append(self.tools["ask_end_of_session"])
         response = self.client.responses.create(
             input=self.messages,
             instructions=self.system_prompt,
