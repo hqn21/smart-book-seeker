@@ -14,7 +14,7 @@ load_dotenv()
 logger = get_logger(__name__)
 
 class LibrarianAgent:
-    def __init__(self, book_search_needs: str, strategy: Literal["keyword_query", "boolean_query", "iterative_top_k"]):
+    def __init__(self, book_search_needs: str, strategy: Literal["keyword_query", "boolean_query", "iterative_top_k", "search_only"]):
         with open(os.path.join(os.path.dirname(__file__), "prompts", f"{strategy}.txt")) as f:
             self.system_prompt = f.read()
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -38,6 +38,8 @@ class LibrarianAgent:
             self.respond = self._boolean_query_respond
         elif strategy == "iterative_top_k":
             self.respond = self._iterative_top_k_respond
+        elif strategy == "search_only":
+            self.respond = self._search_only
 
         logger.info("Librarian Agent 初始化完成")
 
@@ -177,6 +179,141 @@ class LibrarianAgent:
         ]
         if len(self.environment.user_current_books) == 10:
             available_tools.append(self.tools["ask_end_of_session"])
+        response = self.client.responses.create(
+            input=self.messages,
+            instructions=self.system_prompt,
+            model="gpt-4.1-mini",
+            temperature=0.4,
+            top_p=0.9,
+            tools=available_tools,
+            tool_choice="required"
+        )
+        tool_call = response.output[0]
+        args = json.loads(tool_call.arguments)
+        self.messages.append({
+            "type": "function_call",
+            "id": tool_call.id,
+            "call_id": tool_call.call_id,
+            "name": tool_call.name,
+            "arguments": json.dumps(args, ensure_ascii=False)
+        })
+        tool_call_output = self._call_function(tool_call.name, args)
+        self.messages.append({
+            "type": "function_call_output",
+            "call_id": tool_call.call_id,
+            "output": tool_call_output
+        })
+        # Action [Update Environment]
+        if tool_call.name == "search_library_catalog":
+            self.environment.book_search_count += 1
+            found_books = []
+            for book in json.loads(tool_call_output)["value"]["found_books"]:
+                found_books.append(Book(
+                    id=book["id"],
+                    title=book["title"],
+                    searched_at_turn=book["searched_at_turn"]
+                ))
+            self.environment.book_search_history.insert(0, BookSearchHistory(
+                search_at_turn=self.environment.current_turn,
+                search_query=args["search_query"],
+                found_books=found_books
+            ))
+            reply_message = f"我根據您的需求，搜尋到以下書籍：\n{json.dumps(json.loads(tool_call_output)['value']['found_books'], ensure_ascii=False)}"
+        else:
+            reply_message = json.loads(tool_call_output)["value"]["question"]
+        self.messages.append({
+            "role": "assistant",
+            "content": reply_message
+        })
+        return reply_message
+
+    def _search_only(self, message: str):
+        self.messages.append({"role": "user", "content": message})
+        # Prepare Environment Snapshot
+        fake_call_id = self._generate_fake_id("call_environment_", 29)
+        args = self.environment.to_dict()
+        self.messages.append({
+            "type": "function_call",
+            "call_id": fake_call_id,
+            "name": "prepare_environment_snapshot",
+            "arguments": json.dumps(args, ensure_ascii=False)
+        })
+        self.messages.append({
+            "type": "function_call_output",
+            "call_id": fake_call_id,
+            "output": self._call_function("prepare_environment_snapshot", args)
+        })
+        # Infer Book Search Needs
+        response = self.client.responses.create(
+            input=self.messages,
+            instructions=self.system_prompt,
+            model="gpt-4.1-mini",
+            temperature=0.4,
+            top_p=0.9,
+            tools=[
+                self.tools["prepare_environment_snapshot"],
+                self.tools["infer_book_search_needs"]
+            ],
+            tool_choice=cast(
+                ToolChoiceFunctionParam,
+                {"type": "function", "name": "infer_book_search_needs"}
+            )
+        )
+        tool_call = response.output[0]
+        args = json.loads(tool_call.arguments)
+        self.messages.append({
+            "type": "function_call",
+            "id": tool_call.id,
+            "call_id": tool_call.call_id,
+            "name": tool_call.name,
+            "arguments": json.dumps(args, ensure_ascii=False)
+        })
+        tool_call_output = self._call_function(tool_call.name, args)
+        self.messages.append({
+            "type": "function_call_output",
+            "call_id": tool_call.call_id,
+            "output": tool_call_output
+        })
+        # Infer Book Search Needs [Update Environment]
+        self.environment.book_search_needs = json.loads(tool_call_output)["value"]["book_search_needs"]
+        # Generate Rationale
+        available_tools = [
+            self.tools["prepare_environment_snapshot"],
+            self.tools["infer_book_search_needs"],
+            self.tools["generate_rationale"],
+            self.tools["search_library_catalog"]
+        ]
+        response = self.client.responses.create(
+            input=self.messages,
+            instructions=self.system_prompt,
+            model="gpt-4.1-mini",
+            temperature=0.4,
+            top_p=0.9,
+            tools=available_tools,
+            tool_choice=cast(
+                ToolChoiceFunctionParam,
+                {"type": "function", "name": "generate_rationale"}
+            )
+        )
+        tool_call = response.output[0]
+        args = json.loads(tool_call.arguments)
+        self.messages.append({
+            "type": "function_call",
+            "id": tool_call.id,
+            "call_id": tool_call.call_id,
+            "name": tool_call.name,
+            "arguments": json.dumps(args, ensure_ascii=False)
+        })
+        tool_call_output = self._call_function(tool_call.name, args)
+        self.messages.append({
+            "type": "function_call_output",
+            "call_id": tool_call.call_id,
+            "output": tool_call_output
+        })
+        # Actions
+        available_tools = [
+            self.tools["search_library_catalog"]
+        ]
         response = self.client.responses.create(
             input=self.messages,
             instructions=self.system_prompt,

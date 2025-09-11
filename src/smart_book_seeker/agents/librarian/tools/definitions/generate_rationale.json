@@ -1,7 +1,7 @@
 {
   "type": "function",
   "name": "generate_rationale",
-  "description": "生成下一步要使用 ask_end_of_session、clarify_book_request、search_library_catelog 哪一個 tool 的推理，依據 prepare_environment_snapshot 與 infer_book_search_needs 回傳值和與使用者的對話紀錄等資訊，詳細說明為何選擇這個 tool。",
+  "description": "生成下一步要使用 ask_end_of_session（若使用者當前持有的書籍列表不足 10 本書則不可使用此 tool）、clarify_book_request、search_library_catelog 哪一個 tool 的推理，依據 prepare_environment_snapshot 與 infer_book_search_needs 回傳值和與使用者的對話紀錄等資訊，詳細說明為何選擇這個 tool。",
   "strict": true,
   "parameters": {
     "type": "object",

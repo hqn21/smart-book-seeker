@@ -76,6 +76,15 @@ class ConversationManager:
             self.librarian_agent.environment.user_current_books = self.user_agent.environment.current_books
         logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
 
+    def search_only(self, book_search_needs: str):
+        self.librarian_agent = LibrarianAgent(book_search_needs=book_search_needs, strategy="search_only")
+        self.librarian_agent.environment.current_turn += 1
+        user_agent_response = self._convert_to_first_person(book_search_needs)
+        librarian_agent_response = self.librarian_agent.respond(message=user_agent_response)
+        yield f"[Librarian Agent] {librarian_agent_response}"
+        self.user_agent.environment.current_books = self.librarian_agent.environment.book_search_history[0].found_books
+        logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
+
     def route(self, message: str):
         yield from self.understand_user_needs(message=message)
         if self.user_needs_agent.state == UserNeedsAgentState.IDLE:
