@@ -15,6 +15,9 @@ logger = get_logger(__name__)
 
 class UserAgent:
     def __init__(self, book_search_needs: str, strategy: Literal["keyword_query", "boolean_query", "iterative_top_k"]):
+        self.input_tokens = 0
+        self.output_tokens = 0
+        self.total_tokens = 0
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         with open(os.path.join(os.path.dirname(__file__), "prompts", f"{strategy}.txt")) as f:
             self.system_prompt = f"# 關於對話主題\n你是一位正在與圖書館員對話的使用者。{self._convert_to_second_person(book_search_needs)}{f.read()}"
@@ -139,6 +142,9 @@ class UserAgent:
                     {"type": "function", "name": "generate_rationale_for_book_selection"}
                 )
             )
+            self.input_tokens += response.usage.input_tokens
+            self.output_tokens += response.usage.output_tokens
+            self.total_tokens += response.usage.total_tokens
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({
@@ -171,6 +177,9 @@ class UserAgent:
                     {"type": "function", "name": "select_books"}
                 )
             )
+            self.input_tokens += response.usage.input_tokens
+            self.output_tokens += response.usage.output_tokens
+            self.total_tokens += response.usage.total_tokens
             logger.info(f"Book Selection Response: {response}")
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
@@ -254,6 +263,9 @@ class UserAgent:
                     {"type": "function", "name": "generate_rationale_for_question_answering"}
                 )
             )
+            self.input_tokens = response.usage.input_tokens
+            self.output_tokens = response.usage.output_tokens
+            self.total_tokens = response.usage.total_tokens
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({
@@ -286,6 +298,9 @@ class UserAgent:
                     {"type": "function", "name": "answer_question"}
                 )
             )
+            self.input_tokens += response.usage.input_tokens
+            self.output_tokens += response.usage.output_tokens
+            self.total_tokens += response.usage.total_tokens
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({
@@ -335,6 +350,9 @@ class UserAgent:
                     {"type": "function", "name": "generate_rationale_for_termination_request_decision"}
                 )
             )
+            self.input_tokens += response.usage.input_tokens
+            self.output_tokens += response.usage.output_tokens
+            self.total_tokens += response.usage.total_tokens
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({
@@ -363,6 +381,9 @@ class UserAgent:
                 ],
                 tool_choice="required"
             )
+            self.input_tokens += response.usage.input_tokens
+            self.output_tokens += response.usage.output_tokens
+            self.total_tokens += response.usage.total_tokens
             tool_call = response.output[0]
             args = json.loads(tool_call.arguments)
             self.messages.append({

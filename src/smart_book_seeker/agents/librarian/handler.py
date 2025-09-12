@@ -15,6 +15,9 @@ logger = get_logger(__name__)
 
 class LibrarianAgent:
     def __init__(self, book_search_needs: str, strategy: Literal["keyword_query", "boolean_query", "iterative_top_k", "search_only"]):
+        self.input_tokens = 0
+        self.output_tokens = 0
+        self.total_tokens = 0
         with open(os.path.join(os.path.dirname(__file__), "prompts", f"{strategy}.txt")) as f:
             self.system_prompt = f.read()
         self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -119,6 +122,9 @@ class LibrarianAgent:
                 {"type": "function", "name": "infer_book_search_needs"}
             )
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({
@@ -159,6 +165,9 @@ class LibrarianAgent:
                 {"type": "function", "name": "generate_rationale"}
             )
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({
@@ -191,6 +200,9 @@ class LibrarianAgent:
             tools=available_tools,
             tool_choice="required"
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({
@@ -262,6 +274,9 @@ class LibrarianAgent:
                 {"type": "function", "name": "infer_book_search_needs"}
             )
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({
@@ -298,6 +313,9 @@ class LibrarianAgent:
                 {"type": "function", "name": "generate_rationale"}
             )
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({
@@ -326,6 +344,9 @@ class LibrarianAgent:
             tools=available_tools,
             tool_choice="required"
         )
+        self.input_tokens += response.usage.input_tokens
+        self.output_tokens += response.usage.output_tokens
+        self.total_tokens += response.usage.total_tokens
         tool_call = response.output[0]
         args = json.loads(tool_call.arguments)
         self.messages.append({

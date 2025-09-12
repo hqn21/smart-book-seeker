@@ -2,6 +2,7 @@ import re
 import copy
 import os
 import json
+import time
 from typing import Literal
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -21,6 +22,7 @@ class ConversationManager:
         self.librarian_agent = LibrarianAgent(book_search_needs="", strategy=strategy)
         self.user_agent = UserAgent(book_search_needs="", strategy=strategy)
         self.user_needs_agent_messages = []
+        self.last_discuss_time = 0.0
 
     def _convert_to_first_person(self, sentence: str) -> str:
         response = self.client.responses.create(
@@ -42,6 +44,7 @@ class ConversationManager:
         yield user_needs_agent_response_parsed
 
     def discuss(self, book_search_needs: str):
+        start_time = time.time()
         self.librarian_agent = LibrarianAgent(book_search_needs=book_search_needs, strategy=self.strategy)
         self.user_agent = UserAgent(book_search_needs=book_search_needs, strategy=self.strategy)
         user_agent_response = self._convert_to_first_person(book_search_needs)
@@ -75,7 +78,11 @@ class ConversationManager:
             self.librarian_agent.environment.user_suggestion_history = self.user_agent.environment.suggestion_history
             self.librarian_agent.environment.user_current_books = self.user_agent.environment.current_books
             self.librarian_agent.environment.user_current_books_count = self.user_agent.environment.current_books_count
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        self.last_discuss_time = elapsed_time
         logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
+        logger.info(f"整個對話過程花費時間：{elapsed_time:.2f} 秒")
 
     def search_only(self, book_search_needs: str):
         self.librarian_agent = LibrarianAgent(book_search_needs=book_search_needs, strategy="search_only")
