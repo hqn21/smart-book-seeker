@@ -49,6 +49,8 @@ class ConversationManager:
         self.user_agent = UserAgent(book_search_needs=book_search_needs, strategy=self.strategy)
         user_agent_response = self._convert_to_first_person(book_search_needs)
         while True:
+            if self.librarian_agent.environment.current_turn >= 30:
+                raise RuntimeError("Turn count exceeded the limit of 30.")
             self.librarian_agent.environment.current_turn += 1
             self.user_agent.environment.current_turn += 1
             librarian_agent_response = self.librarian_agent.respond(message=user_agent_response)
