@@ -85,12 +85,16 @@ class ConversationManager:
         logger.info(f"整個對話過程花費時間：{elapsed_time:.2f} 秒")
 
     def search_only(self, book_search_needs: str):
+        start_time = time.time()
         self.librarian_agent = LibrarianAgent(book_search_needs=book_search_needs, strategy="search_only")
         self.librarian_agent.environment.current_turn += 1
         user_agent_response = self._convert_to_first_person(book_search_needs)
         librarian_agent_response = self.librarian_agent.respond(message=user_agent_response)
         yield f"[Librarian Agent] {librarian_agent_response}"
         self.user_agent.environment.current_books = self.librarian_agent.environment.book_search_history[0].found_books
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        self.last_discuss_time = elapsed_time
         logger.info(f"[User Agent] 持有書籍清單：\n{json.dumps([book.to_dict() for book in self.user_agent.environment.current_books], indent=2, ensure_ascii=False)}")
 
     def route(self, message: str):
