@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Photoshop CS2來進行照片或是數位影像的編輯、處理和相關創作的書籍",
+  "books": [
+    {
+      "id": "990052134890107976",
+      "title": "Photoshop CS2完美呈現 : 數位攝影‧修片 = The Photoshop CS2 book for digital photographers"
+    },
+    {
+      "id": "990052316370107976",
+      "title": "Photoshop CS2從入門到精通"
+    },
+    {
+      "id": "990052189320107976",
+      "title": "Photoshop CS2特效講藝 = Effects design"
+    },
+    {
+      "id": "990052133950107976",
+      "title": "精彩Photoshop CS2中文版"
+    },
+    {
+      "id": "990052406100107976",
+      "title": "Photoshop CS2影像原力中文版"
+    },
+    {
+      "id": "990052187560107976",
+      "title": "突破Photoshop CS2中文版"
+    },
+    {
+      "id": "990052137560107976",
+      "title": "Photoshop CS2中文版數位影像處理寶典"
+    },
+    {
+      "id": "990052406310107976",
+      "title": "Photoshop設計師聖經 : 3D視覺.光影創作篇 = Advanced photoshop CS2 trickery & FX /"
+    },
+    {
+      "id": "990052085890107976",
+      "title": "Photoshop CS2 Workflow : 數位攝影創作流程藝術 = The Digital Photographer's Guide"
+    },
+    {
+      "id": "990060319310107976",
+      "title": "Photoshop IDEA設計館 : CS4/CS3/CS2/CS對應for Mac & Windows /"
+    },
+    {
+      "id": "990052316190107976",
+      "title": "iBook突破Photoshop CS2中文版 : SOEZ2u數位學習"
+    },
+    {
+      "id": "990052134000107976",
+      "title": "Photoshop CS2數位相片編修寶典 : 看圖學影像處理與輸出17招99式"
+    },
+    {
+      "id": "990052747680107976",
+      "title": "Photoshop解構"
+    },
+    {
+      "id": "990052316420107976",
+      "title": "PHOTOSHOP大活用"
+    },
+    {
+      "id": "990058940300107976",
+      "title": "Photoshop創意完美影像合成揭密 = Photoshop compositing secrets /"
+    }
+  ],
+  "user_input_tokens": 35993,
+  "user_output_tokens": 1425,
+  "user_total_tokens": 37418,
+  "librarian_input_tokens": 50980,
+  "librarian_output_tokens": 422,
+  "librarian_total_tokens": 51402,
+  "total_input_tokens": 86973,
+  "total_output_tokens": 1847,
+  "total_tokens": 88820,
+  "elapsed_time": 40.910988092422485,
+  "turn": 2
+}

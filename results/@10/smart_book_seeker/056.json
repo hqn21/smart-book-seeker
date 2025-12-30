@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Excel 5.0 版本的使用方法以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990050801160107976",
+      "title": "Excel 5.0 中文版"
+    },
+    {
+      "id": "990050965740107976",
+      "title": "Excel 5.0 學習及應用指南"
+    },
+    {
+      "id": "990051258910107976",
+      "title": "Excel 實力養成暨評量Excel 5.0/7.0 適用"
+    },
+    {
+      "id": "990051039230107976",
+      "title": "中文版EXCEL 5.0 實務手冊"
+    },
+    {
+      "id": "990050837710107976",
+      "title": "Excel 5.0 中文版實務入門"
+    },
+    {
+      "id": "990050834410107976",
+      "title": "Excel 5.0 統計與數量方法應用"
+    },
+    {
+      "id": "990050834430107976",
+      "title": "看圖例學Microsoft Excel 5.0 中文版"
+    },
+    {
+      "id": "990050965770107976",
+      "title": "Excel 5.0 中文版入門與應用"
+    },
+    {
+      "id": "990051642730107976",
+      "title": "看圖例學Excel 2002"
+    },
+    {
+      "id": "990051185170107976",
+      "title": "圖例解說Excel 97"
+    }
+  ],
+  "user_input_tokens": 221815,
+  "user_output_tokens": 1567,
+  "user_total_tokens": 223382,
+  "librarian_input_tokens": 1511402,
+  "librarian_output_tokens": 2596,
+  "librarian_total_tokens": 1513998,
+  "total_input_tokens": 1733217,
+  "total_output_tokens": 4163,
+  "total_tokens": 1737380,
+  "elapsed_time": 238.35089492797852,
+  "turn": 10
+}

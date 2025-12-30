@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Photoshop CS4來進行照片或是數位影像的編輯、處理和相關創作的書籍",
+  "books": [
+    {
+      "id": "990053157440107976",
+      "title": "Photoshop CS4 私房書"
+    },
+    {
+      "id": "990053161090107976",
+      "title": "跟我學 Photoshop CS4"
+    },
+    {
+      "id": "990053006020107976",
+      "title": "Photoshop CS4影像設計應用集"
+    },
+    {
+      "id": "990053158010107976",
+      "title": "Photoshop CS4 : 實力養成暨評量"
+    },
+    {
+      "id": "990052680220107976",
+      "title": "平面設計大師PhotoShop CS4/Illustrator CS4/InDesign CS4"
+    }
+  ],
+  "user_input_tokens": 21057,
+  "user_output_tokens": 833,
+  "user_total_tokens": 21890,
+  "librarian_input_tokens": 37185,
+  "librarian_output_tokens": 399,
+  "librarian_total_tokens": 37584,
+  "total_input_tokens": 58242,
+  "total_output_tokens": 1232,
+  "total_tokens": 59474,
+  "elapsed_time": 35.24661207199097,
+  "turn": 2
+}

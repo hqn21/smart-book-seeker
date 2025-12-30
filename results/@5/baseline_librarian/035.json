@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2003版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990052343260107976",
+      "title": "PowerPoint 2003動態簡報經典"
+    },
+    {
+      "id": "990052065240107976",
+      "title": "PowerPoint 2003簡報製作真EZ"
+    },
+    {
+      "id": "990052070200107976",
+      "title": "PowerPoint簡報製作高手"
+    },
+    {
+      "id": "990050812520107976",
+      "title": "PowerPoint 3.0 : 簡報輔助工具"
+    },
+    {
+      "id": "990052070210107976",
+      "title": "PowerPoint簡報範本圖庫"
+    }
+  ],
+  "input_tokens": 11589,
+  "output_tokens": 209,
+  "total_tokens": 11798,
+  "elapsed_time": 14.867673873901367
+}

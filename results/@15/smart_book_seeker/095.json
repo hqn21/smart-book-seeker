@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Clipper 5.X進行程式設計技巧的相關書籍",
+  "books": [
+    {
+      "id": "990051101940107976",
+      "title": "CLIPPER 5.X 程式設計"
+    },
+    {
+      "id": "990050835520107976",
+      "title": "Clipper 5.X 程式設計"
+    },
+    {
+      "id": "990050156890107976",
+      "title": "Clipper 5.X 程式設計指南"
+    },
+    {
+      "id": "990050834630107976",
+      "title": "CA-CLIPPER 5.X問題集"
+    },
+    {
+      "id": "990050332720107976",
+      "title": "Clipper 5.X 程式設計 : 雷射篇"
+    },
+    {
+      "id": "990050330020107976",
+      "title": "Clipper 5.X 程式設計 : 通訊篇"
+    },
+    {
+      "id": "990050332680107976",
+      "title": "Clipper 5.X 程式設計 : 繪圖篇"
+    },
+    {
+      "id": "990050332710107976",
+      "title": "Clipper 5.X 程式設計 : 進階篇"
+    },
+    {
+      "id": "990050337110107976",
+      "title": "CLIPPER 5.X 程式設計 : 壓縮篇"
+    },
+    {
+      "id": "990050306010107976",
+      "title": "CLIPPER 5.X 程式設計 : 技巧應用篇"
+    },
+    {
+      "id": "990051040490107976",
+      "title": "Clipper 5.x 程式設計實務應用"
+    },
+    {
+      "id": "990050837730107976",
+      "title": "Clipper 5.X 專業函數庫設計"
+    },
+    {
+      "id": "990050791510107976",
+      "title": "CLIPPER 5.X 資料庫語言參考手@@"
+    },
+    {
+      "id": "990050309760107976",
+      "title": "CLIPPER 最佳專輯"
+    },
+    {
+      "id": "990050113960107976",
+      "title": "CLIPPER 技術手冊"
+    }
+  ],
+  "user_input_tokens": 34757,
+  "user_output_tokens": 1442,
+  "user_total_tokens": 36199,
+  "librarian_input_tokens": 49271,
+  "librarian_output_tokens": 461,
+  "librarian_total_tokens": 49732,
+  "total_input_tokens": 84028,
+  "total_output_tokens": 1903,
+  "total_tokens": 85931,
+  "elapsed_time": 48.63913416862488,
+  "turn": 2
+}

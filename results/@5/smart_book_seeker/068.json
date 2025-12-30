@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FrontPage 2002 版本架設網站的使用介紹及操作技巧等等相關的書籍",
+  "books": [
+    {
+      "id": "990051642850107976",
+      "title": "FrontPage 2002完全實戰"
+    },
+    {
+      "id": "990051619770107976",
+      "title": "最新FrontPage 2002彩色書"
+    },
+    {
+      "id": "990051684130107976",
+      "title": "FrontPage 2002學習範本"
+    },
+    {
+      "id": "990051639430107976",
+      "title": "FrontPage 2002咁單學透透"
+    },
+    {
+      "id": "990051813330107976",
+      "title": "超完整Frontpage 2002私房教師"
+    }
+  ],
+  "user_input_tokens": 19949,
+  "user_output_tokens": 738,
+  "user_total_tokens": 20687,
+  "librarian_input_tokens": 36540,
+  "librarian_output_tokens": 454,
+  "librarian_total_tokens": 36994,
+  "total_input_tokens": 56489,
+  "total_output_tokens": 1192,
+  "total_tokens": 57681,
+  "elapsed_time": 32.04452705383301,
+  "turn": 2
+}

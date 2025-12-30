@@ -1,0 +1,28 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關各種導體的分析和應用的書籍",
+  "books": [
+    {
+      "id": "990050556600107976",
+      "title": "數學分析導引 : 方法、理論與應用"
+    },
+    {
+      "id": "990051003430107976",
+      "title": "工業電子學導讀"
+    },
+    {
+      "id": "990052631400107976",
+      "title": "太陽能電池元件導論 : 材料,元件,製程,系統 = Introduction to Solar Cell Devices"
+    }
+  ],
+  "user_input_tokens": 167296,
+  "user_output_tokens": 327,
+  "user_total_tokens": 167623,
+  "librarian_input_tokens": 7256689,
+  "librarian_output_tokens": 5575,
+  "librarian_total_tokens": 7262264,
+  "total_input_tokens": 7423985,
+  "total_output_tokens": 5902,
+  "total_tokens": 7429887,
+  "elapsed_time": 488.62420082092285,
+  "turn": 24
+}

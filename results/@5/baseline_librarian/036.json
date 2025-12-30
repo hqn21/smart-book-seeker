@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2010版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990058741120107976",
+      "title": "PowerPoint 2010簡報製作經典百例 /"
+    },
+    {
+      "id": "990059067250107976",
+      "title": "商業簡報PowerPoint 2010邁向MOS國際認證 /"
+    },
+    {
+      "id": "990052070200107976",
+      "title": "PowerPoint簡報製作高手"
+    },
+    {
+      "id": "990058742390107976",
+      "title": "跟我學PowerPoint 2010 : 將PowerPoint從個人簡報製作提升至雲端應用 /"
+    },
+    {
+      "id": "990050812520107976",
+      "title": "PowerPoint 3.0 : 簡報輔助工具"
+    }
+  ],
+  "input_tokens": 11553,
+  "output_tokens": 188,
+  "total_tokens": 11741,
+  "elapsed_time": 7.514616966247559
+}

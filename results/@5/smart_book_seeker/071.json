@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Office XP 使用實務及相關應用的書籍",
+  "books": [
+    {
+      "id": "990051689540107976",
+      "title": "精通 Office XP"
+    },
+    {
+      "id": "990051684220107976",
+      "title": "OFFICE XP入門與應用"
+    },
+    {
+      "id": "990051689530107976",
+      "title": "看圖例學 Office XP"
+    },
+    {
+      "id": "990051619750107976",
+      "title": "最新Office XP彩色書"
+    },
+    {
+      "id": "990051642780107976",
+      "title": "Office XP非常Easy"
+    }
+  ],
+  "user_input_tokens": 18975,
+  "user_output_tokens": 711,
+  "user_total_tokens": 19686,
+  "librarian_input_tokens": 35389,
+  "librarian_output_tokens": 389,
+  "librarian_total_tokens": 35778,
+  "total_input_tokens": 54364,
+  "total_output_tokens": 1100,
+  "total_tokens": 55464,
+  "elapsed_time": 35.01592493057251,
+  "turn": 2
+}

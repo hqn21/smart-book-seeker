@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 UML 進行物件導向系統分析與設計有關的書籍",
+  "books": [
+    {
+      "id": "990063583210107976",
+      "title": "UML物件導向系統分析與設計"
+    },
+    {
+      "id": "990052188950107976",
+      "title": "UML物件導向系統分析與設計 : UML 2 and the unified process"
+    },
+    {
+      "id": "990058744160107976",
+      "title": "物件導向系統分析與設計 : 使用UML"
+    },
+    {
+      "id": "990052402350107976",
+      "title": "物件導向程式設計使用Java與UML = Practical object-oriented development with UML and Java"
+    },
+    {
+      "id": "990053158390107976",
+      "title": "UML物件導向系統分析與設計"
+    },
+    {
+      "id": "990052120120107976",
+      "title": "活用UML與樣式 : 物件導向分析與設計入門 = Applying UML and patterns"
+    },
+    {
+      "id": "990059489540107976",
+      "title": "物件導向程式設計的精髓 : 使用UML工具和Java語言"
+    },
+    {
+      "id": "990063392970107976",
+      "title": "物件導向系統分析與設計 : 結合MDA與UML = Object-oriented systems analysis and design: an MDA approach with UML"
+    },
+    {
+      "id": "990051722090107976",
+      "title": "物件導向系統分析與設計 : 使用UML與C++"
+    },
+    {
+      "id": "990052402240107976",
+      "title": "UML與樣式徹底研究 : 物件導向分析與設計以及統一流程入門"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 React 在網頁前端框架開發等等的相關應用書籍",
+  "books": [
+    {
+      "id": "990072966960107976",
+      "title": "React學習指南. 建構現代的React應用 /"
+    },
+    {
+      "id": "990070955660107976",
+      "title": "React啟動與運行 /"
+    },
+    {
+      "id": "990063375730107976",
+      "title": "React Native學習手冊 /"
+    },
+    {
+      "id": "990073391630107976",
+      "title": "JavaScript無所不在 : 使用GraphQL、React、React Native和Electron建構跨平台應用程式 /"
+    },
+    {
+      "id": "990064729600107976",
+      "title": "React與Redux開發實例精解 /"
+    },
+    {
+      "id": "990072375670107976",
+      "title": "React前端開發 : 同構應用與狀態管理 /"
+    },
+    {
+      "id": "990072795450107976",
+      "title": "從Hooks開始讓你的網頁React起來 /"
+    },
+    {
+      "id": "990063376210107976",
+      "title": "新世代全端介面開發 : React.js快速上手 /"
+    },
+    {
+      "id": "990063665330107976",
+      "title": "前端開發的涅槃 : React全面昇華你的FrontEnd境界 /"
+    },
+    {
+      "id": "990072795860107976",
+      "title": "在React生態圈打滾的一年feat. TypeScript /"
+    }
+  ],
+  "input_tokens": 11531,
+  "output_tokens": 186,
+  "total_tokens": 11717,
+  "elapsed_time": 9.524924993515015
+}

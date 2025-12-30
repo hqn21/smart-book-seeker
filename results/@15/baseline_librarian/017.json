@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關透過使用Scratch來學習程式設計邏輯或是Arduino的相關書籍",
+  "books": [
+    {
+      "id": "990071791930107976",
+      "title": "S4A(Scratch For Arduino)輕鬆學 : 玩拼圖寫程式, 輕鬆進入Arduino的創意世界 = Adventure in Scratch /"
+    },
+    {
+      "id": "990071791700107976",
+      "title": "實戰Scratch x Arduino運算思維能力養成 /"
+    },
+    {
+      "id": "990060777930107976",
+      "title": "用S4A(Scratch for Arduino)玩出科技創意大未來 /"
+    },
+    {
+      "id": "990063374380107976",
+      "title": "Scratch 2+S2A程式邏輯與Arduino創客訓練課 /"
+    },
+    {
+      "id": "990060910160107976",
+      "title": "Scratch數位互動我最行 /"
+    },
+    {
+      "id": "990060769730107976",
+      "title": "Scratch 2.0動畫遊戲設計 /"
+    },
+    {
+      "id": "990072792040107976",
+      "title": "Scratch創客遊戲程式設計 /"
+    },
+    {
+      "id": "990063371360107976",
+      "title": "C++程式設計實習 : 趣玩Arduino /"
+    },
+    {
+      "id": "990063368760107976",
+      "title": "Python x Arduino物聯網整合開發實戰 /"
+    },
+    {
+      "id": "990071397370107976",
+      "title": "Prototyping Lab : 「邊做邊學」,Arduino的運用實例 /"
+    },
+    {
+      "id": "990072792250107976",
+      "title": "邊玩邊學 使用Scratch學習AI程式設計 /"
+    },
+    {
+      "id": "990071960640107976",
+      "title": "Scratch多媒體遊戲設計 & Tello無人機 /"
+    },
+    {
+      "id": "990059638410107976",
+      "title": "3D視覺專題製作 : Kinect、Processing、Arduino及MakerBot /"
+    },
+    {
+      "id": "990072794730107976",
+      "title": "Scratch 3.0多媒體遊戲設計&Tello無人機 /"
+    },
+    {
+      "id": "990063468160107976",
+      "title": "Data Science from Scratch中文版 : 用Python學資料科學 /"
+    }
+  ],
+  "input_tokens": 11572,
+  "output_tokens": 173,
+  "total_tokens": 11745,
+  "elapsed_time": 8.9756178855896
+}

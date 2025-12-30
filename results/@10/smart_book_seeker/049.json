@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2007版本的書籍",
+  "books": [
+    {
+      "id": "990052587270107976",
+      "title": "Office 2007私房書"
+    },
+    {
+      "id": "990052351880107976",
+      "title": "跟我學Microsoft Office 2007"
+    },
+    {
+      "id": "990058734580107976",
+      "title": "Office 2007學習手冊 /"
+    },
+    {
+      "id": "990052591510107976",
+      "title": "Office 2007學習手冊"
+    },
+    {
+      "id": "990052363870107976",
+      "title": "Office 2007三色學習"
+    },
+    {
+      "id": "990053172050107976",
+      "title": "Office論文寫作實務 : 以Office 2007為例"
+    },
+    {
+      "id": "990052563280107976",
+      "title": "完全制霸 : Office 2007技巧的便利貼"
+    },
+    {
+      "id": "990052504300107976",
+      "title": "Office 2007完整學習與實務應用"
+    },
+    {
+      "id": "990052937180107976",
+      "title": "Office 2007商務應用範例集 = Word.Excel.Powerpoint"
+    },
+    {
+      "id": "990059353570107976",
+      "title": "跟我學Word 2007 /"
+    }
+  ],
+  "user_input_tokens": 57730,
+  "user_output_tokens": 2257,
+  "user_total_tokens": 59987,
+  "librarian_input_tokens": 97281,
+  "librarian_output_tokens": 627,
+  "librarian_total_tokens": 97908,
+  "total_input_tokens": 155011,
+  "total_output_tokens": 2884,
+  "total_tokens": 157895,
+  "elapsed_time": 73.30738186836243,
+  "turn": 3
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關MIS的網路安全或是維護以及建置網站等相關知識的書籍",
+  "books": [
+    {
+      "id": "990063583280107976",
+      "title": "MIS的安全防禦 : Linux系統與網路安全 : 175個實務技巧觀念　Step by step快速實作 : 提供實務技術 立即做到網路環境的安全維護 /"
+    },
+    {
+      "id": "990059688070107976",
+      "title": "MIS的網管心得日記 : 面試、溝通、管理與維護 /"
+    },
+    {
+      "id": "990052563430107976",
+      "title": "MIS網路管理的工具箱"
+    },
+    {
+      "id": "990052329640107976",
+      "title": "MIS網管聖經"
+    },
+    {
+      "id": "990052726220107976",
+      "title": "MIS網管實戰工具大全"
+    }
+  ],
+  "user_input_tokens": 21227,
+  "user_output_tokens": 766,
+  "user_total_tokens": 21993,
+  "librarian_input_tokens": 37600,
+  "librarian_output_tokens": 409,
+  "librarian_total_tokens": 38009,
+  "total_input_tokens": 58827,
+  "total_output_tokens": 1175,
+  "total_tokens": 60002,
+  "elapsed_time": 32.37179732322693,
+  "turn": 2
+}

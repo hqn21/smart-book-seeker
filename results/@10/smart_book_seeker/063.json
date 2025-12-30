@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹書籍 Windows 系統重灌、備份和維護等等相關書籍",
+  "books": [
+    {
+      "id": "990051546800107976",
+      "title": "電腦大復活 : Windows完全重灌術"
+    },
+    {
+      "id": "990051809470107976",
+      "title": "Windows系統重灌、軟體移除、效能調校"
+    },
+    {
+      "id": "990060770030107976",
+      "title": "Windows重灌x維修寶典專業版 /"
+    },
+    {
+      "id": "990051783030107976",
+      "title": "Windows自動重灌機器人 : 一種簡單、安心、快速的電腦重灌法"
+    },
+    {
+      "id": "990059690360107976",
+      "title": "Windows 8重灌優化改造頂級攻略 /"
+    },
+    {
+      "id": "990052405680107976",
+      "title": "Windows系統重灌.軟體移除.效能調校 : vista/XP全適用 /"
+    },
+    {
+      "id": "990051974090107976",
+      "title": "Windows XP 系統重灌、軟體移除、效能調校 SP2 全適用"
+    },
+    {
+      "id": "990059067160107976",
+      "title": "Windows 7完美重灌術 : 資料備份.轉移輕鬆做 = Making computers better & faster /"
+    },
+    {
+      "id": "990053161330107976",
+      "title": "Windows重灌 : 電腦回春.資料備份.效能調校.疑難排除 = Making computers better & faster"
+    },
+    {
+      "id": "990053036490107976",
+      "title": "Windows7超in用 : 資料搶救、系統重灌、資料轉移、功能拓展、效能提昇"
+    }
+  ],
+  "user_input_tokens": 42227,
+  "user_output_tokens": 1207,
+  "user_total_tokens": 43434,
+  "librarian_input_tokens": 100931,
+  "librarian_output_tokens": 924,
+  "librarian_total_tokens": 101855,
+  "total_input_tokens": 143158,
+  "total_output_tokens": 2131,
+  "total_tokens": 145289,
+  "elapsed_time": 69.64616584777832,
+  "turn": 4
+}

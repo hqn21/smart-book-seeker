@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關RFID的概念與應用的書籍",
+  "books": [
+    {
+      "id": "990052567810107976",
+      "title": "RFID工程概論 = Introduction to RFID Engineering"
+    },
+    {
+      "id": "990053006220107976",
+      "title": "RFID概論與應用"
+    },
+    {
+      "id": "990051974750107976",
+      "title": "RFID技術與應用"
+    },
+    {
+      "id": "990071794640107976",
+      "title": "RFID概論與應用 /"
+    },
+    {
+      "id": "990058740240107976",
+      "title": "RFID原理、應用與實務 /"
+    },
+    {
+      "id": "990052941050107976",
+      "title": "RFID通訊網路與應用"
+    },
+    {
+      "id": "990052393520107976",
+      "title": "應用無線射頻辨識(RFID)技術之商機探討 = Business Opportunities of RFID Applications"
+    },
+    {
+      "id": "990052356630107976",
+      "title": "RFID手冊 : 無線智慧卡與識別卡之基礎與應用 = RFID-HANDBUCH 3.AUFLAGE"
+    },
+    {
+      "id": "990052981090107976",
+      "title": "RFID應用趨勢及驗證實務"
+    },
+    {
+      "id": "990051990280107976",
+      "title": "RFID EPC無線射頻辨識完全剖析"
+    },
+    {
+      "id": "990052567800107976",
+      "title": "RFID資訊系統開發與應用"
+    },
+    {
+      "id": "990053158260107976",
+      "title": "無線射頻辨識（RFID）原理與應用"
+    },
+    {
+      "id": "990053140120107976",
+      "title": "RFID資訊系統設計與應用開發"
+    },
+    {
+      "id": "990052567820107976",
+      "title": "RFID無線射頻辨別系統 = Radio Frequency Identification"
+    },
+    {
+      "id": "990059177940107976",
+      "title": "RFID晶片設計 /"
+    }
+  ],
+  "user_input_tokens": 33973,
+  "user_output_tokens": 1324,
+  "user_total_tokens": 35297,
+  "librarian_input_tokens": 49302,
+  "librarian_output_tokens": 379,
+  "librarian_total_tokens": 49681,
+  "total_input_tokens": 83275,
+  "total_output_tokens": 1703,
+  "total_tokens": 84978,
+  "elapsed_time": 35.6852490901947,
+  "turn": 2
+}

@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找如何使用Access 2003來學習資料庫的建置與管理等等相關書籍",
+  "books": [
+    {
+      "id": "990052016140107976",
+      "title": "精通Access 2003資料庫建置與管理"
+    },
+    {
+      "id": "990052176980107976",
+      "title": "Access 2003資料庫管理實務"
+    },
+    {
+      "id": "990051939610107976",
+      "title": "Access 2003 Visual Basic資料庫系統程式設計經典"
+    },
+    {
+      "id": "990051450530107976",
+      "title": "Access資料庫管理與應用"
+    },
+    {
+      "id": "990058939910107976",
+      "title": "Access資料庫實務應用技巧 /"
+    },
+    {
+      "id": "990060238410107976",
+      "title": "資料庫設計與應用Access /"
+    },
+    {
+      "id": "990060770230107976",
+      "title": "資料庫管理與實務應用 : 使用Access 2013 /"
+    },
+    {
+      "id": "990072794690107976",
+      "title": "Access 2019嚴選教材!資料庫建立.管理.應用 /"
+    },
+    {
+      "id": "9973823807807976",
+      "title": "Access 2021嚴選教材! : 資料庫建立.管理.應用 /"
+    },
+    {
+      "id": "990051250000107976",
+      "title": "Access 97 資料庫管理系統入門與應用"
+    }
+  ],
+  "user_input_tokens": 38606,
+  "user_output_tokens": 1418,
+  "user_total_tokens": 40024,
+  "librarian_input_tokens": 71919,
+  "librarian_output_tokens": 727,
+  "librarian_total_tokens": 72646,
+  "total_input_tokens": 110525,
+  "total_output_tokens": 2145,
+  "total_tokens": 112670,
+  "elapsed_time": 63.22043323516846,
+  "turn": 3
+}

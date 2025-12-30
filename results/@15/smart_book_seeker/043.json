@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS6進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990063682060107976",
+      "title": "電腦繪圖設計認證指南 : Illustrator CS6 /"
+    },
+    {
+      "id": "990060307900107976",
+      "title": "Illustrator CS6 : 繪圖創意魔法 /"
+    },
+    {
+      "id": "990059751390107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS6 /"
+    },
+    {
+      "id": "990059689030107976",
+      "title": "美工繪圖Illustrator CS6一切搞定 /"
+    },
+    {
+      "id": "990060771110107976",
+      "title": "跟我學Illustrator CS6 : 一定要會的美工繪圖技巧! /"
+    },
+    {
+      "id": "990059638650107976",
+      "title": "Illustrator CS6設計幫幫忙 : 解決現場問題的速查即效事典 /"
+    },
+    {
+      "id": "990051876800107976",
+      "title": "Adobe Illustrator繪圖演譯"
+    },
+    {
+      "id": "990073175280107976",
+      "title": "Illustrator向量圖形設計 /"
+    },
+    {
+      "id": "990052022810107976",
+      "title": "Illustrator CS繪圖新視野"
+    },
+    {
+      "id": "9973823804607976",
+      "title": "Illustrator x ChatGPT向量圖形設計 /"
+    },
+    {
+      "id": "990072794490107976",
+      "title": "跟我學Illustrator CC一定要會的美工繪圖技巧 : 適用CC/CS6 /"
+    },
+    {
+      "id": "990052182790107976",
+      "title": "玩翻天illustrator插畫圖褲"
+    },
+    {
+      "id": "990052067600107976",
+      "title": "Illustrator插畫實務應用"
+    },
+    {
+      "id": "990052728330107976",
+      "title": "插畫.創意設計與數位完稿的Illustrator活用技巧"
+    },
+    {
+      "id": "990060319260107976",
+      "title": "不小心就學會Illustrator : 學插畫這一本最簡單! = Illustrator training book /"
+    }
+  ],
+  "user_input_tokens": 264267,
+  "user_output_tokens": 7319,
+  "user_total_tokens": 271586,
+  "librarian_input_tokens": 590215,
+  "librarian_output_tokens": 1293,
+  "librarian_total_tokens": 591508,
+  "total_input_tokens": 854482,
+  "total_output_tokens": 8612,
+  "total_tokens": 863094,
+  "elapsed_time": 177.9627149105072,
+  "turn": 6
+}

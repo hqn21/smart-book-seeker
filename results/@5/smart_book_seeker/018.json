@@ -1,0 +1,24 @@
+{
+  "user_book_needs": "使用者的目標是尋找和火星有關的秘密以及人類殖民、移民或是登陸火星相關的計畫或是書籍",
+  "books": [
+    {
+      "id": "990051395330107976",
+      "title": "移民火星 : 紅色星球征服計畫"
+    },
+    {
+      "id": "990071962260107976",
+      "title": "離開太陽系 : 移民火星, 超人類誕生到星際旅行, 探索物理學家眼中的未來世界 /"
+    }
+  ],
+  "user_input_tokens": 71123,
+  "user_output_tokens": 827,
+  "user_total_tokens": 71950,
+  "librarian_input_tokens": 327817,
+  "librarian_output_tokens": 1674,
+  "librarian_total_tokens": 329491,
+  "total_input_tokens": 398940,
+  "total_output_tokens": 2501,
+  "total_tokens": 401441,
+  "elapsed_time": 116.03085017204285,
+  "turn": 7
+}

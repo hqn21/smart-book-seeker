@@ -1,0 +1,20 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Unity來設計遊戲的教學書籍",
+  "books": [
+    {
+      "id": "990053005660107976",
+      "title": "Unity 3D遊戲開發設計學院 : 第一本針對Unity介紹的中文書籍"
+    }
+  ],
+  "user_input_tokens": 81599,
+  "user_output_tokens": 1477,
+  "user_total_tokens": 83076,
+  "librarian_input_tokens": 219423,
+  "librarian_output_tokens": 1204,
+  "librarian_total_tokens": 220627,
+  "total_input_tokens": 301022,
+  "total_output_tokens": 2681,
+  "total_tokens": 303703,
+  "elapsed_time": 91.27469301223755,
+  "turn": 5
+}

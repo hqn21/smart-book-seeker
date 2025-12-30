@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Raspberry Pi入門開發的應用相關的書籍",
+  "books": [
+    {
+      "id": "990059751200107976",
+      "title": "Raspberry Pi使用者手冊 = Raspberry Pi user guide /"
+    },
+    {
+      "id": "990073709150107976",
+      "title": "Raspberry Pi 4 最佳入門與實戰應用, 3/e : 適用Raspberry Pi 2/Raspberry Pi 3 /"
+    },
+    {
+      "id": "990059638100107976",
+      "title": "Raspberry Pi快速上手指南 /"
+    },
+    {
+      "id": "990071800360107976",
+      "title": "Raspberry Pi專案實作大全 /"
+    },
+    {
+      "id": "990071374420107976",
+      "title": "Raspberry Pi輕鬆上手指南 /"
+    },
+    {
+      "id": "990063587800107976",
+      "title": "Raspberry Pi最佳入門與實戰應用 /"
+    },
+    {
+      "id": "990070943430107976",
+      "title": "Raspberry Pi樹莓派從不懂,到玩上手! /"
+    },
+    {
+      "id": "990060770160107976",
+      "title": "Raspberry Pi超炫專案與完全實戰 : 深入Raspberry Pi的全面開發經典 /"
+    },
+    {
+      "id": "990071374410107976",
+      "title": "Raspberry Pi超炫專案與完全實戰 /"
+    },
+    {
+      "id": "990070942810107976",
+      "title": "打造Web物聯網 : 使用Node.js與Raspberry Pi /"
+    },
+    {
+      "id": "990073175230107976",
+      "title": "Raspberry Pi樹莓派 : Python x AI超應用聖經 /"
+    },
+    {
+      "id": "990063468260107976",
+      "title": "Windows 10 IOT物聯網入門與實戰 : 使用Raspberry Pi /"
+    },
+    {
+      "id": "9973823806207976",
+      "title": "Raspberry Pi錦囊妙計 : 軟硬體問題與解決方案 /"
+    },
+    {
+      "id": "990072411260107976",
+      "title": "Python玩轉樹莓派GPIO控制 = Raspberry Pi's GPIO control using Python language /"
+    },
+    {
+      "id": "990071800350107976",
+      "title": "實戰ROS機器人自作 : 使用Raspberry Pi = Robot operating system /"
+    }
+  ],
+  "user_input_tokens": 37311,
+  "user_output_tokens": 1657,
+  "user_total_tokens": 38968,
+  "librarian_input_tokens": 50767,
+  "librarian_output_tokens": 427,
+  "librarian_total_tokens": 51194,
+  "total_input_tokens": 88078,
+  "total_output_tokens": 2084,
+  "total_tokens": 90162,
+  "elapsed_time": 45.34587597846985,
+  "turn": 2
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找關於燃料電池的原理、未來發展和應用等等的相關書籍",
+  "books": [
+    {
+      "id": "990058714110107976",
+      "title": "燃料電池原理、量測與建模 : Fuel cell /"
+    },
+    {
+      "id": "990051380830107976",
+      "title": "燃料電池論文集"
+    },
+    {
+      "id": "990052679440107976",
+      "title": "燃料電池"
+    },
+    {
+      "id": "990052242700107976",
+      "title": "燃料電池 = Fuel cell"
+    },
+    {
+      "id": "990064726560107976",
+      "title": "燃料電池 /"
+    }
+  ],
+  "user_input_tokens": 19755,
+  "user_output_tokens": 775,
+  "user_total_tokens": 20530,
+  "librarian_input_tokens": 35823,
+  "librarian_output_tokens": 373,
+  "librarian_total_tokens": 36196,
+  "total_input_tokens": 55578,
+  "total_output_tokens": 1148,
+  "total_tokens": 56726,
+  "elapsed_time": 31.8370680809021,
+  "turn": 2
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS3來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990052688320107976",
+      "title": "學會動畫製作Flash CS3"
+    },
+    {
+      "id": "990052527310107976",
+      "title": "Flash CS3商業動畫製作與網頁設計實務"
+    },
+    {
+      "id": "990052587380107976",
+      "title": "Flash ActionScript 3.0動畫製作大師"
+    },
+    {
+      "id": "990052759120107976",
+      "title": "動畫製作 : Flash"
+    },
+    {
+      "id": "990052587060107976",
+      "title": "速習!Flash CS3做網頁動畫"
+    }
+  ],
+  "user_input_tokens": 40556,
+  "user_output_tokens": 1508,
+  "user_total_tokens": 42064,
+  "librarian_input_tokens": 78009,
+  "librarian_output_tokens": 639,
+  "librarian_total_tokens": 78648,
+  "total_input_tokens": 118565,
+  "total_output_tokens": 2147,
+  "total_tokens": 120712,
+  "elapsed_time": 56.02134823799133,
+  "turn": 3
+}

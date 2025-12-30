@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2010版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990058742390107976",
+      "title": "跟我學PowerPoint 2010 : 將PowerPoint從個人簡報製作提升至雲端應用 /"
+    },
+    {
+      "id": "990058741120107976",
+      "title": "PowerPoint 2010簡報製作經典百例 /"
+    },
+    {
+      "id": "990059067250107976",
+      "title": "商業簡報PowerPoint 2010邁向MOS國際認證 /"
+    },
+    {
+      "id": "990058741990107976",
+      "title": "PowerPoint 2010高效實用範例必修16課 /"
+    },
+    {
+      "id": "990052070210107976",
+      "title": "PowerPoint簡報範本圖庫"
+    },
+    {
+      "id": "990052070200107976",
+      "title": "PowerPoint簡報製作高手"
+    },
+    {
+      "id": "990059638710107976",
+      "title": "精彩PowerPoint製作完美簡報 /"
+    },
+    {
+      "id": "990060319270107976",
+      "title": "有聲有影的PowerPoint動態簡報設計 : 活用華麗的動態設計功能,表現出您的簡報聚焦力 /"
+    },
+    {
+      "id": "990060376340107976",
+      "title": "PowerPoint職場首選1000例 : 剪貼直接用,讓簡報圖表動起來的範本大集合 /"
+    },
+    {
+      "id": "990071960460107976",
+      "title": "會動的PowerPoint職場簡報2000例 : 剪貼就能用, 讓內容變生動的範本素材大集合 /"
+    },
+    {
+      "id": "9973824009807976",
+      "title": "輕鬆搞定商業簡報製作 : PowerPoint /"
+    },
+    {
+      "id": "990052065440107976",
+      "title": "輕鬆學PowerPoint簡報設計"
+    },
+    {
+      "id": "990058741120107976",
+      "title": "PowerPoint 2010簡報製作經典百例 /"
+    },
+    {
+      "id": "990052070200107976",
+      "title": "PowerPoint簡報製作高手"
+    },
+    {
+      "id": "990052070210107976",
+      "title": "PowerPoint簡報範本圖庫"
+    }
+  ],
+  "user_input_tokens": 125289,
+  "user_output_tokens": 1915,
+  "user_total_tokens": 127204,
+  "librarian_input_tokens": 470818,
+  "librarian_output_tokens": 1913,
+  "librarian_total_tokens": 472731,
+  "total_input_tokens": 596107,
+  "total_output_tokens": 3828,
+  "total_tokens": 599935,
+  "elapsed_time": 155.44633865356445,
+  "turn": 9
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Word 2007版本的使用方式及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990052351880107976",
+      "title": "跟我學Microsoft Office 2007"
+    },
+    {
+      "id": "990058734580107976",
+      "title": "Office 2007學習手冊 /"
+    },
+    {
+      "id": "990052591510107976",
+      "title": "Office 2007學習手冊"
+    },
+    {
+      "id": "990052363870107976",
+      "title": "Office 2007三色學習"
+    },
+    {
+      "id": "990052504300107976",
+      "title": "Office 2007完整學習與實務應用"
+    }
+  ],
+  "user_input_tokens": 57771,
+  "user_output_tokens": 1005,
+  "user_total_tokens": 58776,
+  "librarian_input_tokens": 236064,
+  "librarian_output_tokens": 1384,
+  "librarian_total_tokens": 237448,
+  "total_input_tokens": 293835,
+  "total_output_tokens": 2389,
+  "total_tokens": 296224,
+  "elapsed_time": 87.95354199409485,
+  "turn": 6
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2010版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990058741040107976",
+      "title": "PowerPoint 2010 /"
+    },
+    {
+      "id": "990058742610107976",
+      "title": "Microsoft PowerPoint 2010超Easy /"
+    },
+    {
+      "id": "990059034490107976",
+      "title": "PowerPoint 2010輕鬆學 /"
+    },
+    {
+      "id": "990058742520107976",
+      "title": "Microsoft PowerPoint 2010使用手冊 /"
+    },
+    {
+      "id": "990058786480107976",
+      "title": "PowerPoint 2010精選敎材隨手翻 /"
+    }
+  ],
+  "user_input_tokens": 19937,
+  "user_output_tokens": 729,
+  "user_total_tokens": 20666,
+  "librarian_input_tokens": 35957,
+  "librarian_output_tokens": 374,
+  "librarian_total_tokens": 36331,
+  "total_input_tokens": 55894,
+  "total_output_tokens": 1103,
+  "total_tokens": 56997,
+  "elapsed_time": 31.594393014907837,
+  "turn": 2
+}

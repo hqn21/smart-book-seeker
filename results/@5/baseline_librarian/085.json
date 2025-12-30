@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Lotus 1-2-3的應用以及基本操作的書籍",
+  "books": [
+    {
+      "id": "990050489430107976",
+      "title": "LOTUS 1-2-3 初步"
+    },
+    {
+      "id": "990050332780107976",
+      "title": "LOTUS 1-2-3 FOR WINDOWS"
+    },
+    {
+      "id": "990050780880107976",
+      "title": "Lotus 1-2-3 入門 : Lotus 教您Lotus123"
+    },
+    {
+      "id": "990050019200107976",
+      "title": "LOTUS 1-2-3 命令指南"
+    },
+    {
+      "id": "990050057750107976",
+      "title": "Lotus 1-2-3 巨集技巧"
+    }
+  ],
+  "input_tokens": 11580,
+  "output_tokens": 200,
+  "total_tokens": 11780,
+  "elapsed_time": 6.872956991195679
+}

@@ -1,0 +1,40 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Mandrake Linux 9以上的架站及相關系統知識的書籍",
+  "books": [
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990052016210107976",
+      "title": "Mandrake Linux 10.1實務架站"
+    },
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990052016210107976",
+      "title": "Mandrake Linux 10.1實務架站"
+    }
+  ],
+  "user_input_tokens": 74167,
+  "user_output_tokens": 2642,
+  "user_total_tokens": 76809,
+  "librarian_input_tokens": 148221,
+  "librarian_output_tokens": 965,
+  "librarian_total_tokens": 149186,
+  "total_input_tokens": 222388,
+  "total_output_tokens": 3607,
+  "total_tokens": 225995,
+  "elapsed_time": 87.11558103561401,
+  "turn": 4
+}

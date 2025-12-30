@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找關於燃料電池的原理、未來發展和應用等等的相關書籍",
+  "books": [
+    {
+      "id": "990052679440107976",
+      "title": "燃料電池"
+    },
+    {
+      "id": "990064726560107976",
+      "title": "燃料電池 /"
+    },
+    {
+      "id": "990051380830107976",
+      "title": "燃料電池論文集"
+    },
+    {
+      "id": "990052242700107976",
+      "title": "燃料電池 = Fuel cell"
+    },
+    {
+      "id": "990052958880107976",
+      "title": "燃料電池基礎 = Fuel cell fundamentals"
+    },
+    {
+      "id": "990052331150107976",
+      "title": "燃料電池實驗教材"
+    },
+    {
+      "id": "990050449850107976",
+      "title": "太陽‧光與燃料電池"
+    },
+    {
+      "id": "990059031900107976",
+      "title": "燃料電池 : 新世紀能源 /"
+    },
+    {
+      "id": "990050449860107976",
+      "title": "燃料電池 : 未來的動力"
+    },
+    {
+      "id": "990052329420107976",
+      "title": "燃料電池 : 原理與應用 = Fuel cells:the principles and applications"
+    }
+  ],
+  "user_input_tokens": 56926,
+  "user_output_tokens": 2161,
+  "user_total_tokens": 59087,
+  "librarian_input_tokens": 97510,
+  "librarian_output_tokens": 566,
+  "librarian_total_tokens": 98076,
+  "total_input_tokens": 154436,
+  "total_output_tokens": 2727,
+  "total_tokens": 157163,
+  "elapsed_time": 71.68049478530884,
+  "turn": 3
+}

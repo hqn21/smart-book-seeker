@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關度量衡的介紹以及相關的應用書籍",
+  "books": [
+    {
+      "id": "990050448720107976",
+      "title": "度量衡學"
+    },
+    {
+      "id": "990050937380107976",
+      "title": "度量衡與公制"
+    },
+    {
+      "id": "990050937400107976",
+      "title": "度量衡與您"
+    },
+    {
+      "id": "990051054830107976",
+      "title": "認識度量衡"
+    },
+    {
+      "id": "990050448700107976",
+      "title": "度量衡考"
+    }
+  ],
+  "user_input_tokens": 19601,
+  "user_output_tokens": 772,
+  "user_total_tokens": 20373,
+  "librarian_input_tokens": 35609,
+  "librarian_output_tokens": 388,
+  "librarian_total_tokens": 35997,
+  "total_input_tokens": 55210,
+  "total_output_tokens": 1160,
+  "total_tokens": 56370,
+  "elapsed_time": 31.768473148345947,
+  "turn": 2
+}

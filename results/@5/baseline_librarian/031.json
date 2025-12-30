@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Visual FoxPro程式的入門及進階應用的書籍",
+  "books": [
+    {
+      "id": "990051314850107976",
+      "title": "Visual FoxPro 6.0 入門指引"
+    },
+    {
+      "id": "990051007150107976",
+      "title": "VISUAL FOXPRO 3 實務設計"
+    },
+    {
+      "id": "990050996580107976",
+      "title": "Visual FoxPro 程式設計寶典"
+    },
+    {
+      "id": "990051007250107976",
+      "title": "Visual FoxPro 3.0 入門與應用"
+    },
+    {
+      "id": "990051041160107976",
+      "title": "Visual FoxPro 實務導引入門手冊"
+    }
+  ],
+  "input_tokens": 11512,
+  "output_tokens": 192,
+  "total_tokens": 11704,
+  "elapsed_time": 7.420920133590698
+}

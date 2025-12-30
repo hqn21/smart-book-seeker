@@ -1,0 +1,32 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關介紹科學家費曼生平的故事，偏好以輕鬆有趣的說法來述說故事的書籍",
+  "books": [
+    {
+      "id": "990059860570107976",
+      "title": "漫畫費曼 : Feyman /"
+    },
+    {
+      "id": "990063593840107976",
+      "title": "量子先生 : 費曼的科學人生 /"
+    },
+    {
+      "id": "990051606430107976",
+      "title": "費曼的主張"
+    },
+    {
+      "id": "9973825401007976",
+      "title": "費曼的科學精神 : 知識份子的謙卑 / 理查.費曼(Richard P. Feynman)著 ; 吳程遠譯."
+    }
+  ],
+  "user_input_tokens": 146002,
+  "user_output_tokens": 4032,
+  "user_total_tokens": 150034,
+  "librarian_input_tokens": 314434,
+  "librarian_output_tokens": 1120,
+  "librarian_total_tokens": 315554,
+  "total_input_tokens": 460436,
+  "total_output_tokens": 5152,
+  "total_tokens": 465588,
+  "elapsed_time": 145.08649921417236,
+  "turn": 5
+}

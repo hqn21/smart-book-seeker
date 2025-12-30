@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關霍金的故事以及相關理論的書籍",
+  "books": [
+    {
+      "id": "990051659340107976",
+      "title": "霍金與上帝之心"
+    },
+    {
+      "id": "990051199790107976",
+      "title": "霍金宇宙新論 /"
+    },
+    {
+      "id": "990051282400107976",
+      "title": "霍金陪你漫遊宇宙 /"
+    },
+    {
+      "id": "990051597320107976",
+      "title": "霍金與最終理論的追尋"
+    },
+    {
+      "id": "990058658040107976",
+      "title": "霍金構思的宇宙 Into the universe with Stephen Hawking : the story of everything /"
+    },
+    {
+      "id": "990051406410107976",
+      "title": "時間的奧秘 : 從時間隧道到霍金"
+    },
+    {
+      "id": "990071716080107976",
+      "title": "這世界難捉摸 : 霍金也想懂的95%未知宇宙 /"
+    },
+    {
+      "id": "990053169820107976",
+      "title": "霍金的宇宙大探索 : 穿梭時空 = Into the universe with Stephen Hawking : Time Travel"
+    },
+    {
+      "id": "990053169830107976",
+      "title": "霍金的宇宙大探索 : 接觸外星人 = Into the universe with Stephen Hawking: Aliens"
+    },
+    {
+      "id": "990071962250107976",
+      "title": "霍金大見解 : 留給世人的十個大哉問與解答 /"
+    }
+  ],
+  "user_input_tokens": 28791,
+  "user_output_tokens": 1193,
+  "user_total_tokens": 29984,
+  "librarian_input_tokens": 43257,
+  "librarian_output_tokens": 377,
+  "librarian_total_tokens": 43634,
+  "total_input_tokens": 72048,
+  "total_output_tokens": 1570,
+  "total_tokens": 73618,
+  "elapsed_time": 42.40264582633972,
+  "turn": 2
+}

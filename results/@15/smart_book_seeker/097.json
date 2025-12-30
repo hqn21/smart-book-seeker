@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關生命遺傳的相關書籍",
+  "books": [
+    {
+      "id": "990052750470107976",
+      "title": "特集,生命の科學 : 遺傳子操作"
+    },
+    {
+      "id": "990052769670107976",
+      "title": "遺傳子の發現と制御"
+    },
+    {
+      "id": "990071374890107976",
+      "title": "超科少年 : 孟德爾 : 豌豆.遺傳學.基因 = Mendel /"
+    },
+    {
+      "id": "990052948910107976",
+      "title": "遺傳子と遺傳子工學"
+    },
+    {
+      "id": "9973832009807976",
+      "title": "細胞と遺傳 /"
+    },
+    {
+      "id": "990073260780107976",
+      "title": "Why?遺傳與血型 /"
+    },
+    {
+      "id": "990050734070107976",
+      "title": "遺傳、家庭與社會"
+    },
+    {
+      "id": "990051115840107976",
+      "title": "輻射對遺傳的影響"
+    },
+    {
+      "id": "990052769620107976",
+      "title": "ガン遺傳子の解明"
+    },
+    {
+      "id": "990052750650107976",
+      "title": "特集,醫學生物學 : 遺傳子の病理"
+    },
+    {
+      "id": "990051161320107976",
+      "title": "紅色運輸網: 血液, 解剖與遺傳"
+    },
+    {
+      "id": "990052948170107976",
+      "title": "遺傳子工學の現狀と展望"
+    },
+    {
+      "id": "990052948190107976",
+      "title": "遺傳子工學の現状と展望"
+    },
+    {
+      "id": "9973840908407976",
+      "title": "四膜蟲使用刪除片段兩端之反向重複序列定義全基因異體染色質DNA刪除之邊界 = Setting boundaries for genome-wide heterochromatic DNA deletions through flanking inverted repeats in Tetrahymena thermophila /"
+    },
+    {
+      "id": "990051783390107976",
+      "title": "竄改基因 : 艾西莫夫科普開講"
+    }
+  ],
+  "user_input_tokens": 103083,
+  "user_output_tokens": 4054,
+  "user_total_tokens": 107137,
+  "librarian_input_tokens": 170389,
+  "librarian_output_tokens": 948,
+  "librarian_total_tokens": 171337,
+  "total_input_tokens": 273472,
+  "total_output_tokens": 5002,
+  "total_tokens": 278474,
+  "elapsed_time": 111.43901109695435,
+  "turn": 4
+}

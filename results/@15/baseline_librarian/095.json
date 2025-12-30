@@ -1,0 +1,13 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Clipper 5.X進行程式設計技巧的相關書籍",
+  "books": [
+    {
+      "id": "990050306010107976",
+      "title": "CLIPPER 5.X 程式設計 : 技巧應用篇"
+    }
+  ],
+  "input_tokens": 11498,
+  "output_tokens": 187,
+  "total_tokens": 11685,
+  "elapsed_time": 6.840606927871704
+}

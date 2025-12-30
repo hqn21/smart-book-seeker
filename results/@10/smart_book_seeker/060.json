@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 UML 進行物件導向系統分析與設計有關的書籍",
+  "books": [
+    {
+      "id": "990063583210107976",
+      "title": "UML物件導向系統分析與設計 /"
+    },
+    {
+      "id": "990053158390107976",
+      "title": "UML物件導向系統分析與設計"
+    },
+    {
+      "id": "990058744160107976",
+      "title": "物件導向系統分析與設計 : 使用UML /"
+    },
+    {
+      "id": "990052188950107976",
+      "title": "UML物件導向系統分析與設計 : UML 2 and the unified process /"
+    },
+    {
+      "id": "990052403700107976",
+      "title": "物件導向系統分析與設計 : 使用UML與JAVA"
+    },
+    {
+      "id": "990051722090107976",
+      "title": "物件導向系統分析與設計 : 使用UML與C++"
+    },
+    {
+      "id": "990058743670107976",
+      "title": "軟體工程 : 物件導向程式設計與UML系統分析實作 /"
+    },
+    {
+      "id": "990063392970107976",
+      "title": "物件導向系統分析與設計 : 結合MDA與UML = Object-oriented systems analysis and design: an MDA approach with UML /"
+    },
+    {
+      "id": "990052994420107976",
+      "title": "物件導向系統分析與設計 : 結合MDA與UML = Object-oriented systems analysis and design : an MDA approach with UML"
+    },
+    {
+      "id": "990052120120107976",
+      "title": "活用UML與樣式 : 物件導向分析與設計入門 = Applying UML and patterns"
+    }
+  ],
+  "user_input_tokens": 29639,
+  "user_output_tokens": 1148,
+  "user_total_tokens": 30787,
+  "librarian_input_tokens": 45803,
+  "librarian_output_tokens": 452,
+  "librarian_total_tokens": 46255,
+  "total_input_tokens": 75442,
+  "total_output_tokens": 1600,
+  "total_tokens": 77042,
+  "elapsed_time": 40.76855516433716,
+  "turn": 2
+}

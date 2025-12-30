@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Clipper 5.X進行程式設計技巧的相關書籍",
+  "books": [
+    {
+      "id": "990050306010107976",
+      "title": "CLIPPER 5.X 程式設計 : 技巧應用篇"
+    },
+    {
+      "id": "990050332710107976",
+      "title": "Clipper 5.X 程式設計 : 進階篇"
+    },
+    {
+      "id": "990050332720107976",
+      "title": "Clipper 5.X 程式設計 : 雷射篇"
+    },
+    {
+      "id": "990050330020107976",
+      "title": "Clipper 5.X 程式設計 : 通訊篇"
+    },
+    {
+      "id": "990050332680107976",
+      "title": "Clipper 5.X 程式設計 : 繪圖篇"
+    },
+    {
+      "id": "990050337110107976",
+      "title": "CLIPPER 5.X 程式設計 : 壓縮篇"
+    },
+    {
+      "id": "990050113960107976",
+      "title": "CLIPPER 技術手冊"
+    },
+    {
+      "id": "990050271620107976",
+      "title": "CLIPPER 高等應用範例"
+    },
+    {
+      "id": "990050309760107976",
+      "title": "CLIPPER 最佳專輯"
+    },
+    {
+      "id": "990050771070107976",
+      "title": "Clipper 專業應用程式"
+    }
+  ],
+  "user_input_tokens": 101915,
+  "user_output_tokens": 1868,
+  "user_total_tokens": 103783,
+  "librarian_input_tokens": 276022,
+  "librarian_output_tokens": 1041,
+  "librarian_total_tokens": 277063,
+  "total_input_tokens": 377937,
+  "total_output_tokens": 2909,
+  "total_tokens": 380846,
+  "elapsed_time": 110.05723690986633,
+  "turn": 5
+}

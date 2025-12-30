@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Keras進行深度學習的書籍",
+  "books": [
+    {
+      "id": "990064729590107976",
+      "title": "深度學習Keras快速開發入門"
+    },
+    {
+      "id": "990063665500107976",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用"
+    },
+    {
+      "id": "990071701580107976",
+      "title": "Keras快速上手 : 基于Python的深度学习实战"
+    },
+    {
+      "id": "990071734650107976",
+      "title": "Python深度學習實作 : Keras快速上手"
+    },
+    {
+      "id": "990072200300107976",
+      "title": "TensorFlow與Keras : Python深度學習應用實務 = Hands-on Deep Learning by TensorFlow and Keras with Python"
+    },
+    {
+      "id": "990072375040107976",
+      "title": "深度學習 : 使用Keras"
+    },
+    {
+      "id": "990072386810107976",
+      "title": "tf.keras技術者們 : 必讀! 深度學習攻略手冊"
+    },
+    {
+      "id": "9973818402707976",
+      "title": "新一代Keras3.x重磅回歸 : 跨TensorFlow與PyTorch建構Transformer、CNN、RNN、LSTM深度學習模型"
+    },
+    {
+      "id": "990072185200107976",
+      "title": "Deep learning 深度學習必讀 : Keras 大神帶你用 Python 實作"
+    },
+    {
+      "id": "990073447820107976",
+      "title": "Keras 大神歸位深度學習全面進化!用 Python 實作 : CNN、RNN、GRU、LSTM、GAN、VAE、Transformer"
+    }
+  ]
+}

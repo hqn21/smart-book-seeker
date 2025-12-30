@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用威力導演11版本以上的工具來對影音進行剪輯以及創作等等應用的書籍",
+  "books": [
+    {
+      "id": "990059504130107976",
+      "title": "威力導演11影音剪輯魔法師 /"
+    },
+    {
+      "id": "990060770480107976",
+      "title": "威力導演13數位影音創作超人氣 /"
+    },
+    {
+      "id": "990052528570107976",
+      "title": "威力導演 = PowerDirector"
+    },
+    {
+      "id": "990071349540107976",
+      "title": "威力導演 : 數位影音剪輯特效輕鬆做 (15以上版本適用) /"
+    },
+    {
+      "id": "990059751740107976",
+      "title": "威力導演11 : 數位影音剪輯特效超簡單輕鬆做 /"
+    }
+  ],
+  "user_input_tokens": 124307,
+  "user_output_tokens": 1174,
+  "user_total_tokens": 125481,
+  "librarian_input_tokens": 521533,
+  "librarian_output_tokens": 1706,
+  "librarian_total_tokens": 523239,
+  "total_input_tokens": 645840,
+  "total_output_tokens": 2880,
+  "total_tokens": 648720,
+  "elapsed_time": 148.17454385757446,
+  "turn": 7
+}

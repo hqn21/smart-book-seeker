@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2013版本的使用技巧及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990059690080107976",
+      "title": "Microsoft Excel 2013使用手冊 = The simple, efficient and effective way to learn Microsoft Excel /"
+    },
+    {
+      "id": "990072402440107976",
+      "title": "Excel商業智慧分析 : 樞紐分析x大數據分析工具PowerPivot及PowerView /"
+    },
+    {
+      "id": "990051808520107976",
+      "title": "Excel統計資料分析實務 : 樞紐分析/OLAP/Access整合應用"
+    },
+    {
+      "id": "990060770490107976",
+      "title": "EXCEL樞紐分析 : 職場必學的大量數據解讀力 /"
+    },
+    {
+      "id": "990070942700107976",
+      "title": "Excel 2016商業智慧分析 : 資料處理x樞紐分析xBig data分析工具PowerPivot及PowerView /"
+    }
+  ],
+  "user_input_tokens": 72367,
+  "user_output_tokens": 1204,
+  "user_total_tokens": 73571,
+  "librarian_input_tokens": 331505,
+  "librarian_output_tokens": 1891,
+  "librarian_total_tokens": 333396,
+  "total_input_tokens": 403872,
+  "total_output_tokens": 3095,
+  "total_tokens": 406967,
+  "elapsed_time": 116.26844906806946,
+  "turn": 7
+}

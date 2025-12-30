@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2003版本的書籍",
+  "books": [
+    {
+      "id": "990051900010107976",
+      "title": "Office 2003入門與應用"
+    },
+    {
+      "id": "990052022840107976",
+      "title": "Office 2003商務實作與應用"
+    },
+    {
+      "id": "990059690040107976",
+      "title": "商業套裝軟體應用Office 2003實務 /"
+    },
+    {
+      "id": "990052316320107976",
+      "title": "OFFICE入門與應用 : Word.Excel.PowerPoint"
+    },
+    {
+      "id": "990051903610107976",
+      "title": "Word、Excel、PowerPoint徹底學通"
+    }
+  ],
+  "user_input_tokens": 40524,
+  "user_output_tokens": 1453,
+  "user_total_tokens": 41977,
+  "librarian_input_tokens": 77032,
+  "librarian_output_tokens": 616,
+  "librarian_total_tokens": 77648,
+  "total_input_tokens": 117556,
+  "total_output_tokens": 2069,
+  "total_tokens": 119625,
+  "elapsed_time": 55.27026081085205,
+  "turn": 3
+}

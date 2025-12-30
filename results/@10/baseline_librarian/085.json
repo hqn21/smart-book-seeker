@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Lotus 1-2-3的應用以及基本操作的書籍",
+  "books": [],
+  "input_tokens": 11578,
+  "output_tokens": 201,
+  "total_tokens": 11779,
+  "elapsed_time": 7.56634521484375
+}

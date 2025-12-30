@@ -1,0 +1,28 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關大腦的運作原理、應用和故事等等相關知識的書籍",
+  "books": [
+    {
+      "id": "990050700930107976",
+      "title": "生物學選粹"
+    },
+    {
+      "id": "9973772856207976",
+      "title": "普通生物學題庫 /"
+    },
+    {
+      "id": "990050867750107976",
+      "title": "決策模式"
+    }
+  ],
+  "user_input_tokens": 134499,
+  "user_output_tokens": 3053,
+  "user_total_tokens": 137552,
+  "librarian_input_tokens": 352723,
+  "librarian_output_tokens": 1340,
+  "librarian_total_tokens": 354063,
+  "total_input_tokens": 487222,
+  "total_output_tokens": 4393,
+  "total_tokens": 491615,
+  "elapsed_time": 111.73671507835388,
+  "turn": 6
+}

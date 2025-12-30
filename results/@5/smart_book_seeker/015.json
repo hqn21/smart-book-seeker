@@ -1,0 +1,32 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Photoshop CS2來進行照片或是數位影像的編輯、處理和相關創作的書籍",
+  "books": [
+    {
+      "id": "990052137560107976",
+      "title": "Photoshop CS2中文版數位影像處理寶典"
+    },
+    {
+      "id": "990052134000107976",
+      "title": "Photoshop CS2數位相片編修寶典 : 看圖學影像處理與輸出17招99式"
+    },
+    {
+      "id": "990052316340107976",
+      "title": "數位暗房 : 創意影像編修特輯"
+    },
+    {
+      "id": "990052085890107976",
+      "title": "Photoshop CS2 Workflow : 數位攝影創作流程藝術 = The Digital Photographer's Guide"
+    }
+  ],
+  "user_input_tokens": 77416,
+  "user_output_tokens": 571,
+  "user_total_tokens": 77987,
+  "librarian_input_tokens": 479136,
+  "librarian_output_tokens": 2071,
+  "librarian_total_tokens": 481207,
+  "total_input_tokens": 556552,
+  "total_output_tokens": 2642,
+  "total_tokens": 559194,
+  "elapsed_time": 150.0582299232483,
+  "turn": 7
+}

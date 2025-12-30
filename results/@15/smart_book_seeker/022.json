@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Keras進行深度學習的書籍",
+  "books": [
+    {
+      "id": "990072375040107976",
+      "title": "深度學習 : 使用Keras /"
+    },
+    {
+      "id": "990064729590107976",
+      "title": "深度學習Keras快速開發入門 /"
+    },
+    {
+      "id": "990071734650107976",
+      "title": "Python深度學習實作 : Keras快速上手 /"
+    },
+    {
+      "id": "990072200300107976",
+      "title": "TensorFlow與Keras : Python深度學習應用實務 = Hands-on Deep Learning by TensorFlow and Keras with Python /"
+    },
+    {
+      "id": "990063665500107976",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用 /"
+    },
+    {
+      "id": "990072386810107976",
+      "title": "tf.keras技術者們 : 必讀! 深度學習攻略手冊 /"
+    },
+    {
+      "id": "990072185200107976",
+      "title": "Deep learning 深度學習必讀 : Keras 大神帶你用 Python 實作 /"
+    },
+    {
+      "id": "990071701580107976",
+      "title": "Keras快速上手 : 基于Python的深度学习实战 /"
+    },
+    {
+      "id": "990073447820107976",
+      "title": "Keras 大神歸位深度學習全面進化!用 Python 實作 : CNN、RNN、GRU、LSTM、GAN、VAE、Transformer /"
+    },
+    {
+      "id": "990072415520107976",
+      "title": "精通機器學習. 使用Scikit-Learn, Keras與TensorFlow /"
+    },
+    {
+      "id": "9973787107007976",
+      "title": "精通機器學習. 使用Scikit-Learn,Keras與TensorFlow /"
+    },
+    {
+      "id": "9973818402707976",
+      "title": "新一代Keras3.x重磅回歸 : 跨TensorFlow與PyTorch建構Transformer、CNN、RNN、LSTM深度學習模型 /"
+    },
+    {
+      "id": "990071341830107976",
+      "title": "TensorFlow之外的好選擇 : Keras、Caffe SK-Learn機器學習實作 /"
+    },
+    {
+      "id": "990072821450107976",
+      "title": "必學! Python 資料科學.機器學習最強套件 : NumPy. Pandas. Matplotlib. OpenCV. scikit-learn. tf.Keras /"
+    },
+    {
+      "id": "990073391130107976",
+      "title": "圖解Tensorflow 2 : 實作tf.keras+Colab雲端、深度學習、人工智慧、影像辨識"
+    }
+  ],
+  "user_input_tokens": 38005,
+  "user_output_tokens": 1398,
+  "user_total_tokens": 39403,
+  "librarian_input_tokens": 53369,
+  "librarian_output_tokens": 428,
+  "librarian_total_tokens": 53797,
+  "total_input_tokens": 91374,
+  "total_output_tokens": 1826,
+  "total_tokens": 93200,
+  "elapsed_time": 42.36984324455261,
+  "turn": 2
+}

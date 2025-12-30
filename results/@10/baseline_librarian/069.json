@@ -1,0 +1,13 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FLASH MX 2004 版本動畫及特效製作等等相關的書籍",
+  "books": [
+    {
+      "id": "990060319300107976",
+      "title": "Flash動畫好設計 : 創作.角色.場景.分鏡與動畫特效表現一次到位 /"
+    }
+  ],
+  "input_tokens": 11575,
+  "output_tokens": 204,
+  "total_tokens": 11779,
+  "elapsed_time": 8.747870922088623
+}

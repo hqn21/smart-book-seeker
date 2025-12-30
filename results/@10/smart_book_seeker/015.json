@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Photoshop CS2來進行照片或是數位影像的編輯、處理和相關創作的書籍",
+  "books": [
+    {
+      "id": "990052137560107976",
+      "title": "Photoshop CS2中文版數位影像處理寶典"
+    },
+    {
+      "id": "990052134000107976",
+      "title": "Photoshop CS2數位相片編修寶典 : 看圖學影像處理與輸出17招99式"
+    },
+    {
+      "id": "990052085890107976",
+      "title": "Photoshop CS2 Workflow : 數位攝影創作流程藝術 = The Digital Photographer's Guide"
+    },
+    {
+      "id": "990052406310107976",
+      "title": "Photoshop設計師聖經 : 3D視覺.光影創作篇 = Advanced photoshop CS2 trickery & FX /"
+    },
+    {
+      "id": "990052282970107976",
+      "title": "生活小物創意手作書 : Photoshop作品輯"
+    },
+    {
+      "id": "990052316340107976",
+      "title": "數位暗房 : 創意影像編修特輯"
+    },
+    {
+      "id": "990052365550107976",
+      "title": "Corel photo-paint 8 中文版 : 專業的影像編輯與創作"
+    },
+    {
+      "id": "990060319570107976",
+      "title": "Photoshop CS5影像處理與特效製作大補帖 /"
+    },
+    {
+      "id": "990072333770107976",
+      "title": "影像處理特訓教材 Photoshop CC /"
+    },
+    {
+      "id": "9973824007307976",
+      "title": "PhotoShop x ChatGPT 影像處理設計 /"
+    }
+  ],
+  "user_input_tokens": 32807,
+  "user_output_tokens": 1495,
+  "user_total_tokens": 34302,
+  "librarian_input_tokens": 47711,
+  "librarian_output_tokens": 494,
+  "librarian_total_tokens": 48205,
+  "total_input_tokens": 80518,
+  "total_output_tokens": 1989,
+  "total_tokens": 82507,
+  "elapsed_time": 52.85818386077881,
+  "turn": 2
+}

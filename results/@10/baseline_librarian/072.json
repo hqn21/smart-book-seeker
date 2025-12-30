@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 AutoCAD R14 輔助繪圖的相關使用技巧的書籍",
+  "books": [
+    {
+      "id": "990051449760107976",
+      "title": "電腦輔助繪圖 : R14繪圖技巧"
+    },
+    {
+      "id": "990050794490107976",
+      "title": "AutoCAD R12 繪圖軟體使用手冊"
+    },
+    {
+      "id": "990051392440107976",
+      "title": "中文版AutoCAD 2000繪圖軟體使用手冊"
+    },
+    {
+      "id": "990050786780107976",
+      "title": "AutoCAD R11/R12 繪圖軟體使用手冊"
+    },
+    {
+      "id": "990051849240107976",
+      "title": "AutoCAD在機械圖上的應用 : 使用Mechanical Desktop 6.0"
+    }
+  ],
+  "input_tokens": 11611,
+  "output_tokens": 224,
+  "total_tokens": 11835,
+  "elapsed_time": 8.609469890594482
+}

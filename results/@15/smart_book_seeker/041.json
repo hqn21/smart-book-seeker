@@ -1,0 +1,60 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關雷射的原理以及相關應用",
+  "books": [
+    {
+      "id": "990052953700107976",
+      "title": "雷射原理與應用"
+    },
+    {
+      "id": "990050759170107976",
+      "title": "雷射技術與應用"
+    },
+    {
+      "id": "990051453820107976",
+      "title": "雷射原理教程"
+    },
+    {
+      "id": "990050825750107976",
+      "title": "固態雷射及應用"
+    },
+    {
+      "id": "990053165830107976",
+      "title": "圖解光與雷射應用"
+    },
+    {
+      "id": "990051055120107976",
+      "title": "雷射原理與光電檢測"
+    },
+    {
+      "id": "990052798740107976",
+      "title": "雷射光電系列"
+    },
+    {
+      "id": "990051063490107976",
+      "title": "雷射光學基礎"
+    },
+    {
+      "id": "990052775270107976",
+      "title": "光電及雷射概論"
+    },
+    {
+      "id": "990052688910107976",
+      "title": "雷射原理與量測概論 = An Introduction to Lasers and their measure"
+    },
+    {
+      "id": "990051908420107976",
+      "title": "雷射原理與量測概論 = Laser rationale and measure compend"
+    }
+  ],
+  "user_input_tokens": 94560,
+  "user_output_tokens": 539,
+  "user_total_tokens": 95099,
+  "librarian_input_tokens": 532266,
+  "librarian_output_tokens": 1619,
+  "librarian_total_tokens": 533885,
+  "total_input_tokens": 626826,
+  "total_output_tokens": 2158,
+  "total_tokens": 628984,
+  "elapsed_time": 118.70532822608948,
+  "turn": 7
+}

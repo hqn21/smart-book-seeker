@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 PyTorch 來進行深度學習或機器學習的書籍",
+  "books": [
+    {
+      "id": "990073391360107976",
+      "title": "開發者傳授PyTorch秘笈 /"
+    },
+    {
+      "id": "990072413930107976",
+      "title": "強化學習(RL) : 使用PyTorch徹底精通 /"
+    },
+    {
+      "id": "990072990430107976",
+      "title": "PyTorch深度學習攻略 : 核心開發者親授! /"
+    },
+    {
+      "id": "990071960800107976",
+      "title": "PyTorch深度學習與自然語言中文處理 /"
+    },
+    {
+      "id": "990072794480107976",
+      "title": "強者用PyTorch : 實作史上最經典AI範例 /"
+    },
+    {
+      "id": "990072792700107976",
+      "title": "寫給程式設計師的深度學習｜使用fastai和PyTorch /"
+    },
+    {
+      "id": "990072197140107976",
+      "title": "實戰人工智慧之深度強化學習 : 使用PyTorch ╳Python /"
+    },
+    {
+      "id": "990071816490107976",
+      "title": "一直學不會Tensorflow? : PyTorch更好用.更強大.更易懂! /"
+    },
+    {
+      "id": "990073391380107976",
+      "title": "PyTorch深度學習 : 電腦視覺流行專案親自動手 /"
+    },
+    {
+      "id": "990072794300107976",
+      "title": "一直學不會Tensorflow : PyTorch更好用更強大更易懂 /"
+    },
+    {
+      "id": "990072200040107976",
+      "title": "PyTorch自然語言處理 : 以深度學習建立語言應用程式 /"
+    },
+    {
+      "id": "9973842304607976",
+      "title": "全格局使用PyTorch: 深度學習和圖神經網路. 基礎篇 /"
+    },
+    {
+      "id": "990073426640107976",
+      "title": "全格局使用PyTorch : 深度學習和圖神經網路 : 基礎篇 /"
+    },
+    {
+      "id": "990073439070107976",
+      "title": "全格局使用PyTorch : 深度學習和圖神經網路 : 實戰篇 /"
+    },
+    {
+      "id": "990071723840107976",
+      "title": "比Tensorflow還精美的人工智慧套件 : PyTorch讓你愛不釋手 /"
+    }
+  ],
+  "user_input_tokens": 37391,
+  "user_output_tokens": 1423,
+  "user_total_tokens": 38814,
+  "librarian_input_tokens": 53050,
+  "librarian_output_tokens": 477,
+  "librarian_total_tokens": 53527,
+  "total_input_tokens": 90441,
+  "total_output_tokens": 1900,
+  "total_tokens": 92341,
+  "elapsed_time": 47.099064111709595,
+  "turn": 2
+}

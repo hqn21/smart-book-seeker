@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Clipper 5.X進行程式設計技巧的相關書籍",
+  "books": [
+    {
+      "id": "990051040490107976",
+      "title": "Clipper 5.x 程式設計實務應用"
+    },
+    {
+      "id": "990050306010107976",
+      "title": "CLIPPER 5.X 程式設計 : 技巧應用篇"
+    },
+    {
+      "id": "990051101940107976",
+      "title": "CLIPPER 5.X 程式設計"
+    },
+    {
+      "id": "990050835520107976",
+      "title": "Clipper 5.X 程式設計"
+    },
+    {
+      "id": "990050271620107976",
+      "title": "CLIPPER 高等應用範例"
+    }
+  ],
+  "input_tokens": 11474,
+  "output_tokens": 196,
+  "total_tokens": 11670,
+  "elapsed_time": 7.822945594787598
+}

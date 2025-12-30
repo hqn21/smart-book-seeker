@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者想找入門電子學的書，重點在基本原理與概念，內容簡單易懂、適合初學者",
+  "books": [],
+  "input_tokens": 11660,
+  "output_tokens": 239,
+  "total_tokens": 11899,
+  "elapsed_time": 8.163063049316406
+}

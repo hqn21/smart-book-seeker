@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Windows NT的相關技術和應用書籍",
+  "books": [
+    {
+      "id": "990051401460107976",
+      "title": "Windows NT DNS"
+    },
+    {
+      "id": "990051158980107976",
+      "title": "Windows NT系統安全聖經"
+    },
+    {
+      "id": "990051401480107976",
+      "title": "Windows 98/NT網路應用"
+    },
+    {
+      "id": "990051186780107976",
+      "title": "認識Windows NT"
+    },
+    {
+      "id": "990051402310107976",
+      "title": "Windows NT系統效能最佳化"
+    }
+  ],
+  "input_tokens": 11429,
+  "output_tokens": 208,
+  "total_tokens": 11637,
+  "elapsed_time": 7.8038649559021
+}

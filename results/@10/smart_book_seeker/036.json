@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2010版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990058741040107976",
+      "title": "PowerPoint 2010 /"
+    },
+    {
+      "id": "990058742610107976",
+      "title": "Microsoft PowerPoint 2010超Easy /"
+    },
+    {
+      "id": "990059034490107976",
+      "title": "PowerPoint 2010輕鬆學 /"
+    },
+    {
+      "id": "990058742520107976",
+      "title": "Microsoft PowerPoint 2010使用手冊 /"
+    },
+    {
+      "id": "990058786480107976",
+      "title": "PowerPoint 2010精選敎材隨手翻 /"
+    },
+    {
+      "id": "990058741990107976",
+      "title": "PowerPoint 2010高效實用範例必修16課 /"
+    },
+    {
+      "id": "990058741120107976",
+      "title": "PowerPoint 2010簡報製作經典百例 /"
+    },
+    {
+      "id": "990058939860107976",
+      "title": "MOS國際認證教戰手冊 : PowerPoint 2010 /"
+    },
+    {
+      "id": "990059504100107976",
+      "title": "PowerPoint 2010專業級精準學習手冊 /"
+    },
+    {
+      "id": "990058742390107976",
+      "title": "跟我學PowerPoint 2010 : 將PowerPoint從個人簡報製作提升至雲端應用 /"
+    }
+  ],
+  "user_input_tokens": 28673,
+  "user_output_tokens": 1208,
+  "user_total_tokens": 29881,
+  "librarian_input_tokens": 43382,
+  "librarian_output_tokens": 383,
+  "librarian_total_tokens": 43765,
+  "total_input_tokens": 72055,
+  "total_output_tokens": 1591,
+  "total_tokens": 73646,
+  "elapsed_time": 42.43376708030701,
+  "turn": 2
+}

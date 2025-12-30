@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關於海洋的生物、植物及生態有關的書籍",
+  "books": [
+    {
+      "id": "990052265970107976",
+      "title": "海洋生態"
+    },
+    {
+      "id": "990059667660107976",
+      "title": "海洋植物大觀 /"
+    },
+    {
+      "id": "990060239270107976",
+      "title": "趣味海洋問題 /"
+    },
+    {
+      "id": "990059667670107976",
+      "title": "海洋水產趣談 /"
+    },
+    {
+      "id": "990058787930107976",
+      "title": "暖化中的浩瀚海洋 /"
+    }
+  ],
+  "user_input_tokens": 19305,
+  "user_output_tokens": 715,
+  "user_total_tokens": 20020,
+  "librarian_input_tokens": 35970,
+  "librarian_output_tokens": 423,
+  "librarian_total_tokens": 36393,
+  "total_input_tokens": 55275,
+  "total_output_tokens": 1138,
+  "total_tokens": 56413,
+  "elapsed_time": 45.32508087158203,
+  "turn": 2
+}

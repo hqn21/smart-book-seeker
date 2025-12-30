@@ -1,0 +1,24 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS6進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990063682060107976",
+      "title": "電腦繪圖設計認證指南 : Illustrator CS6 /"
+    },
+    {
+      "id": "990059751390107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS6 /"
+    }
+  ],
+  "user_input_tokens": 67785,
+  "user_output_tokens": 723,
+  "user_total_tokens": 68508,
+  "librarian_input_tokens": 206876,
+  "librarian_output_tokens": 1146,
+  "librarian_total_tokens": 208022,
+  "total_input_tokens": 274661,
+  "total_output_tokens": 1869,
+  "total_tokens": 276530,
+  "elapsed_time": 92.78179121017456,
+  "turn": 5
+}

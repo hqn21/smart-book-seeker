@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Mandrake Linux 9以上的架站及相關系統知識的書籍",
+  "books": [
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990051797530107976",
+      "title": "Red Hat Linux 9安裝.升級.操作"
+    },
+    {
+      "id": "990051010100107976",
+      "title": "WWW 入門、架站與系統維護"
+    },
+    {
+      "id": "990051899810107976",
+      "title": "Fedora Core 2 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052180370107976",
+      "title": "Fedora Core 5 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052316220107976",
+      "title": "Fedora Core 6 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052086020107976",
+      "title": "Fedora Core 4 Linux : 安裝與系統管理"
+    },
+    {
+      "id": "990052587210107976",
+      "title": "Windows Server 2008系統安裝與架站實務"
+    },
+    {
+      "id": "990051867790107976",
+      "title": "硬碟安裝.安裝、分割、調整、系統轉移"
+    }
+  ],
+  "user_input_tokens": 28875,
+  "user_output_tokens": 1229,
+  "user_total_tokens": 30104,
+  "librarian_input_tokens": 44147,
+  "librarian_output_tokens": 461,
+  "librarian_total_tokens": 44608,
+  "total_input_tokens": 73022,
+  "total_output_tokens": 1690,
+  "total_tokens": 74712,
+  "elapsed_time": 43.02950978279114,
+  "turn": 2
+}

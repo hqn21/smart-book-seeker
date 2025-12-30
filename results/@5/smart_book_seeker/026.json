@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用R語言來處理及分析大數據或巨量資料的書籍",
+  "books": [
+    {
+      "id": "990061382690107976",
+      "title": "利用R語言打通大數據的經脈 /"
+    },
+    {
+      "id": "990072411440107976",
+      "title": "大數據、AI應用趨勢與R語言案例分析 /"
+    },
+    {
+      "id": "990071383980107976",
+      "title": "精通大數據 : R語言資料分析與應用 第二版 /"
+    },
+    {
+      "id": "990071734660107976",
+      "title": "邁向大數據的第一步 : R語言程式設計精要 = R for Everyone : Advanced Analytics and Graphics /"
+    },
+    {
+      "id": "990061386210107976",
+      "title": "R語言 : 數學計算、統計模型與金融大數據分析 /"
+    }
+  ],
+  "user_input_tokens": 21321,
+  "user_output_tokens": 781,
+  "user_total_tokens": 22102,
+  "librarian_input_tokens": 38123,
+  "librarian_output_tokens": 464,
+  "librarian_total_tokens": 38587,
+  "total_input_tokens": 59444,
+  "total_output_tokens": 1245,
+  "total_tokens": 60689,
+  "elapsed_time": 35.7891058921814,
+  "turn": 2
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FrontPage 2003 版本架設網站的使用介紹及操作技巧等等相關的書籍",
+  "books": [
+    {
+      "id": "990051639450107976",
+      "title": "FrontPage 2002架站精華"
+    },
+    {
+      "id": "990051473610107976",
+      "title": "網站製作、管理必學FrontPage"
+    },
+    {
+      "id": "990052070140107976",
+      "title": "FrontPage網頁設計高手"
+    },
+    {
+      "id": "990051515180107976",
+      "title": "FrontPage 2000-www網站建置實作"
+    },
+    {
+      "id": "990051770240107976",
+      "title": "網站資料庫設計實務 : 使用FrontPage.ASP.Access"
+    }
+  ],
+  "user_input_tokens": 27640,
+  "user_output_tokens": 825,
+  "user_total_tokens": 28465,
+  "librarian_input_tokens": 60393,
+  "librarian_output_tokens": 588,
+  "librarian_total_tokens": 60981,
+  "total_input_tokens": 88033,
+  "total_output_tokens": 1413,
+  "total_tokens": 89446,
+  "elapsed_time": 40.223175048828125,
+  "turn": 3
+}

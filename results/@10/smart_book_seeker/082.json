@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 VisiCalc 的處理及應用的書籍",
+  "books": [
+    {
+      "id": "990050867690107976",
+      "title": "VisiCalc初步"
+    },
+    {
+      "id": "990050717220107976",
+      "title": "VISICALC使用準則"
+    },
+    {
+      "id": "990050867680107976",
+      "title": "PC VisiCalc 使用手冊"
+    },
+    {
+      "id": "990050717210107976",
+      "title": "VISICALC應用實例"
+    },
+    {
+      "id": "990050275230107976",
+      "title": "VISICALC操作手冊"
+    },
+    {
+      "id": "990050171020107976",
+      "title": "VisiCalc Book 計算/ 表格系統"
+    },
+    {
+      "id": "990050704880107976",
+      "title": "VISICALC商業處理及應用"
+    },
+    {
+      "id": "990050000050107976",
+      "title": "VisiCalc, SuperCalc, Multiplan工作底稿入門與實例"
+    },
+    {
+      "id": "990050704850107976",
+      "title": "家用電腦APPLE II VISICALC 商業處理及應用"
+    },
+    {
+      "id": "990050704010107976",
+      "title": "MULTIPLAN 使用手冊"
+    }
+  ],
+  "user_input_tokens": 90467,
+  "user_output_tokens": 3053,
+  "user_total_tokens": 93520,
+  "librarian_input_tokens": 176527,
+  "librarian_output_tokens": 906,
+  "librarian_total_tokens": 177433,
+  "total_input_tokens": 266994,
+  "total_output_tokens": 3959,
+  "total_tokens": 270953,
+  "elapsed_time": 99.54072594642639,
+  "turn": 4
+}

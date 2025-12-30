@@ -1,0 +1,96 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用OpenCV來進行影像視覺處理相關技術的書籍",
+  "books": [
+    {
+      "id": "990071401570107976",
+      "title": "OpenCV 範例解析 : 運用OpenCV開發實務專案深入理解電腦視覺與影像處理 =OpenCV By Example /"
+    },
+    {
+      "id": "990072375550107976",
+      "title": "OpenCV 4 專案實務 : 用OpenCV與C++打造電腦視覺與影像處理應用程式 /"
+    },
+    {
+      "id": "990073439050107976",
+      "title": "OpenCV影像創意邁向AI視覺.王者歸來 /"
+    },
+    {
+      "id": "990071374430107976",
+      "title": "OpenCV+VTK+Visual Studio影像辨識處理 /"
+    },
+    {
+      "id": "990072319220107976",
+      "title": "科班出身的AI人必修課 : OpenCV影像處理, 使用Python /"
+    },
+    {
+      "id": "990051875320107976",
+      "title": "影像處理及電腦視覺"
+    },
+    {
+      "id": "990052489250107976",
+      "title": "影像處理與電腦視覺導論"
+    },
+    {
+      "id": "990052688410107976",
+      "title": "影像處理與電腦視覺 = Image Processing and Computer Vision"
+    },
+    {
+      "id": "990072745190107976",
+      "title": "影像處理與電腦視覺 = Image processing and computer vision /"
+    },
+    {
+      "id": "990052108320107976",
+      "title": "影像處理"
+    },
+    {
+      "id": "990051302720107976",
+      "title": "數位影像處理"
+    },
+    {
+      "id": "990060362720107976",
+      "title": "繽紛視覺的Photoshop影像處理 /"
+    },
+    {
+      "id": "990051151950107976",
+      "title": "電腦視覺、圖學暨影像處理研討會論文集"
+    },
+    {
+      "id": "990051297950107976",
+      "title": "電腦視覺、圖學暨影像處理研討會論文集 /"
+    },
+    {
+      "id": "990073175220107976",
+      "title": "Photoshop影像編修與視覺設計 /"
+    },
+    {
+      "id": "990063371210107976",
+      "title": "ACA國際認證 : Photoshop CC/CS6視覺設計與影像處理 /"
+    },
+    {
+      "id": "990060510260107976",
+      "title": "舞動Photoshop影像視覺設計 = Visual design /"
+    },
+    {
+      "id": "990050307650107976",
+      "title": "電腦繪圖學與視覺設計之應用"
+    },
+    {
+      "id": "990052740820107976",
+      "title": "視覺測量 = Vision Measurement"
+    },
+    {
+      "id": "990052036450107976",
+      "title": "Photoshop CS視覺遊戲"
+    }
+  ],
+  "user_input_tokens": 96014,
+  "user_output_tokens": 4160,
+  "user_total_tokens": 100174,
+  "librarian_input_tokens": 143326,
+  "librarian_output_tokens": 679,
+  "librarian_total_tokens": 144005,
+  "total_input_tokens": 239340,
+  "total_output_tokens": 4839,
+  "total_tokens": 244179,
+  "elapsed_time": 97.89092683792114,
+  "turn": 3
+}

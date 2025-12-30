@@ -1,0 +1,20 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Word 2003版本的使用方式及相關術科檢定的書籍",
+  "books": [
+    {
+      "id": "990053139340107976",
+      "title": "Word 2003標準級電腦技能檢定題庫暨解析"
+    }
+  ],
+  "user_input_tokens": 77737,
+  "user_output_tokens": 813,
+  "user_total_tokens": 78550,
+  "librarian_input_tokens": 529311,
+  "librarian_output_tokens": 2071,
+  "librarian_total_tokens": 531382,
+  "total_input_tokens": 607048,
+  "total_output_tokens": 2884,
+  "total_tokens": 609932,
+  "elapsed_time": 237.95183992385864,
+  "turn": 9
+}

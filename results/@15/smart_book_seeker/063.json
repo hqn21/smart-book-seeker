@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹書籍 Windows 系統重灌、備份和維護等等相關書籍",
+  "books": [
+    {
+      "id": "990060770030107976",
+      "title": "Windows重灌x維修寶典專業版 /"
+    },
+    {
+      "id": "990059690360107976",
+      "title": "Windows 8重灌優化改造頂級攻略 /"
+    },
+    {
+      "id": "990053161210107976",
+      "title": "Windows 7 極上之技活用.設定.優化 : Advanced Manual"
+    },
+    {
+      "id": "990059688690107976",
+      "title": "Windows 7一觸即通 : 省錢省時升級優化自己來 /"
+    },
+    {
+      "id": "990051555260107976",
+      "title": "Windows 98簡單化"
+    },
+    {
+      "id": "990061386280107976",
+      "title": "地表最強Windows 10完全攻略! : 升級、設定、優化、問題排除,高手活用技巧速學實戰 /"
+    },
+    {
+      "id": "990051402310107976",
+      "title": "Windows NT系統效能最佳化"
+    },
+    {
+      "id": "990059690830107976",
+      "title": "Windows 8終極強化高手制霸技 /"
+    },
+    {
+      "id": "990051555280107976",
+      "title": "Maximizing Windows 98中文版 : Windows 98最佳化實用手冊"
+    },
+    {
+      "id": "990051514740107976",
+      "title": "Windows排困解難DIY效能提昇與最佳化"
+    },
+    {
+      "id": "990051941890107976",
+      "title": "Windows XP系統備份、還原、急救大全"
+    },
+    {
+      "id": "990059067160107976",
+      "title": "Windows 7完美重灌術 : 資料備份.轉移輕鬆做 = Making computers better & faster /"
+    },
+    {
+      "id": "990053161330107976",
+      "title": "Windows重灌 : 電腦回春.資料備份.效能調校.疑難排除 = Making computers better & faster"
+    },
+    {
+      "id": "990060412610107976",
+      "title": "Windows 8.1達標必備工具書! /"
+    },
+    {
+      "id": "990053009160107976",
+      "title": "DIY 2010電腦軟硬體系統之裝機必備軟體輯 : Windows XP/Vista/7適用"
+    }
+  ],
+  "user_input_tokens": 104178,
+  "user_output_tokens": 3190,
+  "user_total_tokens": 107368,
+  "librarian_input_tokens": 209893,
+  "librarian_output_tokens": 1000,
+  "librarian_total_tokens": 210893,
+  "total_input_tokens": 314071,
+  "total_output_tokens": 4190,
+  "total_tokens": 318261,
+  "elapsed_time": 104.54717016220093,
+  "turn": 5
+}

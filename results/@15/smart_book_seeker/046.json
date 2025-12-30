@@ -1,0 +1,48 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關於海洋的生物、植物及生態有關的書籍",
+  "books": [
+    {
+      "id": "990052265970107976",
+      "title": "海洋生態"
+    },
+    {
+      "id": "990059667660107976",
+      "title": "海洋植物大觀 /"
+    },
+    {
+      "id": "9973826592407976",
+      "title": "最神祕的海洋生物百科 : 與30種海底生物一起探索 你不知道的海洋世界"
+    },
+    {
+      "id": "9973829709307976",
+      "title": "鯨生鯨世 : 發現台灣鯨靈.台灣海洋鯨豚的生命故事 = The life story of whales and dolphins /"
+    },
+    {
+      "id": "9973792609207976",
+      "title": "群集組成過程決定了海洋蜉蝣細菌群集間的多樣性對其生物量的正面影響 = Deterministic assembly processes strengthen the effects of β-diversity on community Biomass of marine bacterioplankton /"
+    },
+    {
+      "id": "990060299410107976",
+      "title": "經略海洋十年守護"
+    },
+    {
+      "id": "990052757650107976",
+      "title": "海は死にかけている : 急がれる海洋環境対策"
+    },
+    {
+      "id": "990072260100107976",
+      "title": "有誰聽到座頭鯨在唱歌 : 九位先驅科學家的海洋保育故事 /"
+    }
+  ],
+  "user_input_tokens": 251004,
+  "user_output_tokens": 438,
+  "user_total_tokens": 251442,
+  "librarian_input_tokens": 7850884,
+  "librarian_output_tokens": 5332,
+  "librarian_total_tokens": 7856216,
+  "total_input_tokens": 8101888,
+  "total_output_tokens": 5770,
+  "total_tokens": 8107658,
+  "elapsed_time": 486.0879580974579,
+  "turn": 20
+}

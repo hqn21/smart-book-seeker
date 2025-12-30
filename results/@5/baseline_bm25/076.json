@@ -1,0 +1,25 @@
+{
+  "user_book_needs": "使用者的目標是尋找和人工增雨有關的技術、原理和計畫等等的書籍",
+  "books": [
+    {
+      "id": "990051872000107976",
+      "title": "動畫創作全覽 : 優質動畫的原理、實務和技術"
+    },
+    {
+      "id": "990058965420107976",
+      "title": "人工增雨技術研發評估計畫 : 期末報告書 = The development and evaluation of artificial rainfall enhancement techniques /"
+    },
+    {
+      "id": "990071932980107976",
+      "title": "人工增雨計畫. Supporting program on cloud seeding in Taiwan /"
+    },
+    {
+      "id": "990060275190107976",
+      "title": "人工增雨技術精進研發計畫 = the development and improvement of artificial rainfall enhancement techniques."
+    },
+    {
+      "id": "990060701860107976",
+      "title": "人工增雨技術精進研發計畫 = The development and improvement of artificial rainfall enhancement techniques."
+    }
+  ]
+}

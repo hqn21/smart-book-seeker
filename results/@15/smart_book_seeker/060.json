@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 UML 進行物件導向系統分析與設計有關的書籍",
+  "books": [
+    {
+      "id": "990063583210107976",
+      "title": "UML物件導向系統分析與設計 /"
+    },
+    {
+      "id": "990053158390107976",
+      "title": "UML物件導向系統分析與設計"
+    },
+    {
+      "id": "990058744160107976",
+      "title": "物件導向系統分析與設計 : 使用UML /"
+    },
+    {
+      "id": "990052188950107976",
+      "title": "UML物件導向系統分析與設計 : UML 2 and the unified process /"
+    },
+    {
+      "id": "990052403700107976",
+      "title": "物件導向系統分析與設計 : 使用UML與JAVA"
+    },
+    {
+      "id": "990051722090107976",
+      "title": "物件導向系統分析與設計 : 使用UML與C++"
+    },
+    {
+      "id": "990058743670107976",
+      "title": "軟體工程 : 物件導向程式設計與UML系統分析實作 /"
+    },
+    {
+      "id": "990063392970107976",
+      "title": "物件導向系統分析與設計 : 結合MDA與UML = Object-oriented systems analysis and design: an MDA approach with UML /"
+    },
+    {
+      "id": "990052994420107976",
+      "title": "物件導向系統分析與設計 : 結合MDA與UML = Object-oriented systems analysis and design : an MDA approach with UML"
+    },
+    {
+      "id": "990058744180107976",
+      "title": "系統分析與設計 : 使用UML /"
+    },
+    {
+      "id": "9973823805607976",
+      "title": "系統分析與設計: 使用UML /"
+    },
+    {
+      "id": "990053161310107976",
+      "title": "物件導向系統分析與設計 = Object-Oriented Systems Analysis and Design"
+    },
+    {
+      "id": "990052183220107976",
+      "title": "物件導向系統分析設計與實作 = Object oriented analysis and design"
+    },
+    {
+      "id": "990060412720107976",
+      "title": "系統分析與設計 : 使用UML = Systems analysis and design with UML /"
+    },
+    {
+      "id": "990052071650107976",
+      "title": "物件導向系統分析與設計 = System analysis and design using object-oriented method"
+    }
+  ],
+  "user_input_tokens": 81960,
+  "user_output_tokens": 2828,
+  "user_total_tokens": 84788,
+  "librarian_input_tokens": 135028,
+  "librarian_output_tokens": 883,
+  "librarian_total_tokens": 135911,
+  "total_input_tokens": 216988,
+  "total_output_tokens": 3711,
+  "total_tokens": 220699,
+  "elapsed_time": 86.79528093338013,
+  "turn": 3
+}

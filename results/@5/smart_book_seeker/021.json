@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找跟SCJP認證有關的書籍",
+  "books": [
+    {
+      "id": "990051813130107976",
+      "title": "Java程式設計"
+    },
+    {
+      "id": "990073709280107976",
+      "title": "Java程式設計 /"
+    },
+    {
+      "id": "990051866720107976",
+      "title": "剖析JAVA程式設計"
+    },
+    {
+      "id": "990052402080107976",
+      "title": "JAVA教學手冊 = The Java tutorial"
+    },
+    {
+      "id": "990050997650107976",
+      "title": "JAVA探索"
+    }
+  ],
+  "user_input_tokens": 39880,
+  "user_output_tokens": 1414,
+  "user_total_tokens": 41294,
+  "librarian_input_tokens": 76305,
+  "librarian_output_tokens": 614,
+  "librarian_total_tokens": 76919,
+  "total_input_tokens": 116185,
+  "total_output_tokens": 2028,
+  "total_tokens": 118213,
+  "elapsed_time": 51.58528995513916,
+  "turn": 3
+}

@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關MIS的網路安全或是維護以及建置網站等相關知識的書籍",
+  "books": [
+    {
+      "id": "990052329640107976",
+      "title": "MIS網管聖經"
+    },
+    {
+      "id": "990052016200107976",
+      "title": "Fedora Core 3 MIS專業架站"
+    },
+    {
+      "id": "990052726220107976",
+      "title": "MIS網管實戰工具大全"
+    },
+    {
+      "id": "990052070490107976",
+      "title": "MIS網管破解高手制霸技"
+    },
+    {
+      "id": "990052016450107976",
+      "title": "Linux Fedora Core 3 MIS專業架站"
+    },
+    {
+      "id": "990052563430107976",
+      "title": "MIS網路管理的工具箱"
+    },
+    {
+      "id": "990051770510107976",
+      "title": "Red Hat Linux 8 for MIS專業人員 /"
+    },
+    {
+      "id": "990060700940107976",
+      "title": "MIS網管達人的工具箱 /"
+    },
+    {
+      "id": "990052474160107976",
+      "title": "MIS 遠端遙控監控實戰 = Remote control and monitor"
+    },
+    {
+      "id": "990071397620107976",
+      "title": "MIS一定要懂的網路技術知識82個 /"
+    }
+  ],
+  "user_input_tokens": 33676,
+  "user_output_tokens": 1067,
+  "user_total_tokens": 34743,
+  "librarian_input_tokens": 67264,
+  "librarian_output_tokens": 758,
+  "librarian_total_tokens": 68022,
+  "total_input_tokens": 100940,
+  "total_output_tokens": 1825,
+  "total_tokens": 102765,
+  "elapsed_time": 55.47836184501648,
+  "turn": 3
+}

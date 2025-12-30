@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關基因的分析以及相關應用的書籍",
+  "books": [],
+  "input_tokens": 11472,
+  "output_tokens": 215,
+  "total_tokens": 11687,
+  "elapsed_time": 8.066598176956177
+}

@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找可以電繪的工具介紹相關的書籍",
+  "books": [
+    {
+      "id": "990050805670107976",
+      "title": "電腦輔助繪圖 : AutoCAD 繪圖技術"
+    },
+    {
+      "id": "990051070560107976",
+      "title": "AutoCAD 電腦繪圖"
+    },
+    {
+      "id": "990050323220107976",
+      "title": "電腦繪圖學"
+    },
+    {
+      "id": "990050307580107976",
+      "title": "電腦繪圖"
+    },
+    {
+      "id": "990050771740107976",
+      "title": "電腦繪圖初步"
+    },
+    {
+      "id": "990051449760107976",
+      "title": "電腦輔助繪圖 : R14繪圖技巧"
+    },
+    {
+      "id": "990050108760107976",
+      "title": "電腦輔助繪圖 /"
+    },
+    {
+      "id": "990050867870107976",
+      "title": "電玩用繪圖軟體集"
+    },
+    {
+      "id": "990051186730107976",
+      "title": "活學活用電腦繪圖軟體Photoshop"
+    },
+    {
+      "id": "990050529400107976",
+      "title": "AutoCAD 繪圖軟體"
+    }
+  ],
+  "user_input_tokens": 56482,
+  "user_output_tokens": 2084,
+  "user_total_tokens": 58566,
+  "librarian_input_tokens": 98651,
+  "librarian_output_tokens": 611,
+  "librarian_total_tokens": 99262,
+  "total_input_tokens": 155133,
+  "total_output_tokens": 2695,
+  "total_tokens": 157828,
+  "elapsed_time": 79.21432304382324,
+  "turn": 3
+}

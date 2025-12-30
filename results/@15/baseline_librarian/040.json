@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2013版本的使用技巧及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990060399900107976",
+      "title": "Microsoft Excel 2013商用範例實作 /"
+    },
+    {
+      "id": "990059690080107976",
+      "title": "Microsoft Excel 2013使用手冊 = The simple, efficient and effective way to learn Microsoft Excel /"
+    },
+    {
+      "id": "990071798920107976",
+      "title": "Excel VBA基礎必修課 : 增量版(適用Excel 2016/2013/2010) /"
+    },
+    {
+      "id": "990063369390107976",
+      "title": "商業智慧分析決策系統開發寶典 : 使用Access 2013與Excel 2013 /"
+    },
+    {
+      "id": "990060769980107976",
+      "title": "MOS Excel 2013 Core國際認證應考教材 /"
+    },
+    {
+      "id": "990060771060107976",
+      "title": "搞懂Excel 2013 : 精通試算表的範例講堂 /"
+    },
+    {
+      "id": "990060238430107976",
+      "title": "馬上就會Excel 2013商務實作與應用 /"
+    },
+    {
+      "id": "990060375120107976",
+      "title": "看!就是比你早下班 : Word/Excel 2013職場の實踐技 /"
+    },
+    {
+      "id": "990059741950107976",
+      "title": "Excel 2013統計分析實務 : 市場調查與資料分析 /"
+    },
+    {
+      "id": "990059643830107976",
+      "title": "看!就是比你早下班 : 邁向Excel 2013の職場達人之路 /"
+    },
+    {
+      "id": "990059689720107976",
+      "title": "最新計算機概論 2013 = Introduciton to computer science 2013 /"
+    },
+    {
+      "id": "990059504080107976",
+      "title": "Office 2013完全必修 /"
+    },
+    {
+      "id": "990063592810107976",
+      "title": "MOS 2013國際認證應考總複習 : For Microsoft Word, Excel, PowerPoint, Access and Outlook /"
+    },
+    {
+      "id": "990063393220107976",
+      "title": "即學即用! 超簡單的Excel樞紐分析 : 數據整理快又有效! Excel 2016/2013/2010/2007 適用 /"
+    },
+    {
+      "id": "990072795560107976",
+      "title": "Excel函數與分析工具(適用Excel2019/2016/2013) : 應用解析 x 實務範例 x 統計分析 /"
+    }
+  ],
+  "input_tokens": 11551,
+  "output_tokens": 211,
+  "total_tokens": 11762,
+  "elapsed_time": 8.002015113830566
+}

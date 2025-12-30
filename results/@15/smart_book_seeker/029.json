@@ -1,0 +1,24 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹BBS架設網站及相關操作技術的書籍",
+  "books": [
+    {
+      "id": "990060960080107976",
+      "title": "Linux Kernel設計的藝術 : 圖解Linux操作系統架構設計與實現原理 /"
+    },
+    {
+      "id": "990059158000107976",
+      "title": "徹底研究Linux Kernel設計的藝術 : 圖解Linux操作系統架構設計與實現原理 /"
+    }
+  ],
+  "user_input_tokens": 60349,
+  "user_output_tokens": 837,
+  "user_total_tokens": 61186,
+  "librarian_input_tokens": 267440,
+  "librarian_output_tokens": 1713,
+  "librarian_total_tokens": 269153,
+  "total_input_tokens": 327789,
+  "total_output_tokens": 2550,
+  "total_tokens": 330339,
+  "elapsed_time": 102.4137270450592,
+  "turn": 7
+}

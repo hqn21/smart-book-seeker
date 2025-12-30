@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Dreamweaver CS6設計網頁以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990059637680107976",
+      "title": "Dreamweaver CS6創意X學習趣 = Creative learning with Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059488790107976",
+      "title": "正確學會Dreamweaver CS6的16堂課 = The most effective way for learning Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059637640107976",
+      "title": "學會PhotoImpact X3 Flash CS6 Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059488830107976",
+      "title": "用Dreamweaver CS6我也會開發APP /"
+    },
+    {
+      "id": "990059489480107976",
+      "title": "Dreamweaver CS6行動網頁全新進化 /"
+    },
+    {
+      "id": "990071798390107976",
+      "title": "Dreamweaver CS6 : 網頁設計創意魔法."
+    },
+    {
+      "id": "990059689090107976",
+      "title": "Dreamweaver CS6網頁點子實戰課 /"
+    },
+    {
+      "id": "990059637790107976",
+      "title": "Dreamweaver CS6 & PHP資料庫實例應用 /"
+    },
+    {
+      "id": "990059689130107976",
+      "title": "動態網頁Dreamweaver CS6一切搞定 /"
+    },
+    {
+      "id": "990059697920107976",
+      "title": "就是愛玩Dreamweaver CS6 : 網頁、美化、特效、設計 /"
+    },
+    {
+      "id": "990059689110107976",
+      "title": "Dreamweaver CS6網頁製作比你想的簡單! /"
+    },
+    {
+      "id": "990059751160107976",
+      "title": "Photoshop + Dreamweaver + Flash CS6網頁設計三合一 /"
+    },
+    {
+      "id": "990059689540107976",
+      "title": "Dreamweaver CS6 X PHP 超強互動網站特訓班 /"
+    },
+    {
+      "id": "990060412020107976",
+      "title": "跟我學Dreamweaver CS6一定要會的網頁製作技巧 /"
+    },
+    {
+      "id": "990059644150107976",
+      "title": "用Dreamweaver CS6我也會開發APP : Android/iOS跨平台實戰 /"
+    }
+  ],
+  "user_input_tokens": 38113,
+  "user_output_tokens": 1715,
+  "user_total_tokens": 39828,
+  "librarian_input_tokens": 51177,
+  "librarian_output_tokens": 406,
+  "librarian_total_tokens": 51583,
+  "total_input_tokens": 89290,
+  "total_output_tokens": 2121,
+  "total_tokens": 91411,
+  "elapsed_time": 48.26509428024292,
+  "turn": 2
+}

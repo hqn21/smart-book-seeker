@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 VisiCalc 的處理及應用的書籍",
+  "books": [
+    {
+      "id": "990050867690107976",
+      "title": "VisiCalc初步"
+    },
+    {
+      "id": "990050717220107976",
+      "title": "VISICALC使用準則"
+    },
+    {
+      "id": "990050867680107976",
+      "title": "PC VisiCalc 使用手冊"
+    },
+    {
+      "id": "990050717210107976",
+      "title": "VISICALC應用實例"
+    },
+    {
+      "id": "990050275230107976",
+      "title": "VISICALC操作手冊"
+    }
+  ],
+  "input_tokens": 11483,
+  "output_tokens": 194,
+  "total_tokens": 11677,
+  "elapsed_time": 8.059079885482788
+}

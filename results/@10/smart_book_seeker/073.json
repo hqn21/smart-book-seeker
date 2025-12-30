@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 AutoCAD 2002 輔助繪圖的相關使用技巧的書籍",
+  "books": [
+    {
+      "id": "990051392440107976",
+      "title": "中文版AutoCAD 2000繪圖軟體使用手冊"
+    },
+    {
+      "id": "990050794490107976",
+      "title": "AutoCAD R12 繪圖軟體使用手冊"
+    },
+    {
+      "id": "990050786780107976",
+      "title": "AutoCAD R11/R12 繪圖軟體使用手冊"
+    },
+    {
+      "id": "990050805670107976",
+      "title": "電腦輔助繪圖 : AutoCAD 繪圖技術"
+    },
+    {
+      "id": "990051070560107976",
+      "title": "AutoCAD 電腦繪圖"
+    },
+    {
+      "id": "990050529400107976",
+      "title": "AutoCAD 繪圖軟體"
+    },
+    {
+      "id": "990052704070107976",
+      "title": "AutoCAD繪圖實例"
+    },
+    {
+      "id": "990050797260107976",
+      "title": "AutoCAD 繪圖專家系統"
+    },
+    {
+      "id": "990052565200107976",
+      "title": "以AutoCAD繪製第一張平面圖 : 電腦繪圖設計"
+    },
+    {
+      "id": "990052038510107976",
+      "title": "AutoCAD電腦繪圖精華"
+    }
+  ],
+  "user_input_tokens": 57219,
+  "user_output_tokens": 1932,
+  "user_total_tokens": 59151,
+  "librarian_input_tokens": 113627,
+  "librarian_output_tokens": 823,
+  "librarian_total_tokens": 114450,
+  "total_input_tokens": 170846,
+  "total_output_tokens": 2755,
+  "total_tokens": 173601,
+  "elapsed_time": 69.26910424232483,
+  "turn": 4
+}

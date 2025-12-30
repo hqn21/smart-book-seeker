@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Raspberry Pi入門開發的應用相關的書籍",
+  "books": [
+    {
+      "id": "990073709150107976",
+      "title": "Raspberry Pi 4 最佳入門與實戰應用, 3/e : 適用Raspberry Pi 2/Raspberry Pi 3 /"
+    },
+    {
+      "id": "990063587800107976",
+      "title": "Raspberry Pi最佳入門與實戰應用 /"
+    },
+    {
+      "id": "990060770160107976",
+      "title": "Raspberry Pi超炫專案與完全實戰 : 深入Raspberry Pi的全面開發經典 /"
+    },
+    {
+      "id": "990059751200107976",
+      "title": "Raspberry Pi使用者手冊 = Raspberry Pi user guide /"
+    },
+    {
+      "id": "990063468260107976",
+      "title": "Windows 10 IOT物聯網入門與實戰 : 使用Raspberry Pi /"
+    }
+  ],
+  "user_input_tokens": 22597,
+  "user_output_tokens": 962,
+  "user_total_tokens": 23559,
+  "librarian_input_tokens": 37942,
+  "librarian_output_tokens": 459,
+  "librarian_total_tokens": 38401,
+  "total_input_tokens": 60539,
+  "total_output_tokens": 1421,
+  "total_tokens": 61960,
+  "elapsed_time": 35.478190898895264,
+  "turn": 2
+}

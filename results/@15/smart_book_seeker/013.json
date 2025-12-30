@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS5來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990053183840107976",
+      "title": "輕鬆學Flash CS5動畫設計 /"
+    },
+    {
+      "id": "990059688040107976",
+      "title": "活學活用Flash CS6 : 全方位快速搞定圖文設計x動畫製作xActionScript應用 /"
+    },
+    {
+      "id": "990059689160107976",
+      "title": "製作動畫Flash CS6一切搞定 /"
+    },
+    {
+      "id": "990052759120107976",
+      "title": "動畫製作 : Flash"
+    },
+    {
+      "id": "990052587380107976",
+      "title": "Flash ActionScript 3.0動畫製作大師"
+    },
+    {
+      "id": "990052527310107976",
+      "title": "Flash CS3商業動畫製作與網頁設計實務"
+    },
+    {
+      "id": "990052688320107976",
+      "title": "學會動畫製作Flash CS3"
+    },
+    {
+      "id": "990053160700107976",
+      "title": "Flash CS4 動畫與遊戲製作必修技"
+    },
+    {
+      "id": "990052016070107976",
+      "title": "Flash創意動畫易上手"
+    },
+    {
+      "id": "990052134040107976",
+      "title": "Flash 8動畫製作寶典 : 看圖學Flash 27招91式"
+    },
+    {
+      "id": "990052134860107976",
+      "title": "Captivate互動式教學影片製作實務"
+    },
+    {
+      "id": "990052379620107976",
+      "title": "創意技巧與Flash動畫"
+    },
+    {
+      "id": "990051672410107976",
+      "title": "Flash MX卡通、動畫、網頁 : 我就是愛動"
+    },
+    {
+      "id": "990051898190107976",
+      "title": "精彩Flash MX 2004動畫製作 : 中文版"
+    },
+    {
+      "id": "990052199120107976",
+      "title": "快快樂樂學Flash 8網頁製作"
+    }
+  ],
+  "user_input_tokens": 131367,
+  "user_output_tokens": 4327,
+  "user_total_tokens": 135694,
+  "librarian_input_tokens": 241534,
+  "librarian_output_tokens": 872,
+  "librarian_total_tokens": 242406,
+  "total_input_tokens": 372901,
+  "total_output_tokens": 5199,
+  "total_tokens": 378100,
+  "elapsed_time": 109.06578207015991,
+  "turn": 4
+}

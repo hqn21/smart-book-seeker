@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關學習太陽能電池的原理、技術、材料和一些基礎應用的書籍",
+  "books": [
+    {
+      "id": "990052692460107976",
+      "title": "太陽能電池材料 = Solar cell materials"
+    },
+    {
+      "id": "990052704420107976",
+      "title": "太陽電池 = Solar Cells /"
+    },
+    {
+      "id": "990050395960107976",
+      "title": "太陽能"
+    },
+    {
+      "id": "990050449850107976",
+      "title": "太陽‧光與燃料電池"
+    },
+    {
+      "id": "990050449870107976",
+      "title": "太陽電池與光電池實驗指南"
+    },
+    {
+      "id": "990051432920107976",
+      "title": "電池的科學 : 從生物電池至太陽電池"
+    },
+    {
+      "id": "990063361930107976",
+      "title": "太陽電池技術入門 /"
+    },
+    {
+      "id": "990058713110107976",
+      "title": "應用太陽電池 = Applied photovoltaic /"
+    },
+    {
+      "id": "990050447520107976",
+      "title": "太陽能工程原理"
+    },
+    {
+      "id": "990052488790107976",
+      "title": "有機與塑膠太陽能電池 = Organic solar cells and plastics solar cells"
+    }
+  ],
+  "user_input_tokens": 27369,
+  "user_output_tokens": 1137,
+  "user_total_tokens": 28506,
+  "librarian_input_tokens": 43151,
+  "librarian_output_tokens": 468,
+  "librarian_total_tokens": 43619,
+  "total_input_tokens": 70520,
+  "total_output_tokens": 1605,
+  "total_tokens": 72125,
+  "elapsed_time": 49.49052119255066,
+  "turn": 2
+}

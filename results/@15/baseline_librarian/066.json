@@ -1,0 +1,13 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Ruby on Rails 程式設計、網站建構和開發等等應用的書籍",
+  "books": [
+    {
+      "id": "990052316240107976",
+      "title": "Ruby on Rails網路應用程式開發與建置"
+    }
+  ],
+  "input_tokens": 11718,
+  "output_tokens": 243,
+  "total_tokens": 11961,
+  "elapsed_time": 7.941331148147583
+}

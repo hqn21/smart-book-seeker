@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹書籍 Windows 系統重灌、備份和維護等等相關書籍",
+  "books": [
+    {
+      "id": "990051941890107976",
+      "title": "Windows XP系統備份、還原、急救大全"
+    },
+    {
+      "id": "990059067160107976",
+      "title": "Windows 7完美重灌術 : 資料備份.轉移輕鬆做 = Making computers better & faster /"
+    },
+    {
+      "id": "990053161330107976",
+      "title": "Windows重灌 : 電腦回春.資料備份.效能調校.疑難排除 = Making computers better & faster"
+    },
+    {
+      "id": "990059690360107976",
+      "title": "Windows 8重灌優化改造頂級攻略 /"
+    },
+    {
+      "id": "990053161210107976",
+      "title": "Windows 7 極上之技活用.設定.優化 : Advanced Manual"
+    }
+  ],
+  "user_input_tokens": 55439,
+  "user_output_tokens": 1975,
+  "user_total_tokens": 57414,
+  "librarian_input_tokens": 115182,
+  "librarian_output_tokens": 956,
+  "librarian_total_tokens": 116138,
+  "total_input_tokens": 170621,
+  "total_output_tokens": 2931,
+  "total_tokens": 173552,
+  "elapsed_time": 70.68719005584717,
+  "turn": 4
+}

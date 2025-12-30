@@ -1,0 +1,13 @@
+{
+  "user_book_needs": "使用者的目標是尋找和Excel巨集或是VBA有關的技巧、函數應用及資料庫相關的書籍",
+  "books": [
+    {
+      "id": "990059488980107976",
+      "title": "老闆不說,但一定要會! : Excel數據資料整理.分析.呈現與活用技巧 /"
+    }
+  ],
+  "input_tokens": 11439,
+  "output_tokens": 135,
+  "total_tokens": 11574,
+  "elapsed_time": 7.127892971038818
+}

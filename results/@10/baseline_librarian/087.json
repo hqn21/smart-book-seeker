@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PhotoImpact 12版本的使用方式的書籍",
+  "books": [
+    {
+      "id": "990052313050107976",
+      "title": "突破PhotoImpact 12"
+    },
+    {
+      "id": "990052338060107976",
+      "title": "PhotoImpact 12影像玩味"
+    },
+    {
+      "id": "990052402130107976",
+      "title": "PhotoImpact 12楊比比生活影像館"
+    },
+    {
+      "id": "990052363670107976",
+      "title": "PhotoImpact 12影像處理e點通"
+    },
+    {
+      "id": "990052363690107976",
+      "title": "PhotoImpact 12實用教學寶典"
+    },
+    {
+      "id": "990052367700107976",
+      "title": "PhotoImpact 12創意魔法全蒐錄"
+    },
+    {
+      "id": "990052316350107976",
+      "title": "PhotoImpact 12數位照片編修與運用範例"
+    },
+    {
+      "id": "990052356030107976",
+      "title": "輕鬆學PhotoImpact12中文版影像設計實務"
+    },
+    {
+      "id": "990052313070107976",
+      "title": "iBook突破PhotoImpact 12中文版 : Soez2U數位學習"
+    },
+    {
+      "id": "990052313080107976",
+      "title": "突破多媒體設計Dreamweaver 8、Flash 8、PhotoImpact 12中文版"
+    }
+  ],
+  "input_tokens": 11434,
+  "output_tokens": 165,
+  "total_tokens": 11599,
+  "elapsed_time": 6.745429039001465
+}

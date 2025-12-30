@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2002版本的使用技巧及介紹相關工具的書籍",
+  "books": [
+    {
+      "id": "990051619650107976",
+      "title": "快快樂樂學 Excel 2002 使用技巧"
+    },
+    {
+      "id": "990051689560107976",
+      "title": "Excel 2002超技巧方便麵 : 泡麵3分鐘，輕鬆學Excel 2002"
+    },
+    {
+      "id": "990051473620107976",
+      "title": "Excel超技巧770招加值增訂版"
+    },
+    {
+      "id": "990051607580107976",
+      "title": "快快樂樂學Excel 2000使用技巧"
+    },
+    {
+      "id": "990051916780107976",
+      "title": "Word Excel PowerPoint超完整技巧600招"
+    },
+    {
+      "id": "990051473640107976",
+      "title": "Word、Excel、PowerPoint必備技巧500招"
+    },
+    {
+      "id": "990051435720107976",
+      "title": "Word Excel PowerPoint必備技巧650招加值增訂版"
+    },
+    {
+      "id": "990051571580107976",
+      "title": "Excel進階技巧 : 報表的運算與製作"
+    },
+    {
+      "id": "990052531280107976",
+      "title": "經理人提升效率的Excel函數與巨集技巧"
+    },
+    {
+      "id": "990060362660107976",
+      "title": "一點就通!Excel財務和會計實戰技巧 /"
+    },
+    {
+      "id": "990072001430107976",
+      "title": "Excel VBA實戰技巧 : 金融數據x網路爬蟲 /"
+    },
+    {
+      "id": "990053161370107976",
+      "title": "經理人提升工作自動化效率的Excel VBA活用技巧"
+    },
+    {
+      "id": "990052680090107976",
+      "title": "聰明工作必知的Excel函數與公式實戰技巧精粹"
+    },
+    {
+      "id": "990072690920107976",
+      "title": "Excel自學聖經 : 從完整入門到職場活用的技巧與實例大全 = Excel all-in-one bible /"
+    },
+    {
+      "id": "9973823806907976",
+      "title": "Excel 2021嚴選教材! : 核心觀念x範例應用x操作技巧 /"
+    }
+  ],
+  "user_input_tokens": 42336,
+  "user_output_tokens": 1350,
+  "user_total_tokens": 43686,
+  "librarian_input_tokens": 74714,
+  "librarian_output_tokens": 671,
+  "librarian_total_tokens": 75385,
+  "total_input_tokens": 117050,
+  "total_output_tokens": 2021,
+  "total_tokens": 119071,
+  "elapsed_time": 52.61600208282471,
+  "turn": 3
+}

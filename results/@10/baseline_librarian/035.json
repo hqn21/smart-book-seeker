@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PowerPoint 2003版本的使用方式及相關簡報製作知識的書籍",
+  "books": [
+    {
+      "id": "990051882060107976",
+      "title": "FUN心學PowerPoint 2003"
+    },
+    {
+      "id": "990051881130107976",
+      "title": "Microsoft PowerPoint 2003使用手冊"
+    },
+    {
+      "id": "990051939680107976",
+      "title": "Powerpoint 2003快易通中文版"
+    },
+    {
+      "id": "990052133960107976",
+      "title": "學會PowerPoint 2003 e點就通"
+    },
+    {
+      "id": "990052343260107976",
+      "title": "PowerPoint 2003動態簡報經典"
+    },
+    {
+      "id": "990052065240107976",
+      "title": "PowerPoint 2003簡報製作真EZ"
+    },
+    {
+      "id": "990051866200107976",
+      "title": "PowerPoint 2003學習導引手冊"
+    },
+    {
+      "id": "990052338770107976",
+      "title": "快快樂樂學PowerPoint 2003徹底活用"
+    },
+    {
+      "id": "990052085310107976",
+      "title": "PowerPoint 2003實力養成暨評量"
+    },
+    {
+      "id": "990052070640107976",
+      "title": "PowerPoint 2003中文版實務 : 增訂producer線上教學製作"
+    }
+  ],
+  "input_tokens": 11489,
+  "output_tokens": 158,
+  "total_tokens": 11647,
+  "elapsed_time": 7.856946229934692
+}

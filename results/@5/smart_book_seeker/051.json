@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2013版本的書籍",
+  "books": [
+    {
+      "id": "990059504080107976",
+      "title": "Office 2013完全必修 /"
+    },
+    {
+      "id": "990060821950107976",
+      "title": "Office 2013範例教本 :"
+    },
+    {
+      "id": "990059504070107976",
+      "title": "Microsoft Office 2013非常easy /"
+    },
+    {
+      "id": "990060719840107976",
+      "title": "Office 2013教學範本 /"
+    },
+    {
+      "id": "990060238420107976",
+      "title": "看圖例學Office 2013 /"
+    }
+  ],
+  "user_input_tokens": 19539,
+  "user_output_tokens": 744,
+  "user_total_tokens": 20283,
+  "librarian_input_tokens": 35465,
+  "librarian_output_tokens": 353,
+  "librarian_total_tokens": 35818,
+  "total_input_tokens": 55004,
+  "total_output_tokens": 1097,
+  "total_tokens": 56101,
+  "elapsed_time": 39.615872859954834,
+  "turn": 2
+}

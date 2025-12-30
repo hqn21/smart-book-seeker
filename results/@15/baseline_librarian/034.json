@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Mandrake Linux 9以上的架站及相關系統知識的書籍",
+  "books": [
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990051797530107976",
+      "title": "Red Hat Linux 9安裝.升級.操作"
+    },
+    {
+      "id": "990052587210107976",
+      "title": "Windows Server 2008系統安裝與架站實務"
+    },
+    {
+      "id": "990051899810107976",
+      "title": "Fedora Core 2 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052180370107976",
+      "title": "Fedora Core 5 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052316220107976",
+      "title": "Fedora Core 6 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052086020107976",
+      "title": "Fedora Core 4 Linux : 安裝與系統管理"
+    },
+    {
+      "id": "990051828840107976",
+      "title": "百資Linux伺服器2.1 : 安裝及網管手冊"
+    },
+    {
+      "id": "990051867790107976",
+      "title": "硬碟安裝.安裝、分割、調整、系統轉移"
+    },
+    {
+      "id": "990052016210107976",
+      "title": "Mandrake Linux 10.1實務架站"
+    },
+    {
+      "id": "990051791930107976",
+      "title": "Mandrake Linux 9完全攻略"
+    },
+    {
+      "id": "990051770650107976",
+      "title": "告別Windows,擁抱Mandrake Linux 9"
+    },
+    {
+      "id": "990051430700107976",
+      "title": "Linux完全安裝DIY : 進階安裝與設定"
+    },
+    {
+      "id": "990051808180107976",
+      "title": "RedHat Linux 9無痛入門 : 安裝、升級、操作應用"
+    }
+  ],
+  "input_tokens": 11604,
+  "output_tokens": 216,
+  "total_tokens": 11820,
+  "elapsed_time": 9.636388778686523
+}

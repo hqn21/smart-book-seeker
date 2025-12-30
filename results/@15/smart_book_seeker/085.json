@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Lotus 1-2-3的應用以及基本操作的書籍",
+  "books": [
+    {
+      "id": "990050489430107976",
+      "title": "LOTUS 1-2-3 初步"
+    },
+    {
+      "id": "990050332780107976",
+      "title": "LOTUS 1-2-3 FOR WINDOWS"
+    },
+    {
+      "id": "990050019200107976",
+      "title": "LOTUS 1-2-3 命令指南"
+    },
+    {
+      "id": "990050057750107976",
+      "title": "Lotus 1-2-3 巨集技巧"
+    },
+    {
+      "id": "990050019190107976",
+      "title": "LOTUS 1-2-3 使用手冊"
+    },
+    {
+      "id": "990050000020107976",
+      "title": "Lotus 1-2-3 使用手冊"
+    },
+    {
+      "id": "990050780840107976",
+      "title": "Lotus 1-2-3 巨集程式庫"
+    },
+    {
+      "id": "990050780870107976",
+      "title": "Lotus 1-2-3 精華指引"
+    },
+    {
+      "id": "990050821430107976",
+      "title": "Lotus 1-2-3 入門指引"
+    },
+    {
+      "id": "990050745040107976",
+      "title": "LOTUS 1-2-3 使用者指南"
+    },
+    {
+      "id": "990050780810107976",
+      "title": "Lotus 1-2-3 範例圖解"
+    },
+    {
+      "id": "990050765140107976",
+      "title": "圖說Lotus 1-2-3 2.2 版"
+    },
+    {
+      "id": "990050330510107976",
+      "title": "Lotus 1-2-3 入門與應用"
+    },
+    {
+      "id": "990050229040107976",
+      "title": "Lotus 1-2-3 巨集學習手冊"
+    },
+    {
+      "id": "990050853670107976",
+      "title": "Lotus 1-2-3 使用手冊Release 2"
+    }
+  ],
+  "user_input_tokens": 53160,
+  "user_output_tokens": 435,
+  "user_total_tokens": 53595,
+  "librarian_input_tokens": 174184,
+  "librarian_output_tokens": 1145,
+  "librarian_total_tokens": 175329,
+  "total_input_tokens": 227344,
+  "total_output_tokens": 1580,
+  "total_tokens": 228924,
+  "elapsed_time": 79.9718930721283,
+  "turn": 5
+}

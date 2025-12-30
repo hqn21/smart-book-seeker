@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Dreamweaver CS6設計網頁以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990060412020107976",
+      "title": "跟我學Dreamweaver CS6一定要會的網頁製作技巧"
+    },
+    {
+      "id": "990059697920107976",
+      "title": "就是愛玩Dreamweaver CS6 : 網頁、美化、特效、設計"
+    },
+    {
+      "id": "990059697940107976",
+      "title": "Dreamweaver CS6+PHP商業資料庫網站整合設計"
+    },
+    {
+      "id": "990059488830107976",
+      "title": "用Dreamweaver CS6我也會開發APP"
+    },
+    {
+      "id": "990059489480107976",
+      "title": "Dreamweaver CS6行動網頁全新進化"
+    },
+    {
+      "id": "990059637680107976",
+      "title": "Dreamweaver CS6創意X學習趣 = Creative learning with Dreamweaver CS6"
+    },
+    {
+      "id": "990071798390107976",
+      "title": "Dreamweaver CS6 : 網頁設計創意魔法."
+    },
+    {
+      "id": "990059637790107976",
+      "title": "Dreamweaver CS6 & PHP資料庫實例應用"
+    },
+    {
+      "id": "990059637810107976",
+      "title": "活學活用Dreamweaver CS6 : 全方位快速搞定網站規劃x形象設計x多媒體應用"
+    },
+    {
+      "id": "990059689090107976",
+      "title": "Dreamweaver CS6網頁點子實戰課"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關學習使用 Kubernetes 的書籍",
+  "books": [
+    {
+      "id": "990072795000107976",
+      "title": "Kubernetes : 建置與執行 邁向基礎設施的未來"
+    },
+    {
+      "id": "990072795060107976",
+      "title": "Kubernetes最佳實務 : 成功建立Kubernetes應用程式的藍圖"
+    },
+    {
+      "id": "990072795090107976",
+      "title": "現在學正是時候 : 用Docker+Kubernetes建立永續叢集服務"
+    },
+    {
+      "id": "990072795390107976",
+      "title": "IT進階修煉 : Kubernetes企業級容器雲全方位應用"
+    },
+    {
+      "id": "990071791160107976",
+      "title": "Kubernetes : 建置與執行"
+    },
+    {
+      "id": "9973825810107976",
+      "title": "從異世界歸來發現只剩自己不會Kubernetes : 初心者進入雲端世界的實戰攻略!"
+    },
+    {
+      "id": "990063468570107976",
+      "title": "Google御用Docker叢集管理Kubernetes"
+    },
+    {
+      "id": "990072444440107976",
+      "title": "IT進階修煉 : 從Docker到Kubernetes 實作指南"
+    },
+    {
+      "id": "990073391400107976",
+      "title": "從Docker動手邁入全新DevOps時代 : 最完整Kubernetes全書"
+    },
+    {
+      "id": "990072199950107976",
+      "title": "Kubernetes權威指南 : 容器進化革命 : Kubernetes重新定義資訊世紀"
+    }
+  ]
+}

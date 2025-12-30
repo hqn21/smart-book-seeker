@@ -1,0 +1,84 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 Unity 設計 3D 遊戲的書籍",
+  "books": [
+    {
+      "id": "990072375490107976",
+      "title": "Unity 3D遊戲設計實戰 /"
+    },
+    {
+      "id": "990073707220107976",
+      "title": "Unity遊戲設計育成攻略 /"
+    },
+    {
+      "id": "990063371330107976",
+      "title": "人氣遊戲這麼做! : Unity 3D遊戲設計實例講堂 /"
+    },
+    {
+      "id": "990072375150107976",
+      "title": "超限進化3D設計 : iClone+Unity多媒體&遊戲創成精粹 /"
+    },
+    {
+      "id": "990053005660107976",
+      "title": "Unity 3D遊戲開發設計學院 : 第一本針對Unity介紹的中文書籍"
+    },
+    {
+      "id": "990071798680107976",
+      "title": "Unity行動遊戲開發實務 /"
+    },
+    {
+      "id": "990064733400107976",
+      "title": "Unity超人氣遊戲設計全書 : 萬代南夢宮一線設計師的原創大獎遊戲實戰! /"
+    },
+    {
+      "id": "990063371340107976",
+      "title": "你也能完成VR場景 : 用Unity實作3D虛擬實境遊戲 /"
+    },
+    {
+      "id": "990063369110107976",
+      "title": "3D互動設計與製作應用大全集 : iClone+Unity讓您快速成為3D互動多媒體與遊戲設計達人 /"
+    },
+    {
+      "id": "990060770860107976",
+      "title": "Unity跨平台全方位遊戲開發入門寶典 /"
+    },
+    {
+      "id": "990058743190107976",
+      "title": "Flash ActionScript 3.0平台遊戲開發 /"
+    },
+    {
+      "id": "990071381980107976",
+      "title": "用Python開發經典遊戲 /"
+    },
+    {
+      "id": "990073722220107976",
+      "title": "Python遊戲開發講座, 基礎知識與RPG遊戲 /"
+    },
+    {
+      "id": "990060412310107976",
+      "title": "ios遊戲從創意到開發 /"
+    },
+    {
+      "id": "990073722200107976",
+      "title": "Python遊戲開發講座, 動作射擊與3D賽車 /"
+    },
+    {
+      "id": "990063468740107976",
+      "title": "使用Sprite Kit開發iOS 2D遊戲 /"
+    },
+    {
+      "id": "990072277620107976",
+      "title": "Link Start!! VR遊戲開發實戰 = Virtual reality /"
+    }
+  ],
+  "user_input_tokens": 83328,
+  "user_output_tokens": 3097,
+  "user_total_tokens": 86425,
+  "librarian_input_tokens": 132674,
+  "librarian_output_tokens": 732,
+  "librarian_total_tokens": 133406,
+  "total_input_tokens": 216002,
+  "total_output_tokens": 3829,
+  "total_tokens": 219831,
+  "elapsed_time": 93.74068188667297,
+  "turn": 3
+}

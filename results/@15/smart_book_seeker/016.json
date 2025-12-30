@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Photoshop CS4來進行照片或是數位影像的編輯、處理和相關創作的書籍",
+  "books": [
+    {
+      "id": "990053157440107976",
+      "title": "Photoshop CS4 私房書"
+    },
+    {
+      "id": "990053161090107976",
+      "title": "跟我學 Photoshop CS4"
+    },
+    {
+      "id": "990053006020107976",
+      "title": "Photoshop CS4影像設計應用集"
+    },
+    {
+      "id": "990053158010107976",
+      "title": "Photoshop CS4 : 實力養成暨評量"
+    },
+    {
+      "id": "990052680190107976",
+      "title": "正確學會Photoshop CS4的16堂課"
+    },
+    {
+      "id": "990052688380107976",
+      "title": "大躍進!Photoshop CS4 の即效見本"
+    },
+    {
+      "id": "990053157840107976",
+      "title": "TQC+影像處理認證指南 : Photoshop CS4"
+    },
+    {
+      "id": "990059252220107976",
+      "title": "TQC+影像處理認證指南解題秘笈 : Photoshop CS4 /"
+    },
+    {
+      "id": "990053160920107976",
+      "title": "Photoshop CS4 完美呈現 : 頂尖數位攝影師秘技大公開!"
+    },
+    {
+      "id": "990060319310107976",
+      "title": "Photoshop IDEA設計館 : CS4/CS3/CS2/CS對應for Mac & Windows /"
+    },
+    {
+      "id": "990052680220107976",
+      "title": "平面設計大師PhotoShop CS4/Illustrator CS4/InDesign CS4"
+    },
+    {
+      "id": "990053008550107976",
+      "title": "電腦繪圖設計 : Illustrator與Photoshop CS4完美結合"
+    },
+    {
+      "id": "990059688050107976",
+      "title": "活學活用Photoshop CS6 : 全方位快速搞定影像合成x圖層編修x濾鏡特效應用 /"
+    },
+    {
+      "id": "990052037740107976",
+      "title": "Photoshop CS數位影像合成"
+    },
+    {
+      "id": "990051768320107976",
+      "title": "Photoshop濾鏡特效範例經典"
+    }
+  ],
+  "user_input_tokens": 163803,
+  "user_output_tokens": 2495,
+  "user_total_tokens": 166298,
+  "librarian_input_tokens": 528403,
+  "librarian_output_tokens": 1405,
+  "librarian_total_tokens": 529808,
+  "total_input_tokens": 692206,
+  "total_output_tokens": 3900,
+  "total_tokens": 696106,
+  "elapsed_time": 165.70489478111267,
+  "turn": 6
+}

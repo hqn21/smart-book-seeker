@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是學習商業微積分相關的基礎概念，並且他已具備一些微積分的基礎知識，沒有特定的應用領域",
+  "books": [
+    {
+      "id": "990051908290107976",
+      "title": "基礎微積分"
+    },
+    {
+      "id": "990051291210107976",
+      "title": "基礎微積分精要"
+    },
+    {
+      "id": "990050296070107976",
+      "title": "商學院微積分"
+    },
+    {
+      "id": "990058806790107976",
+      "title": "微積分 /"
+    },
+    {
+      "id": "990051832490107976",
+      "title": "微積分"
+    },
+    {
+      "id": "990061354960107976",
+      "title": "微積分."
+    },
+    {
+      "id": "990050556650107976",
+      "title": "應用微積分 /"
+    },
+    {
+      "id": "990060390520107976",
+      "title": "應用微積分 = Applied calculus /"
+    },
+    {
+      "id": "990052967320107976",
+      "title": "應用微積分 = Applied calculus"
+    },
+    {
+      "id": "990050745150107976",
+      "title": "高等應用微積分"
+    }
+  ],
+  "user_input_tokens": 57166,
+  "user_output_tokens": 2211,
+  "user_total_tokens": 59377,
+  "librarian_input_tokens": 98685,
+  "librarian_output_tokens": 688,
+  "librarian_total_tokens": 99373,
+  "total_input_tokens": 155851,
+  "total_output_tokens": 2899,
+  "total_tokens": 158750,
+  "elapsed_time": 69.14442300796509,
+  "turn": 3
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Windows NT的相關技術和應用書籍",
+  "books": [
+    {
+      "id": "990051401460107976",
+      "title": "Windows NT DNS"
+    },
+    {
+      "id": "990051186780107976",
+      "title": "認識Windows NT"
+    },
+    {
+      "id": "990051192560107976",
+      "title": "Windows NT登錄剖析"
+    },
+    {
+      "id": "990050834440107976",
+      "title": "Windows NT問答集"
+    },
+    {
+      "id": "990051018450107976",
+      "title": "Windows NT內部奧祕"
+    }
+  ],
+  "user_input_tokens": 19355,
+  "user_output_tokens": 799,
+  "user_total_tokens": 20154,
+  "librarian_input_tokens": 35437,
+  "librarian_output_tokens": 394,
+  "librarian_total_tokens": 35831,
+  "total_input_tokens": 54792,
+  "total_output_tokens": 1193,
+  "total_tokens": 55985,
+  "elapsed_time": 33.78856921195984,
+  "turn": 2
+}

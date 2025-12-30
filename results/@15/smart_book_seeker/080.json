@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找學習 Cisco 網路設備的設定與管理基本知識相關的書籍",
+  "books": [
+    {
+      "id": "990051543060107976",
+      "title": "精通Cisco路由器"
+    },
+    {
+      "id": "990051574010107976",
+      "title": "Cisco路由器設定"
+    },
+    {
+      "id": "990051534150107976",
+      "title": "CISCO ROUTER最佳入門實用書"
+    },
+    {
+      "id": "990052134870107976",
+      "title": "Cisco CCNA最新認證應考手冊"
+    },
+    {
+      "id": "990051953410107976",
+      "title": "Cisco網路工程 : CCNA 640-801考試用書"
+    },
+    {
+      "id": "990051899410107976",
+      "title": "CCNA 認證教戰手冊 = Cisco Certified Network Aaaociate Study Guide"
+    },
+    {
+      "id": "990059158190107976",
+      "title": "CCNA : 認證教戰手冊 = CCNA : cisco certifiel network associate study guide /"
+    },
+    {
+      "id": "990051798240107976",
+      "title": "Cisco Router入門之理論、實務與認證(CCNA認證)"
+    },
+    {
+      "id": "990052587000107976",
+      "title": "CCNA認證教戰手冊 = CCNA:Cisco Certified Network Associate Study Guide"
+    },
+    {
+      "id": "990051798280107976",
+      "title": "Cisco Router初級認證課程 : CCNA認證應考手冊"
+    },
+    {
+      "id": "990053025470107976",
+      "title": "交換式區域網路管理指南 /"
+    },
+    {
+      "id": "990052406080107976",
+      "title": "初探網路交換器 = LAN switching first-step"
+    },
+    {
+      "id": "990051989940107976",
+      "title": "網路管理"
+    },
+    {
+      "id": "990052978460107976",
+      "title": "網路管理 /"
+    },
+    {
+      "id": "990051722120107976",
+      "title": "網路安全與管理"
+    }
+  ],
+  "user_input_tokens": 122047,
+  "user_output_tokens": 1936,
+  "user_total_tokens": 123983,
+  "librarian_input_tokens": 320994,
+  "librarian_output_tokens": 1127,
+  "librarian_total_tokens": 322121,
+  "total_input_tokens": 443041,
+  "total_output_tokens": 3063,
+  "total_tokens": 446104,
+  "elapsed_time": 134.4670102596283,
+  "turn": 5
+}

@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Ruby on Rails 程式設計、網站建構和開發等等應用的書籍",
+  "books": [
+    {
+      "id": "990052311130107976",
+      "title": "Ruby on rails : 建置與執行 = Ruby on rails:up and running"
+    },
+    {
+      "id": "990052367780107976",
+      "title": "Ruby on Rails學習手札"
+    },
+    {
+      "id": "990052631300107976",
+      "title": "Ruby on Rails程式設計入門"
+    },
+    {
+      "id": "990052367800107976",
+      "title": "Ruby On Rails經典範例集"
+    },
+    {
+      "id": "990059637710107976",
+      "title": "Ruby on Rails最佳程式設計指南 /"
+    },
+    {
+      "id": "990052316240107976",
+      "title": "Ruby on Rails網路應用程式開發與建置"
+    },
+    {
+      "id": "990060717210107976",
+      "title": "Ruby on rails自習手冊 : 邁向鐵道工人之路 /"
+    },
+    {
+      "id": "990060730850107976",
+      "title": "10天學會Ruby on Rails : Web 2.0網站架設速成 /"
+    },
+    {
+      "id": "990063369340107976",
+      "title": "10天學會Ruby on Rails : Web2.0網站架設速成 /"
+    },
+    {
+      "id": "990060770640107976",
+      "title": "網站藍圖 : 學會Axure RP建構高擬真網頁 /"
+    },
+    {
+      "id": "990051535360107976",
+      "title": "Dreamweaver 4三點全露一刀未剪版 : 網站建構、網頁設計、網站管理"
+    },
+    {
+      "id": "990051594330107976",
+      "title": "網站開發新動力 : 用JSP輕鬆開發網站"
+    },
+    {
+      "id": "990051529990107976",
+      "title": "WAP網站開發指南"
+    },
+    {
+      "id": "990051873630107976",
+      "title": "JSP網站開發實務"
+    },
+    {
+      "id": "990060962970107976",
+      "title": "高效能網站開發指南 /"
+    }
+  ],
+  "user_input_tokens": 168810,
+  "user_output_tokens": 4513,
+  "user_total_tokens": 173323,
+  "librarian_input_tokens": 359610,
+  "librarian_output_tokens": 1072,
+  "librarian_total_tokens": 360682,
+  "total_input_tokens": 528420,
+  "total_output_tokens": 5585,
+  "total_tokens": 534005,
+  "elapsed_time": 130.49796676635742,
+  "turn": 5
+}

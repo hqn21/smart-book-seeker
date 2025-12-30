@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2013版本的使用技巧及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990059690080107976",
+      "title": "Microsoft Excel 2013使用手冊 = The simple, efficient and effective way to learn Microsoft Excel /"
+    },
+    {
+      "id": "990051607580107976",
+      "title": "快快樂樂學Excel 2000使用技巧"
+    },
+    {
+      "id": "990051619650107976",
+      "title": "快快樂樂學 Excel 2002 使用技巧"
+    },
+    {
+      "id": "990063369390107976",
+      "title": "商業智慧分析決策系統開發寶典 : 使用Access 2013與Excel 2013 /"
+    },
+    {
+      "id": "990059637910107976",
+      "title": "Word 2013使用手冊 /"
+    },
+    {
+      "id": "990060399900107976",
+      "title": "Microsoft Excel 2013商用範例實作 /"
+    },
+    {
+      "id": "990051619680107976",
+      "title": "Outlook 2002 使用技巧"
+    },
+    {
+      "id": "990071798920107976",
+      "title": "Excel VBA基礎必修課 : 增量版(適用Excel 2016/2013/2010) /"
+    },
+    {
+      "id": "990060769980107976",
+      "title": "MOS Excel 2013 Core國際認證應考教材 /"
+    },
+    {
+      "id": "990051265730107976",
+      "title": "壓縮軟體使用技巧"
+    }
+  ],
+  "input_tokens": 11487,
+  "output_tokens": 182,
+  "total_tokens": 11669,
+  "elapsed_time": 6.538281202316284
+}

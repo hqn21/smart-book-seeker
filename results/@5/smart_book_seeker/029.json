@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹BBS架設網站及相關操作技術的書籍",
+  "books": [
+    {
+      "id": "990050333820107976",
+      "title": "BBS 網路世界"
+    },
+    {
+      "id": "990051292700107976",
+      "title": "網路架設DIY"
+    },
+    {
+      "id": "990052356560107976",
+      "title": "電腦DIY2007 : 區域網路架設,分享與管理"
+    },
+    {
+      "id": "990052036780107976",
+      "title": "XOOPS 2網站架設與管理"
+    },
+    {
+      "id": "990051808500107976",
+      "title": "影音網站架設實務"
+    }
+  ],
+  "user_input_tokens": 26956,
+  "user_output_tokens": 804,
+  "user_total_tokens": 27760,
+  "librarian_input_tokens": 59587,
+  "librarian_output_tokens": 586,
+  "librarian_total_tokens": 60173,
+  "total_input_tokens": 86543,
+  "total_output_tokens": 1390,
+  "total_tokens": 87933,
+  "elapsed_time": 41.98012018203735,
+  "turn": 3
+}

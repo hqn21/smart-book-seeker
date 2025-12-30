@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關昆蟲的圖鑑以及相關有趣知識及各方各面知識的書籍",
+  "books": [
+    {
+      "id": "990052273750107976",
+      "title": "原色日本昆蟲圖鑑 = Coloured illustrations of the insects of Japan"
+    },
+    {
+      "id": "9973788409907976",
+      "title": "原色千種昆蟲圖譜 /"
+    },
+    {
+      "id": "9973821275507976",
+      "title": "專為孩子設計!世界驚奇甲蟲圖鑑 /"
+    },
+    {
+      "id": "9973828005807976",
+      "title": "鍬形蟲58 : 野外觀察超圖鑑 = A field guide to the stag beetles of Taiwan /"
+    },
+    {
+      "id": "9973832709607976",
+      "title": "小蟲大哉問 : 自然生態的科學探察與人文思考 /"
+    },
+    {
+      "id": "9973770205907976",
+      "title": "物種與人類世 : 20世紀的動植物知識 /"
+    },
+    {
+      "id": "990052720100107976",
+      "title": "環境大氣と生態"
+    },
+    {
+      "id": "990071225990107976",
+      "title": "全球環境變遷與生態永續 /"
+    },
+    {
+      "id": "990058787910107976",
+      "title": "加溫中的陸地生態系 /"
+    },
+    {
+      "id": "990051194940107976",
+      "title": "生態學"
+    }
+  ],
+  "user_input_tokens": 297295,
+  "user_output_tokens": 9305,
+  "user_total_tokens": 306600,
+  "librarian_input_tokens": 618474,
+  "librarian_output_tokens": 1458,
+  "librarian_total_tokens": 619932,
+  "total_input_tokens": 915769,
+  "total_output_tokens": 10763,
+  "total_tokens": 926532,
+  "elapsed_time": 261.1921820640564,
+  "turn": 6
+}

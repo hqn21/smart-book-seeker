@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 PyTorch 來進行深度學習或機器學習的書籍",
+  "books": [
+    {
+      "id": "990072990430107976",
+      "title": "PyTorch深度學習攻略 : 核心開發者親授! /"
+    },
+    {
+      "id": "990071960800107976",
+      "title": "PyTorch深度學習與自然語言中文處理 /"
+    },
+    {
+      "id": "990072792700107976",
+      "title": "寫給程式設計師的深度學習｜使用fastai和PyTorch /"
+    },
+    {
+      "id": "990072197140107976",
+      "title": "實戰人工智慧之深度強化學習 : 使用PyTorch ╳Python /"
+    },
+    {
+      "id": "990073391380107976",
+      "title": "PyTorch深度學習 : 電腦視覺流行專案親自動手 /"
+    }
+  ],
+  "user_input_tokens": 22133,
+  "user_output_tokens": 993,
+  "user_total_tokens": 23126,
+  "librarian_input_tokens": 38051,
+  "librarian_output_tokens": 475,
+  "librarian_total_tokens": 38526,
+  "total_input_tokens": 60184,
+  "total_output_tokens": 1468,
+  "total_tokens": 61652,
+  "elapsed_time": 34.34121608734131,
+  "turn": 2
+}

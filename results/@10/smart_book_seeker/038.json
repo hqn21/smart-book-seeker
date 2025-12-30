@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Word 2007版本的使用方式及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990059353570107976",
+      "title": "跟我學Word 2007 /"
+    },
+    {
+      "id": "990058734590107976",
+      "title": "Word 2007實作教材 /"
+    },
+    {
+      "id": "990052587280107976",
+      "title": "Word 2007私房教師"
+    },
+    {
+      "id": "990052338140107976",
+      "title": "Word 2007快速上手100招"
+    },
+    {
+      "id": "990052364040107976",
+      "title": "Word 2007範例輕鬆學"
+    },
+    {
+      "id": "990052313010107976",
+      "title": "Word 2007精選教材隨手翻"
+    },
+    {
+      "id": "990052360250107976",
+      "title": "Word 2007文書編輯實務"
+    },
+    {
+      "id": "990052338320107976",
+      "title": "突破Word 2007中文版"
+    },
+    {
+      "id": "990058741440107976",
+      "title": "Word 2007實力養成暨評量 /"
+    },
+    {
+      "id": "990052406400107976",
+      "title": "Word 2007商業實務很簡單"
+    }
+  ],
+  "user_input_tokens": 25955,
+  "user_output_tokens": 960,
+  "user_total_tokens": 26915,
+  "librarian_input_tokens": 41863,
+  "librarian_output_tokens": 380,
+  "librarian_total_tokens": 42243,
+  "total_input_tokens": 67818,
+  "total_output_tokens": 1340,
+  "total_tokens": 69158,
+  "elapsed_time": 38.2534921169281,
+  "turn": 2
+}

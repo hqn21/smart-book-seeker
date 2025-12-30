@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Dreamweaver CS6設計網頁以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990059637680107976",
+      "title": "Dreamweaver CS6創意X學習趣 = Creative learning with Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059488790107976",
+      "title": "正確學會Dreamweaver CS6的16堂課 = The most effective way for learning Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059637640107976",
+      "title": "學會PhotoImpact X3 Flash CS6 Dreamweaver CS6 /"
+    },
+    {
+      "id": "990059488830107976",
+      "title": "用Dreamweaver CS6我也會開發APP /"
+    },
+    {
+      "id": "990059489480107976",
+      "title": "Dreamweaver CS6行動網頁全新進化 /"
+    }
+  ],
+  "input_tokens": 11612,
+  "output_tokens": 210,
+  "total_tokens": 11822,
+  "elapsed_time": 7.562669038772583
+}

@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2007版本的書籍",
+  "books": [
+    {
+      "id": "990052587270107976",
+      "title": "Office 2007私房書"
+    },
+    {
+      "id": "990052351880107976",
+      "title": "跟我學Microsoft Office 2007"
+    },
+    {
+      "id": "990058734580107976",
+      "title": "Office 2007學習手冊 /"
+    },
+    {
+      "id": "990052591510107976",
+      "title": "Office 2007學習手冊"
+    },
+    {
+      "id": "990052363870107976",
+      "title": "Office 2007三色學習"
+    },
+    {
+      "id": "990053172050107976",
+      "title": "Office論文寫作實務 : 以Office 2007為例"
+    },
+    {
+      "id": "990052338730107976",
+      "title": "Microsoft Office SharePoint Server 2007技術手冊 /"
+    },
+    {
+      "id": "990052338780107976",
+      "title": "Microsoft Office SharePoint Server 2007實戰手冊"
+    },
+    {
+      "id": "990052563280107976",
+      "title": "完全制霸 : Office 2007技巧的便利貼"
+    },
+    {
+      "id": "990052504300107976",
+      "title": "Office 2007完整學習與實務應用"
+    }
+  ],
+  "input_tokens": 11458,
+  "output_tokens": 184,
+  "total_tokens": 11642,
+  "elapsed_time": 8.28945803642273
+}

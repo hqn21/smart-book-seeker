@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Mandrake Linux 9以上的架站及相關系統知識的書籍",
+  "books": [
+    {
+      "id": "990051809490107976",
+      "title": "Mandrake Linux 9.1實務應用"
+    },
+    {
+      "id": "990051891970107976",
+      "title": "Mandrake Linux 10學習真簡單"
+    },
+    {
+      "id": "990051770250107976",
+      "title": "Mandrake Linux 9徹底研究 : 從入門到應用"
+    },
+    {
+      "id": "990051770650107976",
+      "title": "告別Windows,擁抱Mandrake Linux 9"
+    },
+    {
+      "id": "990051882120107976",
+      "title": "Mandrake Linux 10火速上手"
+    },
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990052016210107976",
+      "title": "Mandrake Linux 10.1實務架站"
+    },
+    {
+      "id": "990051791930107976",
+      "title": "Mandrake Linux 9完全攻略"
+    },
+    {
+      "id": "990051797470107976",
+      "title": "Mandrake Linux 9.1入門與架站實務"
+    }
+  ]
+}

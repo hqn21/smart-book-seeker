@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FrontPage 2003 版本架設網站的使用介紹及操作技巧等等相關的書籍",
+  "books": [
+    {
+      "id": "990052069940107976",
+      "title": "精通FrontPage 2003"
+    },
+    {
+      "id": "990052139560107976",
+      "title": "FrontPage 2003完全教本"
+    },
+    {
+      "id": "990051953390107976",
+      "title": "FrontPage 2003高手攻略"
+    },
+    {
+      "id": "990051866710107976",
+      "title": "Frontpage 2003私房書"
+    },
+    {
+      "id": "990051867770107976",
+      "title": "FrontPage 2003魔法書"
+    },
+    {
+      "id": "990052037750107976",
+      "title": "FrontPage 2003網頁設計真EZ"
+    },
+    {
+      "id": "990051939510107976",
+      "title": "多媒體網頁設計 = FrontPage2003"
+    },
+    {
+      "id": "990052183190107976",
+      "title": "活用網頁設計 : FrontPage 2003、PhotoImpact 11、Flash 8"
+    },
+    {
+      "id": "990051892180107976",
+      "title": "活用網頁設計FrontPage 2003 PhotoImpact 8 COOL 3D Production Studio"
+    },
+    {
+      "id": "990052070140107976",
+      "title": "FrontPage網頁設計高手"
+    },
+    {
+      "id": "990051882050107976",
+      "title": "FUN心學FrontPage 2003"
+    },
+    {
+      "id": "990051906650107976",
+      "title": "FrontPage 2003一看就懂"
+    },
+    {
+      "id": "990051866180107976",
+      "title": "FRONTPAGE 2003學習導引手冊"
+    },
+    {
+      "id": "990052401920107976",
+      "title": "FrontPage 2003中文版實務"
+    },
+    {
+      "id": "990051939510107976",
+      "title": "多媒體網頁設計 = FrontPage2003"
+    }
+  ],
+  "user_input_tokens": 73988,
+  "user_output_tokens": 2676,
+  "user_total_tokens": 76664,
+  "librarian_input_tokens": 122224,
+  "librarian_output_tokens": 622,
+  "librarian_total_tokens": 122846,
+  "total_input_tokens": 196212,
+  "total_output_tokens": 3298,
+  "total_tokens": 199510,
+  "elapsed_time": 76.04483580589294,
+  "turn": 3
+}

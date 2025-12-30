@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關雷射的原理以及相關應用",
+  "books": [
+    {
+      "id": "990052953700107976",
+      "title": "雷射原理與應用"
+    },
+    {
+      "id": "990051453820107976",
+      "title": "雷射原理教程"
+    },
+    {
+      "id": "990050825750107976",
+      "title": "固態雷射及應用"
+    },
+    {
+      "id": "990050759170107976",
+      "title": "雷射技術與應用"
+    },
+    {
+      "id": "990053165830107976",
+      "title": "圖解光與雷射應用"
+    }
+  ],
+  "user_input_tokens": 19165,
+  "user_output_tokens": 713,
+  "user_total_tokens": 19878,
+  "librarian_input_tokens": 35418,
+  "librarian_output_tokens": 375,
+  "librarian_total_tokens": 35793,
+  "total_input_tokens": 54583,
+  "total_output_tokens": 1088,
+  "total_tokens": 55671,
+  "elapsed_time": 28.2304630279541,
+  "turn": 2
+}

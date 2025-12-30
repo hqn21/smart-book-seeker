@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Excel 5.0 版本的使用方法以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990050801160107976",
+      "title": "Excel 5.0 中文版"
+    },
+    {
+      "id": "990050965740107976",
+      "title": "Excel 5.0 學習及應用指南"
+    },
+    {
+      "id": "990051258910107976",
+      "title": "Excel 實力養成暨評量Excel 5.0/7.0 適用"
+    },
+    {
+      "id": "990051039230107976",
+      "title": "中文版EXCEL 5.0 實務手冊"
+    },
+    {
+      "id": "990050837710107976",
+      "title": "Excel 5.0 中文版實務入門"
+    }
+  ],
+  "user_input_tokens": 20267,
+  "user_output_tokens": 769,
+  "user_total_tokens": 21036,
+  "librarian_input_tokens": 36251,
+  "librarian_output_tokens": 359,
+  "librarian_total_tokens": 36610,
+  "total_input_tokens": 56518,
+  "total_output_tokens": 1128,
+  "total_tokens": 57646,
+  "elapsed_time": 32.580602169036865,
+  "turn": 2
+}

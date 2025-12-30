@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找如何使用Access 97的相關書籍",
+  "books": [
+    {
+      "id": "990051148560107976",
+      "title": "Access 97 使用手冊"
+    },
+    {
+      "id": "990051292710107976",
+      "title": "圖解中文ACCESS 97"
+    },
+    {
+      "id": "990051302750107976",
+      "title": "ACCESS 97 輕鬆上手"
+    },
+    {
+      "id": "990051302650107976",
+      "title": "Access 97 圖例學習範本"
+    },
+    {
+      "id": "990051424430107976",
+      "title": "Access 97中文版 Bible"
+    }
+  ],
+  "input_tokens": 11392,
+  "output_tokens": 184,
+  "total_tokens": 11576,
+  "elapsed_time": 7.167988061904907
+}

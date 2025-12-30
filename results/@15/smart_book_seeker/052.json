@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Node.js設計及開發網頁前後端等等的書籍",
+  "books": [
+    {
+      "id": "990063522110107976",
+      "title": "Node.js設計模式 /"
+    },
+    {
+      "id": "990060700360107976",
+      "title": "深入淺出Node.js /"
+    },
+    {
+      "id": "990064720140107976",
+      "title": "用Javascript一統前後端 : 御用語言Node.js出巡Web /"
+    },
+    {
+      "id": "990072199760107976",
+      "title": "頂級優效Web應用框架開發必備 : Node.js超階技能 /"
+    },
+    {
+      "id": "990071798580107976",
+      "title": "JavaScript再上一層樓 : 用新一代Node.js把後端也搞定 /"
+    },
+    {
+      "id": "990072967540107976",
+      "title": "用Node.js一統JavaScript前後端 : 強勢Web開發親手作 /"
+    },
+    {
+      "id": "990060412820107976",
+      "title": "不一樣的Node.js : 用JavaScript打造高效的前後台網頁程式 /"
+    },
+    {
+      "id": "990060770650107976",
+      "title": "伺服器端的script的帝王 : 成為Node.js高手的最後一哩 /"
+    },
+    {
+      "id": "990064720130107976",
+      "title": "實戰聊天機器人Bot開發 : 使用Node.js /"
+    },
+    {
+      "id": "990070942590107976",
+      "title": "Node.js物聯網裝置開發 /"
+    },
+    {
+      "id": "990070942810107976",
+      "title": "打造Web物聯網 : 使用Node.js與Raspberry Pi /"
+    },
+    {
+      "id": "990059637860107976",
+      "title": "Google御用網頁語言Node.js : 一流程式設計師養成精華 /"
+    },
+    {
+      "id": "990060412770107976",
+      "title": "HTML5遊戲開發 : 使用Canvas、Node.js、CSS3、Box2D /"
+    },
+    {
+      "id": "9973826409907976",
+      "title": "駕馭Chat GPT 4 : 探索Azure OpenAI與Cognitive Service for Language開發實踐(使用.NET與Node.js) /"
+    },
+    {
+      "id": "990063363510107976",
+      "title": "超圖解物聯網IoT實作入門 : 使用JavaScript/Node.JS/Arduino/Raspberry Pi/ESP8266/ Espruino /"
+    }
+  ],
+  "user_input_tokens": 62125,
+  "user_output_tokens": 1727,
+  "user_total_tokens": 63852,
+  "librarian_input_tokens": 191829,
+  "librarian_output_tokens": 1315,
+  "librarian_total_tokens": 193144,
+  "total_input_tokens": 253954,
+  "total_output_tokens": 3042,
+  "total_tokens": 256996,
+  "elapsed_time": 91.03204917907715,
+  "turn": 6
+}

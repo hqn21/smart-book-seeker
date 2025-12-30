@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Keras進行深度學習的書籍",
+  "books": [
+    {
+      "id": "990072375040107976",
+      "title": "深度學習 : 使用Keras /"
+    },
+    {
+      "id": "990064729590107976",
+      "title": "深度學習Keras快速開發入門 /"
+    },
+    {
+      "id": "990071734650107976",
+      "title": "Python深度學習實作 : Keras快速上手 /"
+    },
+    {
+      "id": "990072200300107976",
+      "title": "TensorFlow與Keras : Python深度學習應用實務 = Hands-on Deep Learning by TensorFlow and Keras with Python /"
+    },
+    {
+      "id": "990063665500107976",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用 /"
+    }
+  ],
+  "input_tokens": 11571,
+  "output_tokens": 216,
+  "total_tokens": 11787,
+  "elapsed_time": 8.666412115097046
+}

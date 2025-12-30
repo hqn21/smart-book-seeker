@@ -1,0 +1,25 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS5進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990051305570107976",
+      "title": "IE5+搜尋引擎 : 網路是我的圖書館"
+    },
+    {
+      "id": "990058742200107976",
+      "title": "跟我學Illustrator CS5一定要會的美工繪圖技巧 /"
+    },
+    {
+      "id": "990058742150107976",
+      "title": "Illustrator CS5數位向量繪圖講座 /"
+    },
+    {
+      "id": "990072796030107976",
+      "title": "Photoshop x Illustrator前進平面設計的世界 /"
+    },
+    {
+      "id": "990058742480107976",
+      "title": "抓住你的Illustrator CS5 /"
+    }
+  ]
+}

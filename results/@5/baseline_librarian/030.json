@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹使用Spark來處理及分析大數據書籍",
+  "books": [
+    {
+      "id": "990063591840107976",
+      "title": "大數據分析與應用(Big Data) : 使用Hadoop與Spark /"
+    },
+    {
+      "id": "990063468250107976",
+      "title": "Python+Spark 2.0+Hadoop機器學習與大數據分析實戰 /"
+    },
+    {
+      "id": "990071791280107976",
+      "title": "Spark 2.x大數據分析與機器學習實戰 = Mastering Apache Spark 2.x, Second Edition /"
+    },
+    {
+      "id": "990063528450107976",
+      "title": "Spark大數據分析的新利器 : 資料科學家與數據分析師非用不可的入門指南書 /"
+    },
+    {
+      "id": "990063392920107976",
+      "title": "Hadoop + Spark 大數據巨量分析與機器學習整合開發實戰 /"
+    }
+  ],
+  "input_tokens": 11377,
+  "output_tokens": 163,
+  "total_tokens": 11540,
+  "elapsed_time": 6.969994068145752
+}

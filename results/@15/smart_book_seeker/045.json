@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Flash 8來進行網頁設計的動畫製作",
+  "books": [
+    {
+      "id": "990052200070107976",
+      "title": "Flash 8網站動畫設計實務"
+    },
+    {
+      "id": "990052199120107976",
+      "title": "快快樂樂學Flash 8網頁製作"
+    },
+    {
+      "id": "990052189300107976",
+      "title": "Flash 8動畫設計應用集"
+    },
+    {
+      "id": "990052134040107976",
+      "title": "Flash 8動畫製作寶典 : 看圖學Flash 27招91式"
+    },
+    {
+      "id": "990052405320107976",
+      "title": "Flash 8躍動的網頁"
+    },
+    {
+      "id": "990052188600107976",
+      "title": "Flash 8動畫寶貝"
+    },
+    {
+      "id": "990052759120107976",
+      "title": "動畫製作 : Flash"
+    },
+    {
+      "id": "990052527310107976",
+      "title": "Flash CS3商業動畫製作與網頁設計實務"
+    },
+    {
+      "id": "990053172800107976",
+      "title": "動畫設計王 : 編製與設計一流專業的Flash網頁動畫"
+    },
+    {
+      "id": "990058795830107976",
+      "title": "動畫設計驚嘆號 : 至高的Flash網頁動畫88招 /"
+    },
+    {
+      "id": "990052587380107976",
+      "title": "Flash ActionScript 3.0動畫製作大師"
+    },
+    {
+      "id": "990052133860107976",
+      "title": "碼上就會 : Flash 8動畫設計寶典 /"
+    },
+    {
+      "id": "990052176060107976",
+      "title": "Flash 8中文版動畫設計部屋"
+    },
+    {
+      "id": "990051637580107976",
+      "title": "動畫製作家"
+    },
+    {
+      "id": "990051652870107976",
+      "title": "學Flash做動畫"
+    }
+  ],
+  "user_input_tokens": 193326,
+  "user_output_tokens": 5246,
+  "user_total_tokens": 198572,
+  "librarian_input_tokens": 421736,
+  "librarian_output_tokens": 1161,
+  "librarian_total_tokens": 422897,
+  "total_input_tokens": 615062,
+  "total_output_tokens": 6407,
+  "total_tokens": 621469,
+  "elapsed_time": 126.86266899108887,
+  "turn": 5
+}

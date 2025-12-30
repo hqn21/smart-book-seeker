@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 PROLOG 程式語言的使用技巧及原理的書籍",
+  "books": [
+    {
+      "id": "990050272940107976",
+      "title": "高等Turbo Prolog"
+    },
+    {
+      "id": "990050272970107976",
+      "title": "活用Turbo Prolog"
+    },
+    {
+      "id": "990050765820107976",
+      "title": "ARITY/PROLOG使用手冊"
+    },
+    {
+      "id": "990050263850107976",
+      "title": "Turbo Prolog 2.0使用手冊"
+    },
+    {
+      "id": "990050272990107976",
+      "title": "Turbo Prolog初學入門"
+    }
+  ],
+  "input_tokens": 11527,
+  "output_tokens": 190,
+  "total_tokens": 11717,
+  "elapsed_time": 7.29950213432312
+}

@@ -1,0 +1,13 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關雷射的原理以及相關應用",
+  "books": [
+    {
+      "id": "990052953700107976",
+      "title": "雷射原理與應用"
+    }
+  ],
+  "input_tokens": 11380,
+  "output_tokens": 183,
+  "total_tokens": 11563,
+  "elapsed_time": 7.810731887817383
+}

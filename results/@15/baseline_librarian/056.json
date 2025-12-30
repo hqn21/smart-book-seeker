@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Excel 5.0 版本的使用方法以及相關應用的書籍",
+  "books": [],
+  "input_tokens": 11492,
+  "output_tokens": 169,
+  "total_tokens": 11661,
+  "elapsed_time": 6.788608074188232
+}

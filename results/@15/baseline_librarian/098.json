@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Windows NT的相關技術和應用書籍",
+  "books": [
+    {
+      "id": "990051401460107976",
+      "title": "Windows NT DNS"
+    },
+    {
+      "id": "990051186780107976",
+      "title": "認識Windows NT"
+    },
+    {
+      "id": "990051192560107976",
+      "title": "Windows NT登錄剖析"
+    },
+    {
+      "id": "990050834440107976",
+      "title": "Windows NT問答集"
+    },
+    {
+      "id": "990051018450107976",
+      "title": "Windows NT內部奧祕"
+    },
+    {
+      "id": "990051018460107976",
+      "title": "Windows NT教學範本"
+    },
+    {
+      "id": "990051401520107976",
+      "title": "透視Windows NT Server 4"
+    },
+    {
+      "id": "990051158980107976",
+      "title": "Windows NT系統安全聖經"
+    },
+    {
+      "id": "990051145860107976",
+      "title": "Windows NT Server 4 管理經典"
+    },
+    {
+      "id": "990051401480107976",
+      "title": "Windows 98/NT網路應用"
+    },
+    {
+      "id": "990051146290107976",
+      "title": "循序漸進學Windows NT Workstation 4.0"
+    },
+    {
+      "id": "990051108850107976",
+      "title": "深入Windows NT 4.0 Workstation中文版"
+    },
+    {
+      "id": "990051068010107976",
+      "title": "Windows NT 4中文版"
+    },
+    {
+      "id": "990051379630107976",
+      "title": "Windows NT 4.0版之網路功能"
+    },
+    {
+      "id": "990051402310107976",
+      "title": "Windows NT系統效能最佳化"
+    }
+  ],
+  "input_tokens": 11443,
+  "output_tokens": 180,
+  "total_tokens": 11623,
+  "elapsed_time": 6.945399045944214
+}

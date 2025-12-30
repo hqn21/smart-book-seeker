@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關如何使用 Authorware 來進行多媒體的製作與設計相關的書籍",
+  "books": [
+    {
+      "id": "990051535500107976",
+      "title": "多媒體製作 : Authorware 5.0實務設計"
+    },
+    {
+      "id": "990051535510107976",
+      "title": "macromedia Authorware 5多媒體經典"
+    },
+    {
+      "id": "990051808600107976",
+      "title": "多媒體夢想家Authorware 6.5"
+    },
+    {
+      "id": "990051010130107976",
+      "title": "多媒體製作 : Authorware 3.0實務設計"
+    },
+    {
+      "id": "990051113010107976",
+      "title": "Authorware入門與應用"
+    },
+    {
+      "id": "990051454850107976",
+      "title": "AUTHORWARE 5基礎訓練教材"
+    },
+    {
+      "id": "990052119850107976",
+      "title": "Authorware 6多媒體製作大師"
+    },
+    {
+      "id": "990052120180107976",
+      "title": "Authorware 6多媒體實務"
+    },
+    {
+      "id": "990051420470107976",
+      "title": "CAI製作訓練教材 : Authorware 5"
+    },
+    {
+      "id": "990050859640107976",
+      "title": "Authorware Professional 2.0 入門使用手冊"
+    }
+  ]
+}

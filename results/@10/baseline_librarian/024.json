@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Raspberry Pi入門開發的應用相關的書籍",
+  "books": [
+    {
+      "id": "990059751200107976",
+      "title": "Raspberry Pi使用者手冊 = Raspberry Pi user guide /"
+    },
+    {
+      "id": "990073709150107976",
+      "title": "Raspberry Pi 4 最佳入門與實戰應用, 3/e : 適用Raspberry Pi 2/Raspberry Pi 3 /"
+    },
+    {
+      "id": "990059638100107976",
+      "title": "Raspberry Pi快速上手指南 /"
+    },
+    {
+      "id": "990071800360107976",
+      "title": "Raspberry Pi專案實作大全 /"
+    },
+    {
+      "id": "990071374420107976",
+      "title": "Raspberry Pi輕鬆上手指南 /"
+    },
+    {
+      "id": "990060770160107976",
+      "title": "Raspberry Pi超炫專案與完全實戰 : 深入Raspberry Pi的全面開發經典 /"
+    },
+    {
+      "id": "990063587800107976",
+      "title": "Raspberry Pi最佳入門與實戰應用 /"
+    },
+    {
+      "id": "990071374410107976",
+      "title": "Raspberry Pi超炫專案與完全實戰 /"
+    },
+    {
+      "id": "990070943430107976",
+      "title": "Raspberry Pi樹莓派從不懂,到玩上手! /"
+    },
+    {
+      "id": "990070942810107976",
+      "title": "打造Web物聯網 : 使用Node.js與Raspberry Pi /"
+    }
+  ],
+  "input_tokens": 11400,
+  "output_tokens": 159,
+  "total_tokens": 11559,
+  "elapsed_time": 7.031359910964966
+}

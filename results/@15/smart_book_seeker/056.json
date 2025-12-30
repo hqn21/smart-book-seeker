@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Excel 5.0 版本的使用方法以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990050801160107976",
+      "title": "Excel 5.0 中文版"
+    },
+    {
+      "id": "990050965740107976",
+      "title": "Excel 5.0 學習及應用指南"
+    },
+    {
+      "id": "990051039230107976",
+      "title": "中文版EXCEL 5.0 實務手冊"
+    },
+    {
+      "id": "990050837710107976",
+      "title": "Excel 5.0 中文版實務入門"
+    },
+    {
+      "id": "990050834410107976",
+      "title": "Excel 5.0 統計與數量方法應用"
+    },
+    {
+      "id": "990050834430107976",
+      "title": "看圖例學Microsoft Excel 5.0 中文版"
+    },
+    {
+      "id": "990050965770107976",
+      "title": "Excel 5.0 中文版入門與應用"
+    },
+    {
+      "id": "990051258910107976",
+      "title": "Excel 實力養成暨評量Excel 5.0/7.0 適用"
+    },
+    {
+      "id": "990051904090107976",
+      "title": "Excel 2003 VBA與進階應用"
+    },
+    {
+      "id": "990051770530107976",
+      "title": "Excel 2002 VBA與進階應用"
+    },
+    {
+      "id": "990052680080107976",
+      "title": "財務軟體應用 : Crystal Ball & Excel案例實作 = Financial Applications Using Crystal Ball and Excel"
+    },
+    {
+      "id": "990050793440107976",
+      "title": "Microsoft Excel 4.0 巨集教學範本"
+    },
+    {
+      "id": "990050793670107976",
+      "title": "中文Excel 4.0"
+    },
+    {
+      "id": "990051493810107976",
+      "title": "Excel 4.0 統計與數量方法應用"
+    },
+    {
+      "id": "990051493820107976",
+      "title": "Excel 4.0 中文版入門與應用"
+    }
+  ],
+  "user_input_tokens": 180681,
+  "user_output_tokens": 1894,
+  "user_total_tokens": 182575,
+  "librarian_input_tokens": 760913,
+  "librarian_output_tokens": 2312,
+  "librarian_total_tokens": 763225,
+  "total_input_tokens": 941594,
+  "total_output_tokens": 4206,
+  "total_tokens": 945800,
+  "elapsed_time": 185.2818329334259,
+  "turn": 8
+}

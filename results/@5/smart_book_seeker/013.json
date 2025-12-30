@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS5來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990053183840107976",
+      "title": "輕鬆學Flash CS5動畫設計 /"
+    },
+    {
+      "id": "990059688040107976",
+      "title": "活學活用Flash CS6 : 全方位快速搞定圖文設計x動畫製作xActionScript應用 /"
+    },
+    {
+      "id": "990058795830107976",
+      "title": "動畫設計驚嘆號 : 至高的Flash網頁動畫88招 /"
+    },
+    {
+      "id": "990051526990107976",
+      "title": "FLASH 5網頁影像與動畫設計師"
+    },
+    {
+      "id": "990052406230107976",
+      "title": "Flash動畫.視覺.互動設計大師"
+    }
+  ],
+  "user_input_tokens": 47575,
+  "user_output_tokens": 1423,
+  "user_total_tokens": 48998,
+  "librarian_input_tokens": 106887,
+  "librarian_output_tokens": 838,
+  "librarian_total_tokens": 107725,
+  "total_input_tokens": 154462,
+  "total_output_tokens": 2261,
+  "total_tokens": 156723,
+  "elapsed_time": 67.19823622703552,
+  "turn": 4
+}

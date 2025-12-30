@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2013版本的書籍",
+  "books": [
+    {
+      "id": "990052316320107976",
+      "title": "OFFICE入門與應用 : Word.Excel.PowerPoint"
+    },
+    {
+      "id": "990052937180107976",
+      "title": "Office 2007商務應用範例集 = Word.Excel.Powerpoint"
+    },
+    {
+      "id": "990051903610107976",
+      "title": "Word、Excel、PowerPoint徹底學通"
+    },
+    {
+      "id": "990063592810107976",
+      "title": "MOS 2013國際認證應考總複習 : For Microsoft Word, Excel, PowerPoint, Access and Outlook /"
+    },
+    {
+      "id": "990051916780107976",
+      "title": "Word Excel PowerPoint超完整技巧600招"
+    }
+  ],
+  "input_tokens": 11456,
+  "output_tokens": 190,
+  "total_tokens": 11646,
+  "elapsed_time": 8.71575403213501
+}

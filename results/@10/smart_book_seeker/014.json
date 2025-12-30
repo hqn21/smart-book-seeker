@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找2020~2024年使用AutoCAD來進行電腦繪圖方法或是教材的書籍",
+  "books": [
+    {
+      "id": "9973772860207976",
+      "title": "AutoCAD 2023特訓教材."
+    },
+    {
+      "id": "9973823805207976",
+      "title": "Autodesk AutoCAD電腦繪圖與輔助設計 : 適用AutoCAD 2021-2024含國際認證模擬試題 /"
+    },
+    {
+      "id": "9973824005707976",
+      "title": "TQC+AutoCAD 2024特訓教材."
+    },
+    {
+      "id": "9973824005907976",
+      "title": "TQC+ AutoCAD 2024特訓教材."
+    },
+    {
+      "id": "990072795830107976",
+      "title": "AutoCAD 2021特訓教材."
+    },
+    {
+      "id": "990072795530107976",
+      "title": "TQC+AutoCAD 2021特訓教材."
+    },
+    {
+      "id": "990072375960107976",
+      "title": "精通AutoCAD 2020機械設計 /"
+    },
+    {
+      "id": "990072375950107976",
+      "title": "AutoCAD 2020實戰演練 : 建築設計 /"
+    },
+    {
+      "id": "990072197150107976",
+      "title": "AutoCAD 2020電腦繪圖基礎與應用 /"
+    },
+    {
+      "id": "990072592690107976",
+      "title": "AutoCAD 2020電腦繪圖與絕佳設計表現 : 室內設計基礎 /"
+    }
+  ],
+  "user_input_tokens": 108829,
+  "user_output_tokens": 3798,
+  "user_total_tokens": 112627,
+  "librarian_input_tokens": 201844,
+  "librarian_output_tokens": 956,
+  "librarian_total_tokens": 202800,
+  "total_input_tokens": 310673,
+  "total_output_tokens": 4754,
+  "total_tokens": 315427,
+  "elapsed_time": 101.4272358417511,
+  "turn": 4
+}

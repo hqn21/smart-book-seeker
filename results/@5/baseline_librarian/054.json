@@ -1,0 +1,17 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關如何使用 Authorware 來進行多媒體的製作與設計相關的書籍",
+  "books": [
+    {
+      "id": "990051535500107976",
+      "title": "多媒體製作 : Authorware 5.0實務設計"
+    },
+    {
+      "id": "990051010130107976",
+      "title": "多媒體製作 : Authorware 3.0實務設計"
+    }
+  ],
+  "input_tokens": 11552,
+  "output_tokens": 180,
+  "total_tokens": 11732,
+  "elapsed_time": 7.742660045623779
+}

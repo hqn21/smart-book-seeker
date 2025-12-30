@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Windows NT的相關技術和應用書籍",
+  "books": [
+    {
+      "id": "990051186780107976",
+      "title": "認識Windows NT"
+    },
+    {
+      "id": "990051192560107976",
+      "title": "Windows NT登錄剖析"
+    },
+    {
+      "id": "990051192590107976",
+      "title": "Windows NT server 4.0 圖解與詳說"
+    },
+    {
+      "id": "990051607480107976",
+      "title": "深入研究Windows NT之TCP/IP網路系統"
+    },
+    {
+      "id": "990051146290107976",
+      "title": "循序漸進學Windows NT Workstation 4.0"
+    },
+    {
+      "id": "990051167330107976",
+      "title": "WINDOWS NT WORKSTATION 4.0中文版超級手冊"
+    },
+    {
+      "id": "990051108850107976",
+      "title": "深入Windows NT 4.0 Workstation中文版"
+    },
+    {
+      "id": "990051068010107976",
+      "title": "Windows NT 4中文版"
+    },
+    {
+      "id": "990051202930107976",
+      "title": "Windows NT Server 4.0 管理經典 : 基礎篇"
+    },
+    {
+      "id": "990051379630107976",
+      "title": "Windows NT 4.0版之網路功能"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關元宇宙的概念、趨勢以及技術原理相關的書籍",
+  "books": [
+    {
+      "id": "990073428190107976",
+      "title": "元宇宙 /"
+    },
+    {
+      "id": "990073720680107976",
+      "title": "元宇宙 = Metaverse /"
+    },
+    {
+      "id": "990073721730107976",
+      "title": "元宇宙必修課 : 好奇元宇宙的人, 你得知道的50件事 /"
+    },
+    {
+      "id": "990073708380107976",
+      "title": "我的第一本元宇宙指南 /"
+    },
+    {
+      "id": "990073391180107976",
+      "title": "元宇宙 : 浪潮之巔+無限創新(Metaverse Next Level) /"
+    }
+  ],
+  "user_input_tokens": 21057,
+  "user_output_tokens": 863,
+  "user_total_tokens": 21920,
+  "librarian_input_tokens": 37249,
+  "librarian_output_tokens": 423,
+  "librarian_total_tokens": 37672,
+  "total_input_tokens": 58306,
+  "total_output_tokens": 1286,
+  "total_tokens": 59592,
+  "elapsed_time": 34.325746059417725,
+  "turn": 2
+}

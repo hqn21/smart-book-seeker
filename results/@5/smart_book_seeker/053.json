@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關如何使用 WordPress 來規劃、架設、管理個人網站等等的相關知識",
+  "books": [
+    {
+      "id": "990052740010107976",
+      "title": "WordPress : 站長親授的十堂課"
+    },
+    {
+      "id": "990052982670107976",
+      "title": "親手打造部落格的家 : WordPress架站.管理.經營"
+    },
+    {
+      "id": "990072796040107976",
+      "title": "WordPress & 網頁設計會遇到的100個問題 /"
+    },
+    {
+      "id": "990063468850107976",
+      "title": "WordPress無敵架站手冊 : 架站新手都想擁有 : 教你打造個人專屬完美網站 /"
+    },
+    {
+      "id": "990058669450107976",
+      "title": "站長親授!WordPress 3.0部落格架站十堂課 /"
+    }
+  ],
+  "user_input_tokens": 110010,
+  "user_output_tokens": 3291,
+  "user_total_tokens": 113301,
+  "librarian_input_tokens": 238526,
+  "librarian_output_tokens": 1123,
+  "librarian_total_tokens": 239649,
+  "total_input_tokens": 348536,
+  "total_output_tokens": 4414,
+  "total_tokens": 352950,
+  "elapsed_time": 105.78941798210144,
+  "turn": 5
+}

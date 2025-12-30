@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關霍金的故事以及相關理論的書籍",
+  "books": [
+    {
+      "id": "990051659340107976",
+      "title": "霍金與上帝之心"
+    },
+    {
+      "id": "990051199790107976",
+      "title": "霍金宇宙新論 /"
+    },
+    {
+      "id": "990051282400107976",
+      "title": "霍金陪你漫遊宇宙 /"
+    },
+    {
+      "id": "990051597320107976",
+      "title": "霍金與最終理論的追尋"
+    },
+    {
+      "id": "990058658040107976",
+      "title": "霍金構思的宇宙 Into the universe with Stephen Hawking : the story of everything /"
+    },
+    {
+      "id": "990051406410107976",
+      "title": "時間的奧秘 : 從時間隧道到霍金"
+    },
+    {
+      "id": "990071716080107976",
+      "title": "這世界難捉摸 : 霍金也想懂的95%未知宇宙 /"
+    },
+    {
+      "id": "990053169820107976",
+      "title": "霍金的宇宙大探索 : 穿梭時空 = Into the universe with Stephen Hawking : Time Travel"
+    },
+    {
+      "id": "990053169830107976",
+      "title": "霍金的宇宙大探索 : 接觸外星人 = Into the universe with Stephen Hawking: Aliens"
+    },
+    {
+      "id": "990071962250107976",
+      "title": "霍金大見解 : 留給世人的十個大哉問與解答 /"
+    },
+    {
+      "id": "9973792107607976",
+      "title": "關於宇宙,我們什麼都不知道 : 霍金也想懂的95%未知世界 /"
+    },
+    {
+      "id": "990061387010107976",
+      "title": "別管黑洞了,跟著霍金上太空! : 一位嚮導,七段旅程,138億年的宇宙旅行 /"
+    },
+    {
+      "id": "990072424910107976",
+      "title": "小心別被外星人綁架 : 霍金博士的外星靈魂靈言 = Stephen Hawking warns aliens will kill us if we try to contact them /"
+    },
+    {
+      "id": "990071742910107976",
+      "title": "全彩圖解3分鐘讀懂霍金時間簡史 : 找出穿越千年的時空奧祕, 黑洞、蟲洞、時光機的科學知識 /"
+    },
+    {
+      "id": "990051418990107976",
+      "title": "理論物理導論"
+    }
+  ],
+  "user_input_tokens": 148579,
+  "user_output_tokens": 4444,
+  "user_total_tokens": 153023,
+  "librarian_input_tokens": 273985,
+  "librarian_output_tokens": 848,
+  "librarian_total_tokens": 274833,
+  "total_input_tokens": 422564,
+  "total_output_tokens": 5292,
+  "total_tokens": 427856,
+  "elapsed_time": 127.99338221549988,
+  "turn": 4
+}

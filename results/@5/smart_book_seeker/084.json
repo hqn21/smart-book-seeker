@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關霍金的故事以及相關理論的書籍",
+  "books": [
+    {
+      "id": "990051659340107976",
+      "title": "霍金與上帝之心"
+    },
+    {
+      "id": "990051199790107976",
+      "title": "霍金宇宙新論 /"
+    },
+    {
+      "id": "990051282400107976",
+      "title": "霍金陪你漫遊宇宙 /"
+    },
+    {
+      "id": "990051597320107976",
+      "title": "霍金與最終理論的追尋"
+    },
+    {
+      "id": "990058658040107976",
+      "title": "霍金構思的宇宙 Into the universe with Stephen Hawking : the story of everything /"
+    }
+  ],
+  "user_input_tokens": 19677,
+  "user_output_tokens": 679,
+  "user_total_tokens": 20356,
+  "librarian_input_tokens": 36067,
+  "librarian_output_tokens": 389,
+  "librarian_total_tokens": 36456,
+  "total_input_tokens": 55744,
+  "total_output_tokens": 1068,
+  "total_tokens": 56812,
+  "elapsed_time": 32.04217219352722,
+  "turn": 2
+}

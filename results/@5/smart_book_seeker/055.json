@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 CorelDRAW 12 版本來進行繪圖創作相關的書籍",
+  "books": [
+    {
+      "id": "990052038640107976",
+      "title": "CorelDRAW 12私房書"
+    },
+    {
+      "id": "990052038630107976",
+      "title": "CorelDRAW 12私房教師"
+    },
+    {
+      "id": "990052022820107976",
+      "title": "CorelDRAW 12彩繪精靈"
+    },
+    {
+      "id": "990052031570107976",
+      "title": "CorelDraw 12創意經典"
+    },
+    {
+      "id": "990052015300107976",
+      "title": "CorelDRAW 12彩藝學園"
+    }
+  ],
+  "user_input_tokens": 19427,
+  "user_output_tokens": 720,
+  "user_total_tokens": 20147,
+  "librarian_input_tokens": 36445,
+  "librarian_output_tokens": 413,
+  "librarian_total_tokens": 36858,
+  "total_input_tokens": 55872,
+  "total_output_tokens": 1133,
+  "total_tokens": 57005,
+  "elapsed_time": 32.62384510040283,
+  "turn": 2
+}

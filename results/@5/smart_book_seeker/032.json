@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用OpenCV來進行影像視覺處理相關技術的書籍",
+  "books": [
+    {
+      "id": "990071374430107976",
+      "title": "OpenCV+VTK+Visual Studio影像辨識處理 /"
+    },
+    {
+      "id": "990072375550107976",
+      "title": "OpenCV 4 專案實務 : 用OpenCV與C++打造電腦視覺與影像處理應用程式 /"
+    },
+    {
+      "id": "990071401570107976",
+      "title": "OpenCV 範例解析 : 運用OpenCV開發實務專案深入理解電腦視覺與影像處理 =OpenCV By Example /"
+    },
+    {
+      "id": "990072319220107976",
+      "title": "科班出身的AI人必修課 : OpenCV影像處理, 使用Python /"
+    },
+    {
+      "id": "990073439050107976",
+      "title": "OpenCV影像創意邁向AI視覺.王者歸來 /"
+    }
+  ],
+  "user_input_tokens": 23225,
+  "user_output_tokens": 1026,
+  "user_total_tokens": 24251,
+  "librarian_input_tokens": 39127,
+  "librarian_output_tokens": 423,
+  "librarian_total_tokens": 39550,
+  "total_input_tokens": 62352,
+  "total_output_tokens": 1449,
+  "total_tokens": 63801,
+  "elapsed_time": 37.82997488975525,
+  "turn": 2
+}

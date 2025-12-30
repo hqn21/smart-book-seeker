@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關小波的分析以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990052736360107976",
+      "title": "圖像多尺度幾何分析理論與應用 : 後小波分析理論與應用 = Image Multiscale Geometric Analysis : Theory and Applications"
+    },
+    {
+      "id": "990051919320107976",
+      "title": "實用小波方法"
+    },
+    {
+      "id": "990051919330107976",
+      "title": "小波分析基礎"
+    },
+    {
+      "id": "990052354980107976",
+      "title": "小波分析與分數傅里葉變換及應用 = Wavelet analysis and fractional fourier transform and applications"
+    },
+    {
+      "id": "990052355100107976",
+      "title": "小波分析導論 = An introduction to wavelets"
+    },
+    {
+      "id": "990052355130107976",
+      "title": "小波變換的工程分析與應用"
+    },
+    {
+      "id": "990052355450107976",
+      "title": "小波分析及其在信號處理中的應用"
+    },
+    {
+      "id": "990073568520107976",
+      "title": "使用小波模型和RBF-LSTM選擇PM2.5預測的關鍵特徵 = Selection of key features for PM2.5 prediction using a wavelet model and RBF-LSTM"
+    },
+    {
+      "id": "990052191840107976",
+      "title": "實用小波分析"
+    },
+    {
+      "id": "990052735230107976",
+      "title": "圖像處理與分析 : 變分,PDE,小波及隨機方法 = Image Processing and Analysis : Variational,PDE,Wavelet and Stochastic Methods"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用tensorflow來學習實作有關深度學習的開發相關知識的書籍",
+  "books": [
+    {
+      "id": "990072199180107976",
+      "title": "輕鬆學會Google TensorFlow 2.0 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990072826100107976",
+      "title": "輕鬆學會Google TensorFlow 2 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990063665500107976",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用 /"
+    },
+    {
+      "id": "990072795740107976",
+      "title": "TensorFlow 2.x人工智慧、機器學習超炫範例200+ /"
+    },
+    {
+      "id": "990071791230107976",
+      "title": "初探深度學習 : 使用TensorFlow /"
+    },
+    {
+      "id": "990073709430107976",
+      "title": "建構機器學習管道 : 運用TensorFlow實現模型生命週期自動化 /"
+    },
+    {
+      "id": "990070942800107976",
+      "title": "實戰TensorFlow : Google深度學習系統 /"
+    },
+    {
+      "id": "990071791740107976",
+      "title": "白話深度學習與TensorFlow /"
+    },
+    {
+      "id": "990063583160107976",
+      "title": "深度學習快速入門 : 使用TensorFlow /"
+    },
+    {
+      "id": "990070943050107976",
+      "title": "實戰Google深度學習技術 : 使用TensorFlow /"
+    },
+    {
+      "id": "990072200300107976",
+      "title": "TensorFlow與Keras : Python深度學習應用實務 = Hands-on Deep Learning by TensorFlow and Keras with Python /"
+    },
+    {
+      "id": "990073563680107976",
+      "title": "Tensorflow接班王者 : Google JAX深度學習又快又強大 /"
+    },
+    {
+      "id": "990072286760107976",
+      "title": "TensorFlow自然語言處理 : 善用Python深度學習函式庫, 教機器學會自然語言 /"
+    },
+    {
+      "id": "990073391130107976",
+      "title": "圖解Tensorflow 2 : 實作tf.keras+Colab雲端、深度學習、人工智慧、影像辨識"
+    },
+    {
+      "id": "990071301100107976",
+      "title": "Tensorflow : 你也能成為機器學習專家 /"
+    }
+  ],
+  "user_input_tokens": 102411,
+  "user_output_tokens": 3234,
+  "user_total_tokens": 105645,
+  "librarian_input_tokens": 185006,
+  "librarian_output_tokens": 1133,
+  "librarian_total_tokens": 186139,
+  "total_input_tokens": 287417,
+  "total_output_tokens": 4367,
+  "total_tokens": 291784,
+  "elapsed_time": 102.29305291175842,
+  "turn": 4
+}

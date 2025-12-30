@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹使用Spark來處理及分析大數據書籍",
+  "books": [
+    {
+      "id": "990063591840107976",
+      "title": "大數據分析與應用(Big Data) : 使用Hadoop與Spark /"
+    },
+    {
+      "id": "990064725630107976",
+      "title": "大數據的下一步 : 用Spark玩轉活用 /"
+    },
+    {
+      "id": "990073011270107976",
+      "title": "Spark技術手冊 : 輕鬆寫意處理大數據 /"
+    },
+    {
+      "id": "990072794370107976",
+      "title": "從大數據到人工智慧 : 理論及Spark實作."
+    },
+    {
+      "id": "990071792250107976",
+      "title": "從大數據到人工智慧 : 理論及Spark實作 /"
+    },
+    {
+      "id": "990071791280107976",
+      "title": "Spark 2.x大數據分析與機器學習實戰 = Mastering Apache Spark 2.x, Second Edition /"
+    },
+    {
+      "id": "990063468250107976",
+      "title": "Python+Spark 2.0+Hadoop機器學習與大數據分析實戰 /"
+    },
+    {
+      "id": "990072199800107976",
+      "title": "從大數據到人工智慧 : 理論及Spark實作(熱銷版) /"
+    },
+    {
+      "id": "990061382900107976",
+      "title": "大數據資料的實現 : Spark技術、應用與性能優質化 /"
+    },
+    {
+      "id": "990072341250107976",
+      "title": "大數據時代的資料庫處理 : Spark SQL親自動手做 /"
+    },
+    {
+      "id": "990063392920107976",
+      "title": "Hadoop + Spark 大數據巨量分析與機器學習整合開發實戰 /"
+    },
+    {
+      "id": "990063528450107976",
+      "title": "Spark大數據分析的新利器 : 資料科學家與數據分析師非用不可的入門指南書 /"
+    },
+    {
+      "id": "990071792520107976",
+      "title": "大數據的下一步 : Spark MLlib機器學習實戰技巧大公開 /"
+    },
+    {
+      "id": "990071934170107976",
+      "title": "科技巨頭 : Hadoop+Spark大規模實際運作進行式 /"
+    },
+    {
+      "id": "990071791790107976",
+      "title": "實戰機器學習 : 使用Spark = Machine Learning with Spark /"
+    }
+  ],
+  "user_input_tokens": 80844,
+  "user_output_tokens": 2985,
+  "user_total_tokens": 83829,
+  "librarian_input_tokens": 131703,
+  "librarian_output_tokens": 664,
+  "librarian_total_tokens": 132367,
+  "total_input_tokens": 212547,
+  "total_output_tokens": 3649,
+  "total_tokens": 216196,
+  "elapsed_time": 80.00920224189758,
+  "turn": 3
+}

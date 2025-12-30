@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Lotus 1-2-3的應用以及基本操作的書籍",
+  "books": [
+    {
+      "id": "990050330510107976",
+      "title": "Lotus 1-2-3 入門與應用"
+    },
+    {
+      "id": "990050039760107976",
+      "title": "LOTUS 1-2-3 : 應用軟體專集"
+    },
+    {
+      "id": "990050146680107976",
+      "title": "活用 Lotus 1-2-3 中文應用學習指南"
+    },
+    {
+      "id": "990051164800107976",
+      "title": "活用Lotus 1-2-3 中文應用學習指南"
+    },
+    {
+      "id": "990050793130107976",
+      "title": "Lotus 1-2-3 2.2 入門與巨集應用"
+    },
+    {
+      "id": "990050780890107976",
+      "title": "Lotus 1-2-3 在管理上的應用 : 財務、統計、工作研究"
+    },
+    {
+      "id": "990050019260107976",
+      "title": "LOTUS 1-2-3 入門‧應用與參考手冊"
+    },
+    {
+      "id": "990050229040107976",
+      "title": "Lotus 1-2-3 巨集學習手冊"
+    },
+    {
+      "id": "990050057750107976",
+      "title": "Lotus 1-2-3 巨集技巧"
+    },
+    {
+      "id": "990050019190107976",
+      "title": "LOTUS 1-2-3 使用手冊"
+    }
+  ],
+  "user_input_tokens": 68356,
+  "user_output_tokens": 2761,
+  "user_total_tokens": 71117,
+  "librarian_input_tokens": 111732,
+  "librarian_output_tokens": 868,
+  "librarian_total_tokens": 112600,
+  "total_input_tokens": 180088,
+  "total_output_tokens": 3629,
+  "total_tokens": 183717,
+  "elapsed_time": 86.65965509414673,
+  "turn": 3
+}

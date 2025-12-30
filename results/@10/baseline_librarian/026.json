@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用R語言來處理及分析大數據或巨量資料的書籍",
+  "books": [],
+  "input_tokens": 11582,
+  "output_tokens": 193,
+  "total_tokens": 11775,
+  "elapsed_time": 8.033927917480469
+}

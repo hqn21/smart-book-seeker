@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找跟SCJP認證有關的書籍",
+  "books": [
+    {
+      "id": "990052388750107976",
+      "title": "Java認證SCJP 5.0 : 猛虎出閘"
+    },
+    {
+      "id": "990052941170107976",
+      "title": "SCJP 6 Java專業認證手冊"
+    },
+    {
+      "id": "990052941190107976",
+      "title": "Java認證SCJP 6.0/5.0 : 猛虎出閘"
+    },
+    {
+      "id": "990058796810107976",
+      "title": "最新Java2程式設計與SCJP認證 /"
+    },
+    {
+      "id": "990052340480107976",
+      "title": "SCJP Java 5.0專業認證手冊 = SCJP cerified programmer for Java 5 study guide"
+    },
+    {
+      "id": "990052937290107976",
+      "title": "Java視窗應用程式設計與SCJP認證實戰演練"
+    },
+    {
+      "id": "990052935040107976",
+      "title": "徹底征服SCJP 6認證"
+    },
+    {
+      "id": "990052941180107976",
+      "title": "SCJP 6.0認證教戰手冊"
+    },
+    {
+      "id": "990051830320107976",
+      "title": "Java 2認證教材"
+    },
+    {
+      "id": "990052133910107976",
+      "title": "Java : 由初學邁向認證"
+    }
+  ],
+  "user_input_tokens": 55996,
+  "user_output_tokens": 1943,
+  "user_total_tokens": 57939,
+  "librarian_input_tokens": 99216,
+  "librarian_output_tokens": 646,
+  "librarian_total_tokens": 99862,
+  "total_input_tokens": 155212,
+  "total_output_tokens": 2589,
+  "total_tokens": 157801,
+  "elapsed_time": 72.01498079299927,
+  "turn": 3
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用 Unity 設計 3D 遊戲的書籍",
+  "books": [
+    {
+      "id": "990072375490107976",
+      "title": "Unity 3D遊戲設計實戰 /"
+    },
+    {
+      "id": "990063591760107976",
+      "title": "Unity實戰教學 /"
+    },
+    {
+      "id": "990073707220107976",
+      "title": "Unity遊戲設計育成攻略 /"
+    },
+    {
+      "id": "990072967060107976",
+      "title": "UNITY程式設計敎戰手冊 /"
+    },
+    {
+      "id": "990071798680107976",
+      "title": "Unity行動遊戲開發實務 /"
+    }
+  ],
+  "user_input_tokens": 32191,
+  "user_output_tokens": 923,
+  "user_total_tokens": 33114,
+  "librarian_input_tokens": 94059,
+  "librarian_output_tokens": 1011,
+  "librarian_total_tokens": 95070,
+  "total_input_tokens": 126250,
+  "total_output_tokens": 1934,
+  "total_tokens": 128184,
+  "elapsed_time": 175.30662989616394,
+  "turn": 4
+}

@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FrontPage 2002 版本架設網站的使用介紹及操作技巧等等相關的書籍",
+  "books": [
+    {
+      "id": "990051642850107976",
+      "title": "FrontPage 2002完全實戰"
+    },
+    {
+      "id": "990051619770107976",
+      "title": "最新FrontPage 2002彩色書"
+    },
+    {
+      "id": "990051684130107976",
+      "title": "FrontPage 2002學習範本"
+    },
+    {
+      "id": "990051639430107976",
+      "title": "FrontPage 2002咁單學透透"
+    },
+    {
+      "id": "990051813330107976",
+      "title": "超完整Frontpage 2002私房教師"
+    },
+    {
+      "id": "990051619720107976",
+      "title": "FrontPage 2002 中文版實務"
+    },
+    {
+      "id": "990051639450107976",
+      "title": "FrontPage 2002架站精華"
+    },
+    {
+      "id": "990051684120107976",
+      "title": "FrontPage 2002與Share Point架站秘訣"
+    },
+    {
+      "id": "990051689520107976",
+      "title": "FrontPage 2002網頁設計實務"
+    },
+    {
+      "id": "990051619610107976",
+      "title": "快快樂樂學FrontPage 2002使用技巧"
+    },
+    {
+      "id": "990051953370107976",
+      "title": "看圖例學FrontPage2002真EZ"
+    },
+    {
+      "id": "990051939550107976",
+      "title": "舞動FrontPage 2002中文版"
+    },
+    {
+      "id": "990052016280107976",
+      "title": "FrontPage 2002實力養成暨評量"
+    },
+    {
+      "id": "990051917220107976",
+      "title": "活用網頁設計 : FrontPage 2002C PhotoImpact 8C Cool 3D 3.0C"
+    },
+    {
+      "id": "990052070140107976",
+      "title": "FrontPage網頁設計高手"
+    }
+  ],
+  "user_input_tokens": 84840,
+  "user_output_tokens": 3459,
+  "user_total_tokens": 88299,
+  "librarian_input_tokens": 128427,
+  "librarian_output_tokens": 804,
+  "librarian_total_tokens": 129231,
+  "total_input_tokens": 213267,
+  "total_output_tokens": 4263,
+  "total_tokens": 217530,
+  "elapsed_time": 98.09377384185791,
+  "turn": 3
+}

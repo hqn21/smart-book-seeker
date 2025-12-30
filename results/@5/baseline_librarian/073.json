@@ -1,0 +1,17 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 AutoCAD 2002 輔助繪圖的相關使用技巧的書籍",
+  "books": [
+    {
+      "id": "990051766050107976",
+      "title": "電腦輔助繪圖AutoCAD 2002中文版"
+    },
+    {
+      "id": "990052292200107976",
+      "title": "電腦輔助製圖AutoCAD 2002中文版"
+    }
+  ],
+  "input_tokens": 11618,
+  "output_tokens": 226,
+  "total_tokens": 11844,
+  "elapsed_time": 8.423328876495361
+}

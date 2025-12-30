@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹BBS架設網站及相關操作技術的書籍",
+  "books": [
+    {
+      "id": "990050333820107976",
+      "title": "BBS 網路世界"
+    },
+    {
+      "id": "990051392750107976",
+      "title": "使用Linux伺服器架設網路"
+    },
+    {
+      "id": "990051607450107976",
+      "title": "精通Linux網路伺服器架設實務"
+    },
+    {
+      "id": "990051208620107976",
+      "title": "NT4.0 網際網路伺服器架設指南"
+    },
+    {
+      "id": "990052036780107976",
+      "title": "XOOPS 2網站架設與管理"
+    },
+    {
+      "id": "990051939500107976",
+      "title": "XOOPS網站架設與應用"
+    },
+    {
+      "id": "990052356560107976",
+      "title": "電腦DIY2007 : 區域網路架設,分享與管理"
+    },
+    {
+      "id": "990051292700107976",
+      "title": "網路架設DIY"
+    },
+    {
+      "id": "990052937250107976",
+      "title": "TCP/IP網路通訊協定 /"
+    },
+    {
+      "id": "990051603740107976",
+      "title": "通訊協定TCP/IP : 探索溝通網路世界的協定技術"
+    }
+  ],
+  "user_input_tokens": 74247,
+  "user_output_tokens": 2726,
+  "user_total_tokens": 76973,
+  "librarian_input_tokens": 138007,
+  "librarian_output_tokens": 1034,
+  "librarian_total_tokens": 139041,
+  "total_input_tokens": 212254,
+  "total_output_tokens": 3760,
+  "total_tokens": 216014,
+  "elapsed_time": 87.54379487037659,
+  "turn": 4
+}

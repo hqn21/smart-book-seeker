@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Mandrake Linux 9以上的架站及相關系統知識的書籍",
+  "books": [
+    {
+      "id": "990051882130107976",
+      "title": "Mandrake Linux 10系統與架站"
+    },
+    {
+      "id": "990052015480107976",
+      "title": "Mandrake Linux 10.1系統與架站"
+    },
+    {
+      "id": "990051899810107976",
+      "title": "Fedora Core 2 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052180370107976",
+      "title": "Fedora Core 5 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052316220107976",
+      "title": "Fedora Core 6 Linux安裝與系統管理"
+    },
+    {
+      "id": "990052086020107976",
+      "title": "Fedora Core 4 Linux : 安裝與系統管理"
+    },
+    {
+      "id": "990052587210107976",
+      "title": "Windows Server 2008系統安裝與架站實務"
+    },
+    {
+      "id": "990052016210107976",
+      "title": "Mandrake Linux 10.1實務架站"
+    },
+    {
+      "id": "990051798220107976",
+      "title": "Red Hat Linux 9系統管理"
+    },
+    {
+      "id": "990063393240107976",
+      "title": "Ubuntu Linux系統管理與架站實務 = Practical guide to Linux /"
+    }
+  ],
+  "input_tokens": 11632,
+  "output_tokens": 223,
+  "total_tokens": 11855,
+  "elapsed_time": 8.13568902015686
+}

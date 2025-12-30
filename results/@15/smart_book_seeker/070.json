@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 PROLOG 程式語言的使用技巧及原理的書籍",
+  "books": [
+    {
+      "id": "990050272940107976",
+      "title": "高等Turbo Prolog"
+    },
+    {
+      "id": "990050272970107976",
+      "title": "活用Turbo Prolog"
+    },
+    {
+      "id": "990050765820107976",
+      "title": "ARITY/PROLOG使用手冊"
+    },
+    {
+      "id": "990050263850107976",
+      "title": "Turbo Prolog 2.0使用手冊"
+    },
+    {
+      "id": "990050272990107976",
+      "title": "Turbo Prolog初學入門"
+    },
+    {
+      "id": "990050263870107976",
+      "title": "Turbo Prolog 2.0參考手冊"
+    },
+    {
+      "id": "990050765830107976",
+      "title": "Turbo Prolog程式設計進階"
+    },
+    {
+      "id": "990050765810107976",
+      "title": "TURBO PROLOG@@TOOLBOX 工具箱手冊"
+    },
+    {
+      "id": "990050143690107976",
+      "title": "PROLOG語言與人工智慧的應用"
+    },
+    {
+      "id": "990050840620107976",
+      "title": "專家系統原理與設計 : 人工智能語言PROLOG"
+    },
+    {
+      "id": "990050840430107976",
+      "title": "專家系統設計"
+    },
+    {
+      "id": "990050840440107976",
+      "title": "專家系統程序設計語言"
+    },
+    {
+      "id": "990051439030107976",
+      "title": "邏輯概念與程式設計"
+    },
+    {
+      "id": "990050703380107976",
+      "title": "邏輯設計"
+    },
+    {
+      "id": "990051216120107976",
+      "title": "專家系統原理"
+    }
+  ],
+  "user_input_tokens": 68602,
+  "user_output_tokens": 2640,
+  "user_total_tokens": 71242,
+  "librarian_input_tokens": 109598,
+  "librarian_output_tokens": 691,
+  "librarian_total_tokens": 110289,
+  "total_input_tokens": 178200,
+  "total_output_tokens": 3331,
+  "total_tokens": 181531,
+  "elapsed_time": 81.60914015769958,
+  "turn": 3
+}

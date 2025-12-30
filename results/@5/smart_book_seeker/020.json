@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找跟博弈相關的基礎理論、思維邏輯以及策略應用等等的書籍",
+  "books": [
+    {
+      "id": "990059049830107976",
+      "title": "博弈論 /"
+    },
+    {
+      "id": "990059049890107976",
+      "title": "博弈論教程 /"
+    },
+    {
+      "id": "990059049350107976",
+      "title": "圖解博弈論 : 日常生活中的博弈策略 /"
+    },
+    {
+      "id": "990071934660107976",
+      "title": "博弈论精粹 /"
+    },
+    {
+      "id": "990052143730107976",
+      "title": "33個博弈哲學"
+    }
+  ],
+  "user_input_tokens": 20203,
+  "user_output_tokens": 791,
+  "user_total_tokens": 20994,
+  "librarian_input_tokens": 36425,
+  "librarian_output_tokens": 386,
+  "librarian_total_tokens": 36811,
+  "total_input_tokens": 56628,
+  "total_output_tokens": 1177,
+  "total_tokens": 57805,
+  "elapsed_time": 33.939929723739624,
+  "turn": 2
+}

@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關生命遺傳的相關書籍",
+  "books": [],
+  "input_tokens": 11401,
+  "output_tokens": 204,
+  "total_tokens": 11605,
+  "elapsed_time": 7.792543888092041
+}

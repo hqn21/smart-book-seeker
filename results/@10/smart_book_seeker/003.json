@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關量子物理相關的基礎知識，偏好通俗易懂的介紹，並且希望是適合初學者的書籍",
+  "books": [
+    {
+      "id": "990060235220107976",
+      "title": "量子力學基礎 /"
+    },
+    {
+      "id": "990052420320107976",
+      "title": "量子力學の基礎"
+    },
+    {
+      "id": "990051908360107976",
+      "title": "量子力學基礎 = Basic quantum mechanics"
+    },
+    {
+      "id": "990060705080107976",
+      "title": "基礎量子力學 = Basic quantum mechanics /"
+    },
+    {
+      "id": "990051730850107976",
+      "title": "基礎物理學"
+    },
+    {
+      "id": "990050748710107976",
+      "title": "基礎物理"
+    },
+    {
+      "id": "990051224000107976",
+      "title": "物理學的基礎 : 力學"
+    },
+    {
+      "id": "990051189790107976",
+      "title": "量子力學"
+    },
+    {
+      "id": "990071742930107976",
+      "title": "量子力學 /"
+    },
+    {
+      "id": "990050006910107976",
+      "title": "量子力學初步"
+    }
+  ],
+  "user_input_tokens": 60270,
+  "user_output_tokens": 2331,
+  "user_total_tokens": 62601,
+  "librarian_input_tokens": 101254,
+  "librarian_output_tokens": 601,
+  "librarian_total_tokens": 101855,
+  "total_input_tokens": 161524,
+  "total_output_tokens": 2932,
+  "total_tokens": 164456,
+  "elapsed_time": 69.02212119102478,
+  "turn": 3
+}

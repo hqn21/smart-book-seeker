@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用tensorflow來學習實作有關深度學習的開發相關知識的書籍",
+  "books": [
+    {
+      "id": "990072199180107976",
+      "title": "輕鬆學會Google TensorFlow 2.0 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990072826100107976",
+      "title": "輕鬆學會Google TensorFlow 2 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990071791230107976",
+      "title": "初探深度學習 : 使用TensorFlow /"
+    },
+    {
+      "id": "990070942800107976",
+      "title": "實戰TensorFlow : Google深度學習系統 /"
+    },
+    {
+      "id": "990070943050107976",
+      "title": "實戰Google深度學習技術 : 使用TensorFlow /"
+    },
+    {
+      "id": "990071791740107976",
+      "title": "白話深度學習與TensorFlow /"
+    },
+    {
+      "id": "990072825980107976",
+      "title": "Deep learning 3 : 用Python進行深度學習框架的開發實作 /"
+    },
+    {
+      "id": "990063583160107976",
+      "title": "深度學習快速入門 : 使用TensorFlow /"
+    },
+    {
+      "id": "990064729590107976",
+      "title": "深度學習Keras快速開發入門 /"
+    },
+    {
+      "id": "990073270130107976",
+      "title": "Tensorflow.js學習手冊 : 以JavaScript開發機器學習 /"
+    }
+  ],
+  "input_tokens": 11569,
+  "output_tokens": 168,
+  "total_tokens": 11737,
+  "elapsed_time": 7.387888193130493
+}

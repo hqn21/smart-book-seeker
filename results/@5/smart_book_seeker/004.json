@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者想找入門電子學的書，重點在基本原理與概念，內容簡單易懂、適合初學者",
+  "books": [
+    {
+      "id": "990051108290107976",
+      "title": "固態電子學入門"
+    },
+    {
+      "id": "990052707310107976",
+      "title": "電子電路分析入門 : 使用OrCAD PSPICE"
+    },
+    {
+      "id": "990051044420107976",
+      "title": "電路學入門與進階"
+    },
+    {
+      "id": "990050701830107976",
+      "title": "電子計算機科入門"
+    },
+    {
+      "id": "990050908200107976",
+      "title": "如何進入電子資訊高速公路"
+    }
+  ],
+  "user_input_tokens": 44591,
+  "user_output_tokens": 1040,
+  "user_total_tokens": 45631,
+  "librarian_input_tokens": 184284,
+  "librarian_output_tokens": 1629,
+  "librarian_total_tokens": 185913,
+  "total_input_tokens": 228875,
+  "total_output_tokens": 2669,
+  "total_tokens": 231544,
+  "elapsed_time": 83.86098670959473,
+  "turn": 6
+}

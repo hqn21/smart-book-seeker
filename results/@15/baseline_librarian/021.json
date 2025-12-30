@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找跟SCJP認證有關的書籍",
+  "books": [
+    {
+      "id": "990052388750107976",
+      "title": "Java認證SCJP 5.0 : 猛虎出閘"
+    },
+    {
+      "id": "990052941170107976",
+      "title": "SCJP 6 Java專業認證手冊"
+    },
+    {
+      "id": "990052941190107976",
+      "title": "Java認證SCJP 6.0/5.0 : 猛虎出閘"
+    },
+    {
+      "id": "990052340480107976",
+      "title": "SCJP Java 5.0專業認證手冊 = SCJP cerified programmer for Java 5 study guide"
+    },
+    {
+      "id": "990058796810107976",
+      "title": "最新Java2程式設計與SCJP認證 /"
+    },
+    {
+      "id": "990052935040107976",
+      "title": "徹底征服SCJP 6認證"
+    },
+    {
+      "id": "990051914390107976",
+      "title": "LPI Linux 認證考試重點與練習"
+    },
+    {
+      "id": "990052941180107976",
+      "title": "SCJP 6.0認證教戰手冊"
+    },
+    {
+      "id": "990052937290107976",
+      "title": "Java視窗應用程式設計與SCJP認證實戰演練"
+    },
+    {
+      "id": "990063368870107976",
+      "title": "Java SE7/8 OCAJP專業認證指南 : 擬真試題實戰 /"
+    },
+    {
+      "id": "990051830320107976",
+      "title": "Java 2認證教材"
+    },
+    {
+      "id": "990059157860107976",
+      "title": "SCJP6.0認證教戰手冊(第二版) = Oracle certified professional java programmer /"
+    },
+    {
+      "id": "990052031470107976",
+      "title": "SCWCD認證專家應考指南"
+    },
+    {
+      "id": "990051798280107976",
+      "title": "Cisco Router初級認證課程 : CCNA認證應考手冊"
+    },
+    {
+      "id": "990052134870107976",
+      "title": "Cisco CCNA最新認證應考手冊"
+    }
+  ],
+  "input_tokens": 11421,
+  "output_tokens": 200,
+  "total_tokens": 11621,
+  "elapsed_time": 10.397386074066162
+}

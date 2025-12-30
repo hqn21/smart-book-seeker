@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用 Wireshark 對網路封包進行分析的相關書籍",
+  "books": [
+    {
+      "id": "990072199750107976",
+      "title": "Wireshark : 網路封包搜捕分析的超端利器 /"
+    },
+    {
+      "id": "990059159770107976",
+      "title": "實戰封包分析 : 使用Wireshark /"
+    },
+    {
+      "id": "990063374470107976",
+      "title": "Wireshark網路分析技術 /"
+    },
+    {
+      "id": "990053158620107976",
+      "title": "Wireshark網路協定分析與管理"
+    },
+    {
+      "id": "990061382800107976",
+      "title": "實戰Wireshark : 網路分析其實很簡單 /"
+    }
+  ],
+  "input_tokens": 11536,
+  "output_tokens": 185,
+  "total_tokens": 11721,
+  "elapsed_time": 10.582903146743774
+}

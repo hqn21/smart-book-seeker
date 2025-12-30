@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FrontPage 2003 版本架設網站的使用介紹及操作技巧等等相關的書籍",
+  "books": [
+    {
+      "id": "990052069940107976",
+      "title": "精通FrontPage 2003"
+    },
+    {
+      "id": "990052139560107976",
+      "title": "FrontPage 2003完全教本"
+    },
+    {
+      "id": "990051953390107976",
+      "title": "FrontPage 2003高手攻略"
+    },
+    {
+      "id": "990051866710107976",
+      "title": "Frontpage 2003私房書"
+    },
+    {
+      "id": "990051867770107976",
+      "title": "FrontPage 2003魔法書"
+    },
+    {
+      "id": "990051882050107976",
+      "title": "FUN心學FrontPage 2003"
+    },
+    {
+      "id": "990051906650107976",
+      "title": "FrontPage 2003一看就懂"
+    },
+    {
+      "id": "990052037750107976",
+      "title": "FrontPage 2003網頁設計真EZ"
+    },
+    {
+      "id": "990051866180107976",
+      "title": "FRONTPAGE 2003學習導引手冊"
+    },
+    {
+      "id": "990052401920107976",
+      "title": "FrontPage 2003中文版實務"
+    }
+  ],
+  "user_input_tokens": 26103,
+  "user_output_tokens": 968,
+  "user_total_tokens": 27071,
+  "librarian_input_tokens": 41477,
+  "librarian_output_tokens": 371,
+  "librarian_total_tokens": 41848,
+  "total_input_tokens": 67580,
+  "total_output_tokens": 1339,
+  "total_tokens": 68919,
+  "elapsed_time": 44.27825093269348,
+  "turn": 2
+}

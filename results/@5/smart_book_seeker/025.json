@@ -1,0 +1,15 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Premiere Pro來剪輯以及編輯影片的書籍",
+  "books": [],
+  "user_input_tokens": 87660,
+  "user_output_tokens": 504,
+  "user_total_tokens": 88164,
+  "librarian_input_tokens": 992881,
+  "librarian_output_tokens": 2826,
+  "librarian_total_tokens": 995707,
+  "total_input_tokens": 1080541,
+  "total_output_tokens": 3330,
+  "total_tokens": 1083871,
+  "elapsed_time": 203.5062291622162,
+  "turn": 11
+}

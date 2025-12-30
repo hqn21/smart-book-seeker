@@ -1,0 +1,32 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關昆蟲的圖鑑以及相關有趣知識及各方各面知識的書籍",
+  "books": [
+    {
+      "id": "990052273750107976",
+      "title": "原色日本昆蟲圖鑑 = Coloured illustrations of the insects of Japan"
+    },
+    {
+      "id": "9973788409907976",
+      "title": "原色千種昆蟲圖譜 /"
+    },
+    {
+      "id": "9973821275507976",
+      "title": "專為孩子設計!世界驚奇甲蟲圖鑑 /"
+    },
+    {
+      "id": "9973828005807976",
+      "title": "鍬形蟲58 : 野外觀察超圖鑑 = A field guide to the stag beetles of Taiwan /"
+    }
+  ],
+  "user_input_tokens": 93566,
+  "user_output_tokens": 478,
+  "user_total_tokens": 94044,
+  "librarian_input_tokens": 522885,
+  "librarian_output_tokens": 1690,
+  "librarian_total_tokens": 524575,
+  "total_input_tokens": 616451,
+  "total_output_tokens": 2168,
+  "total_tokens": 618619,
+  "elapsed_time": 160.85643911361694,
+  "turn": 7
+}

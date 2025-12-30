@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 FLASH MX 2004 版本動畫及特效製作等等相關的書籍",
+  "books": [
+    {
+      "id": "990051904080107976",
+      "title": "動畫夢工廠FLASH MX 2004"
+    },
+    {
+      "id": "990052070120107976",
+      "title": "Flash MX 2004動畫設計實務"
+    },
+    {
+      "id": "990051689850107976",
+      "title": "我的Flash MX動畫手札"
+    },
+    {
+      "id": "990051810710107976",
+      "title": "我的Flash MX中文版動畫手札"
+    },
+    {
+      "id": "990051672410107976",
+      "title": "Flash MX卡通、動畫、網頁 : 我就是愛動"
+    }
+  ],
+  "user_input_tokens": 47932,
+  "user_output_tokens": 1175,
+  "user_total_tokens": 49107,
+  "librarian_input_tokens": 133325,
+  "librarian_output_tokens": 1065,
+  "librarian_total_tokens": 134390,
+  "total_input_tokens": 181257,
+  "total_output_tokens": 2240,
+  "total_tokens": 183497,
+  "elapsed_time": 76.79644894599915,
+  "turn": 5
+}

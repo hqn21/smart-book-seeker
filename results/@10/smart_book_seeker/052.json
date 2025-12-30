@@ -1,0 +1,40 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Node.js設計及開發網頁前後端等等的書籍",
+  "books": [
+    {
+      "id": "990072967540107976",
+      "title": "用Node.js一統JavaScript前後端 : 強勢Web開發親手作 /"
+    },
+    {
+      "id": "990064720140107976",
+      "title": "用Javascript一統前後端 : 御用語言Node.js出巡Web /"
+    },
+    {
+      "id": "990060412820107976",
+      "title": "不一樣的Node.js : 用JavaScript打造高效的前後台網頁程式 /"
+    },
+    {
+      "id": "990072795920107976",
+      "title": "還在LAMP?用最流行的MEAN進行全端網頁開發 /"
+    },
+    {
+      "id": "990072199760107976",
+      "title": "頂級優效Web應用框架開發必備 : Node.js超階技能 /"
+    },
+    {
+      "id": "990060963000107976",
+      "title": "JavaScript應用程式開發實務 /"
+    }
+  ],
+  "user_input_tokens": 144686,
+  "user_output_tokens": 480,
+  "user_total_tokens": 145166,
+  "librarian_input_tokens": 1258577,
+  "librarian_output_tokens": 2218,
+  "librarian_total_tokens": 1260795,
+  "total_input_tokens": 1403263,
+  "total_output_tokens": 2698,
+  "total_tokens": 1405961,
+  "elapsed_time": 236.9610869884491,
+  "turn": 9
+}

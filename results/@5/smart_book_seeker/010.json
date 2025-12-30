@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用tensorflow來學習實作有關深度學習的開發相關知識的書籍",
+  "books": [
+    {
+      "id": "990072199180107976",
+      "title": "輕鬆學會Google TensorFlow 2.0 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990072826100107976",
+      "title": "輕鬆學會Google TensorFlow 2 : 人工智慧深度學習實作開發 /"
+    },
+    {
+      "id": "990063665500107976",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用 /"
+    },
+    {
+      "id": "990073391130107976",
+      "title": "圖解Tensorflow 2 : 實作tf.keras+Colab雲端、深度學習、人工智慧、影像辨識"
+    },
+    {
+      "id": "990072375020107976",
+      "title": "Python+TensorFlow人工智慧. 機器學習. 大數據 : 超炫專案與完全實戰 /"
+    }
+  ],
+  "user_input_tokens": 35658,
+  "user_output_tokens": 1165,
+  "user_total_tokens": 36823,
+  "librarian_input_tokens": 71188,
+  "librarian_output_tokens": 627,
+  "librarian_total_tokens": 71815,
+  "total_input_tokens": 106846,
+  "total_output_tokens": 1792,
+  "total_tokens": 108638,
+  "elapsed_time": 49.779420375823975,
+  "turn": 3
+}

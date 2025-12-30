@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關霍金的故事以及相關理論的書籍",
+  "books": [],
+  "input_tokens": 11502,
+  "output_tokens": 216,
+  "total_tokens": 11718,
+  "elapsed_time": 8.462117195129395
+}

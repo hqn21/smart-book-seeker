@@ -1,0 +1,17 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Word 2003版本的使用方式及相關術科檢定的書籍",
+  "books": [
+    {
+      "id": "990052968710107976",
+      "title": "The word book : Word 6.0的使用藝術"
+    },
+    {
+      "id": "990052968740107976",
+      "title": "The Word Book 95 : Word 7.0的使用藝術"
+    }
+  ],
+  "input_tokens": 11467,
+  "output_tokens": 169,
+  "total_tokens": 11636,
+  "elapsed_time": 5.855524063110352
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關介紹科學家費曼生平的故事，偏好以輕鬆有趣的說法來述說故事的書籍",
+  "books": [
+    {
+      "id": "990059860570107976",
+      "title": "漫畫費曼 : Feyman /"
+    },
+    {
+      "id": "990051606430107976",
+      "title": "費曼的主張"
+    },
+    {
+      "id": "990050878920107976",
+      "title": "物理學家的故事"
+    },
+    {
+      "id": "990051130800107976",
+      "title": "世界著名科學家傳記"
+    },
+    {
+      "id": "990050076570107976",
+      "title": "歷代科學家傳記選"
+    }
+  ],
+  "user_input_tokens": 95244,
+  "user_output_tokens": 2789,
+  "user_total_tokens": 98033,
+  "librarian_input_tokens": 215840,
+  "librarian_output_tokens": 1103,
+  "librarian_total_tokens": 216943,
+  "total_input_tokens": 311084,
+  "total_output_tokens": 3892,
+  "total_tokens": 314976,
+  "elapsed_time": 95.22997403144836,
+  "turn": 5
+}

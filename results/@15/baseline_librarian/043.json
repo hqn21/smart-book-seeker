@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS6進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990063682060107976",
+      "title": "電腦繪圖設計認證指南 : Illustrator CS6 /"
+    },
+    {
+      "id": "990060307900107976",
+      "title": "Illustrator CS6 : 繪圖創意魔法 /"
+    },
+    {
+      "id": "990059751390107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS6 /"
+    },
+    {
+      "id": "990059689030107976",
+      "title": "美工繪圖Illustrator CS6一切搞定 /"
+    },
+    {
+      "id": "990060771110107976",
+      "title": "跟我學Illustrator CS6 : 一定要會的美工繪圖技巧! /"
+    },
+    {
+      "id": "990051876800107976",
+      "title": "Adobe Illustrator繪圖演譯"
+    },
+    {
+      "id": "990073175280107976",
+      "title": "Illustrator向量圖形設計 /"
+    },
+    {
+      "id": "990052022810107976",
+      "title": "Illustrator CS繪圖新視野"
+    },
+    {
+      "id": "990053008550107976",
+      "title": "電腦繪圖設計 : Illustrator與Photoshop CS4完美結合"
+    },
+    {
+      "id": "990058741430107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS4 /"
+    },
+    {
+      "id": "990058742260107976",
+      "title": "TQC+電腦繪圖設計認證指南 : Illustrator CS4 /"
+    },
+    {
+      "id": "990050307610107976",
+      "title": "電腦繪圖設計"
+    },
+    {
+      "id": "990051526700107976",
+      "title": "Illustrator 9.0數位繪圖主義"
+    },
+    {
+      "id": "990052406120107976",
+      "title": "Adobe Illustrator CS 2繪圖原力"
+    },
+    {
+      "id": "990072794490107976",
+      "title": "跟我學Illustrator CC一定要會的美工繪圖技巧 : 適用CC/CS6 /"
+    }
+  ],
+  "input_tokens": 11596,
+  "output_tokens": 233,
+  "total_tokens": 11829,
+  "elapsed_time": 8.624208211898804
+}

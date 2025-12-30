@@ -1,0 +1,69 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Office XP 使用實務及相關應用的書籍",
+  "books": [
+    {
+      "id": "990051903610107976",
+      "title": "Word、Excel、PowerPoint徹底學通"
+    },
+    {
+      "id": "990051916780107976",
+      "title": "Word Excel PowerPoint超完整技巧600招"
+    },
+    {
+      "id": "990052078170107976",
+      "title": "Word、Excel、PowerPoint密技大百科"
+    },
+    {
+      "id": "990051473640107976",
+      "title": "Word、Excel、PowerPoint必備技巧500招"
+    },
+    {
+      "id": "990071806870107976",
+      "title": "Word/Excel/PowerPoint超效率500招速成技 /"
+    },
+    {
+      "id": "990058740870107976",
+      "title": "Word, Excel, PowerPoint強效精攻500招 /"
+    },
+    {
+      "id": "990052316320107976",
+      "title": "OFFICE入門與應用 : Word.Excel.PowerPoint"
+    },
+    {
+      "id": "990052336750107976",
+      "title": "Excel試算表與PowerPoint簡報設計"
+    },
+    {
+      "id": "990051435720107976",
+      "title": "Word Excel PowerPoint必備技巧650招加值增訂版"
+    },
+    {
+      "id": "990052937180107976",
+      "title": "Office 2007商務應用範例集 = Word.Excel.Powerpoint"
+    },
+    {
+      "id": "990060792690107976",
+      "title": "Word Excel Powerpoint強效精攻500招 :超實用增量版 /"
+    },
+    {
+      "id": "990058741040107976",
+      "title": "PowerPoint 2010 /"
+    },
+    {
+      "id": "990052093960107976",
+      "title": "PowerPoint私房書"
+    },
+    {
+      "id": "990063592810107976",
+      "title": "MOS 2013國際認證應考總複習 : For Microsoft Word, Excel, PowerPoint, Access and Outlook /"
+    },
+    {
+      "id": "990071798460107976",
+      "title": "Word.Excel.PowerPoint強效精攻500招(附贈爆量密技別冊) /"
+    }
+  ],
+  "input_tokens": 11449,
+  "output_tokens": 181,
+  "total_tokens": 11630,
+  "elapsed_time": 6.537760019302368
+}

@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關輻射的分析以及相關的應用的書籍",
+  "books": [],
+  "input_tokens": 11662,
+  "output_tokens": 246,
+  "total_tokens": 11908,
+  "elapsed_time": 7.547760725021362
+}

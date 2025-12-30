@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS4來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990053028870107976",
+      "title": "FLASH CS4互動網頁設計"
+    },
+    {
+      "id": "990053158630107976",
+      "title": "Flash CS4動畫設計應用集"
+    },
+    {
+      "id": "990052680140107976",
+      "title": "Flash CS4創意動畫設計Level UP"
+    },
+    {
+      "id": "990053157820107976",
+      "title": "TQC+動畫設計認證指南 : Flash CS4"
+    },
+    {
+      "id": "990053160700107976",
+      "title": "Flash CS4 動畫與遊戲製作必修技"
+    },
+    {
+      "id": "990052587060107976",
+      "title": "速習!Flash CS3做網頁動畫"
+    },
+    {
+      "id": "990051672410107976",
+      "title": "Flash MX卡通、動畫、網頁 : 我就是愛動"
+    },
+    {
+      "id": "990051898210107976",
+      "title": "Flash MX 2004多媒體網頁動畫寫真"
+    },
+    {
+      "id": "990052759130107976",
+      "title": "Flash MX(中文版)網頁動畫e點通"
+    },
+    {
+      "id": "990052405320107976",
+      "title": "Flash 8躍動的網頁"
+    },
+    {
+      "id": "990058795830107976",
+      "title": "動畫設計驚嘆號 : 至高的Flash網頁動畫88招 /"
+    },
+    {
+      "id": "990051639600107976",
+      "title": "Flash網上動畫教程"
+    },
+    {
+      "id": "990051526990107976",
+      "title": "FLASH 5網頁影像與動畫設計師"
+    },
+    {
+      "id": "990051412930107976",
+      "title": "FLASH 4躍動的網頁"
+    },
+    {
+      "id": "990051233860107976",
+      "title": "網頁動畫設計快易通"
+    }
+  ],
+  "user_input_tokens": 34749,
+  "user_output_tokens": 1480,
+  "user_total_tokens": 36229,
+  "librarian_input_tokens": 49211,
+  "librarian_output_tokens": 372,
+  "librarian_total_tokens": 49583,
+  "total_input_tokens": 83960,
+  "total_output_tokens": 1852,
+  "total_tokens": 85812,
+  "elapsed_time": 44.79420208930969,
+  "turn": 2
+}

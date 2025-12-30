@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關中國科學相關歷史資料及發展歷程的書籍",
+  "books": [
+    {
+      "id": "990050701180107976",
+      "title": "中國科學之發展"
+    },
+    {
+      "id": "990050332430107976",
+      "title": "中國歷史上的科學發明"
+    },
+    {
+      "id": "990050381900107976",
+      "title": "中國數學發展史"
+    },
+    {
+      "id": "990050447400107976",
+      "title": "中華天文學發展史"
+    },
+    {
+      "id": "990050129180107976",
+      "title": "科學與科學思想發展史"
+    }
+  ],
+  "user_input_tokens": 19869,
+  "user_output_tokens": 807,
+  "user_total_tokens": 20676,
+  "librarian_input_tokens": 36141,
+  "librarian_output_tokens": 403,
+  "librarian_total_tokens": 36544,
+  "total_input_tokens": 56010,
+  "total_output_tokens": 1210,
+  "total_tokens": 57220,
+  "elapsed_time": 36.745020151138306,
+  "turn": 2
+}

@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關RFID的概念與應用的書籍",
+  "books": [
+    {
+      "id": "990052567810107976",
+      "title": "RFID工程概論 = Introduction to RFID Engineering"
+    },
+    {
+      "id": "990059177940107976",
+      "title": "RFID晶片設計 /"
+    },
+    {
+      "id": "990053006220107976",
+      "title": "RFID概論與應用"
+    },
+    {
+      "id": "990051974750107976",
+      "title": "RFID技術與應用"
+    },
+    {
+      "id": "990071794640107976",
+      "title": "RFID概論與應用 /"
+    }
+  ],
+  "input_tokens": 11412,
+  "output_tokens": 168,
+  "total_tokens": 11580,
+  "elapsed_time": 6.807760953903198
+}

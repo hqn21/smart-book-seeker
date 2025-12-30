@@ -1,0 +1,64 @@
+{
+  "user_book_needs": "使用者的目標是尋找如何使用Access 97的相關書籍",
+  "books": [
+    {
+      "id": "990051148560107976",
+      "title": "Access 97 使用手冊"
+    },
+    {
+      "id": "990051292710107976",
+      "title": "圖解中文ACCESS 97"
+    },
+    {
+      "id": "990051302750107976",
+      "title": "ACCESS 97 輕鬆上手"
+    },
+    {
+      "id": "990051302650107976",
+      "title": "Access 97 圖例學習範本"
+    },
+    {
+      "id": "990051424430107976",
+      "title": "Access 97中文版 Bible"
+    },
+    {
+      "id": "990051235720107976",
+      "title": "Access 97 超圖解入門中文版"
+    },
+    {
+      "id": "990051292720107976",
+      "title": "精通Access97中文版"
+    },
+    {
+      "id": "990051138200107976",
+      "title": "Access 97 中文版實務使用手冊"
+    },
+    {
+      "id": "990051233770107976",
+      "title": "'98 版Access 97 互動式學習手冊"
+    },
+    {
+      "id": "990051551610107976",
+      "title": "資訊與社會 : Access 97實例應用"
+    },
+    {
+      "id": "990051250000107976",
+      "title": "Access 97 資料庫管理系統入門與應用"
+    },
+    {
+      "id": "990051190720107976",
+      "title": "Access 97 中文版實務大全2 for Microsoft Windows 95/NT."
+    }
+  ],
+  "user_input_tokens": 149488,
+  "user_output_tokens": 458,
+  "user_total_tokens": 149946,
+  "librarian_input_tokens": 1291917,
+  "librarian_output_tokens": 2270,
+  "librarian_total_tokens": 1294187,
+  "total_input_tokens": 1441405,
+  "total_output_tokens": 2728,
+  "total_tokens": 1444133,
+  "elapsed_time": 224.15190291404724,
+  "turn": 9
+}

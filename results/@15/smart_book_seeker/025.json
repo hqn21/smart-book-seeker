@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Premiere Pro來剪輯以及編輯影片的書籍",
+  "books": [
+    {
+      "id": "990063665410107976",
+      "title": "Premiere Pro CC影音剪輯大師 /"
+    },
+    {
+      "id": "990072375850107976",
+      "title": "Premiere Pro CC 影音剪輯大師 /"
+    },
+    {
+      "id": "990052680160107976",
+      "title": "Premiere Pro CS4影音剪輯精粹"
+    },
+    {
+      "id": "990070954390107976",
+      "title": "Premiere Pro CC : 數位剪輯最重要的16堂課 /"
+    },
+    {
+      "id": "990052031540107976",
+      "title": "Premiere Pro 1.5數位影音大導演"
+    },
+    {
+      "id": "990053158250107976",
+      "title": "影視後製全攻略 : Premiere Pro/After Effects/Encore /"
+    },
+    {
+      "id": "990073124670107976",
+      "title": "影視後製全攻略 : Premiere Pro/After Effects(適用CC) /"
+    },
+    {
+      "id": "990052065300107976",
+      "title": "Premiere Pro 1.5 & After Effects 6.5視訊剪輯講堂"
+    },
+    {
+      "id": "990060770760107976",
+      "title": "3ds Max + After Effects影片剪輯後製技巧大公開 /"
+    },
+    {
+      "id": "990052680150107976",
+      "title": "After Effects CS4影音特效製作精粹"
+    },
+    {
+      "id": "990063681440107976",
+      "title": "After Effects CS5影音特效製作精粹 /"
+    },
+    {
+      "id": "990059768000107976",
+      "title": "After Effects CS6影音特效製作精粹 /"
+    },
+    {
+      "id": "990059768010107976",
+      "title": "漂漂老師的After Effects 影片學堂 : 輕輕鬆鬆學AE 製作影片真Easy /"
+    },
+    {
+      "id": "990058741150107976",
+      "title": "動感CG : 3ds Max/After Effects影視後製實例大全 /"
+    },
+    {
+      "id": "990059112360107976",
+      "title": "圖說After Effects 4.X創意製作 /"
+    }
+  ],
+  "user_input_tokens": 244098,
+  "user_output_tokens": 3040,
+  "user_total_tokens": 247138,
+  "librarian_input_tokens": 939326,
+  "librarian_output_tokens": 2054,
+  "librarian_total_tokens": 941380,
+  "total_input_tokens": 1183424,
+  "total_output_tokens": 5094,
+  "total_tokens": 1188518,
+  "elapsed_time": 214.07197499275208,
+  "turn": 8
+}

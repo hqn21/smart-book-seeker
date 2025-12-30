@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關生命遺傳的相關書籍",
+  "books": [
+    {
+      "id": "990052948910107976",
+      "title": "遺傳子と遺傳子工學"
+    },
+    {
+      "id": "990071374890107976",
+      "title": "超科少年 : 孟德爾 : 豌豆.遺傳學.基因 = Mendel /"
+    },
+    {
+      "id": "990052750470107976",
+      "title": "特集,生命の科學 : 遺傳子操作"
+    },
+    {
+      "id": "9973832009807976",
+      "title": "細胞と遺傳 /"
+    },
+    {
+      "id": "990073260780107976",
+      "title": "Why?遺傳與血型 /"
+    }
+  ],
+  "user_input_tokens": 21469,
+  "user_output_tokens": 949,
+  "user_total_tokens": 22418,
+  "librarian_input_tokens": 36919,
+  "librarian_output_tokens": 379,
+  "librarian_total_tokens": 37298,
+  "total_input_tokens": 58388,
+  "total_output_tokens": 1328,
+  "total_tokens": 59716,
+  "elapsed_time": 33.85992693901062,
+  "turn": 2
+}

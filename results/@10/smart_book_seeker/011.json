@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS3來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990052688320107976",
+      "title": "學會動畫製作Flash CS3"
+    },
+    {
+      "id": "990052527310107976",
+      "title": "Flash CS3商業動畫製作與網頁設計實務"
+    },
+    {
+      "id": "990052587380107976",
+      "title": "Flash ActionScript 3.0動畫製作大師"
+    },
+    {
+      "id": "990052587060107976",
+      "title": "速習!Flash CS3做網頁動畫"
+    },
+    {
+      "id": "990052759120107976",
+      "title": "動畫製作 : Flash"
+    },
+    {
+      "id": "990053172800107976",
+      "title": "動畫設計王 : 編製與設計一流專業的Flash網頁動畫"
+    },
+    {
+      "id": "990059158040107976",
+      "title": "ActionScript3.0 : 網頁、行動裝置互動應用設計 /"
+    },
+    {
+      "id": "990058743190107976",
+      "title": "Flash ActionScript 3.0平台遊戲開發 /"
+    },
+    {
+      "id": "990059689160107976",
+      "title": "製作動畫Flash CS6一切搞定 /"
+    },
+    {
+      "id": "990053160700107976",
+      "title": "Flash CS4 動畫與遊戲製作必修技"
+    }
+  ],
+  "user_input_tokens": 285551,
+  "user_output_tokens": 1603,
+  "user_total_tokens": 287154,
+  "librarian_input_tokens": 2131937,
+  "librarian_output_tokens": 2417,
+  "librarian_total_tokens": 2134354,
+  "total_input_tokens": 2417488,
+  "total_output_tokens": 4020,
+  "total_tokens": 2421508,
+  "elapsed_time": 377.6369709968567,
+  "turn": 11
+}

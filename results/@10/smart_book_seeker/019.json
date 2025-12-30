@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找和Excel巨集或是VBA有關的技巧、函數應用及資料庫相關的書籍",
+  "books": [
+    {
+      "id": "990051098810107976",
+      "title": "MS-Excel 7.0入門與進階應用 : 函數、地圖、資料庫、巨集VBA"
+    },
+    {
+      "id": "990052015310107976",
+      "title": "Excel函數與巨集"
+    },
+    {
+      "id": "990050853770107976",
+      "title": "dBMicrosoft Excel 函數及巨集指令"
+    },
+    {
+      "id": "990051386050107976",
+      "title": "攻心為上 Excel 2000函數巨集篇"
+    },
+    {
+      "id": "990058737640107976",
+      "title": "快快樂樂學Excel 2010 : 善用資料圖表巨集函數的精算達人 /"
+    },
+    {
+      "id": "990051413230107976",
+      "title": "操作輕鬆巨集通 : Excel VBA巨集逐步操作指引"
+    },
+    {
+      "id": "990052531280107976",
+      "title": "經理人提升效率的Excel函數與巨集技巧"
+    },
+    {
+      "id": "990071791410107976",
+      "title": "效率UP! 職場必備超省時Excel巨集&VBA便利技 /"
+    },
+    {
+      "id": "990071960520107976",
+      "title": "Excel VBA巨集的職場效率術 : 無痛學習VBA程式×步驟式教學錄製巨集×200個範例立即套用 /"
+    },
+    {
+      "id": "990063665320107976",
+      "title": "Excel巨集+VBA入門 : 實現零加班、光速般的工作效率 /"
+    }
+  ],
+  "user_input_tokens": 38058,
+  "user_output_tokens": 1337,
+  "user_total_tokens": 39395,
+  "librarian_input_tokens": 69485,
+  "librarian_output_tokens": 622,
+  "librarian_total_tokens": 70107,
+  "total_input_tokens": 107543,
+  "total_output_tokens": 1959,
+  "total_tokens": 109502,
+  "elapsed_time": 55.76029896736145,
+  "turn": 3
+}

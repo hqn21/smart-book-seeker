@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關P2P的檔案下載與傳輸相關技術的書籍",
+  "books": [
+    {
+      "id": "990050806870107976",
+      "title": "90年代最新網路技術分散處理與分散式資料庫系統"
+    },
+    {
+      "id": "990051582240107976",
+      "title": "雙向通訊與網路資料庫技術之整合與示範系統之建立"
+    },
+    {
+      "id": "990051013510107976",
+      "title": "資料通信與分散式網路"
+    },
+    {
+      "id": "990071792360107976",
+      "title": "巨型公司的網路架構 : 分散式系統內部解密 /"
+    },
+    {
+      "id": "990052756260107976",
+      "title": "P2P傳檔極霸術 = Play skills of P2P"
+    }
+  ],
+  "user_input_tokens": 66391,
+  "user_output_tokens": 1322,
+  "user_total_tokens": 67713,
+  "librarian_input_tokens": 213907,
+  "librarian_output_tokens": 1374,
+  "librarian_total_tokens": 215281,
+  "total_input_tokens": 280298,
+  "total_output_tokens": 2696,
+  "total_tokens": 282994,
+  "elapsed_time": 106.49070572853088,
+  "turn": 6
+}

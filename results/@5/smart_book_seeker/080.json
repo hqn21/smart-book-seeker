@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找學習 Cisco 網路設備的設定與管理基本知識相關的書籍",
+  "books": [
+    {
+      "id": "990052567640107976",
+      "title": "DIY自己學2009 : 域網路架設.共享.設定"
+    },
+    {
+      "id": "990051574010107976",
+      "title": "Cisco路由器設定"
+    },
+    {
+      "id": "990051543070107976",
+      "title": "CCNP : Cisco網路疑難排解指南"
+    },
+    {
+      "id": "990051725300107976",
+      "title": "CISCO IOS網路作業系統"
+    },
+    {
+      "id": "990051555510107976",
+      "title": "Cisco網路中的進階IP路由"
+    }
+  ],
+  "user_input_tokens": 55796,
+  "user_output_tokens": 1606,
+  "user_total_tokens": 57402,
+  "librarian_input_tokens": 144290,
+  "librarian_output_tokens": 1085,
+  "librarian_total_tokens": 145375,
+  "total_input_tokens": 200086,
+  "total_output_tokens": 2691,
+  "total_tokens": 202777,
+  "elapsed_time": 81.59692406654358,
+  "turn": 5
+}

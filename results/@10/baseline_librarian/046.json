@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關於海洋的生物、植物及生態有關的書籍",
+  "books": [],
+  "input_tokens": 11577,
+  "output_tokens": 215,
+  "total_tokens": 11792,
+  "elapsed_time": 8.188181161880493
+}

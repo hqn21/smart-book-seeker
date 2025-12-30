@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2013版本的使用技巧及相關介紹的書籍",
+  "books": [
+    {
+      "id": "990060719840107976",
+      "title": "Office 2013教學範本 /"
+    },
+    {
+      "id": "990059690080107976",
+      "title": "Microsoft Excel 2013使用手冊 = The simple, efficient and effective way to learn Microsoft Excel /"
+    },
+    {
+      "id": "990063369390107976",
+      "title": "商業智慧分析決策系統開發寶典 : 使用Access 2013與Excel 2013 /"
+    },
+    {
+      "id": "990063380510107976",
+      "title": "Data Analysis Using Excel教學範本 /"
+    },
+    {
+      "id": "990060238430107976",
+      "title": "馬上就會Excel 2013商務實作與應用 /"
+    },
+    {
+      "id": "990060769980107976",
+      "title": "MOS Excel 2013 Core國際認證應考教材 /"
+    },
+    {
+      "id": "990071798920107976",
+      "title": "Excel VBA基礎必修課 : 增量版(適用Excel 2016/2013/2010) /"
+    },
+    {
+      "id": "990060238490107976",
+      "title": "上班族一定要會的Excel函數組合應用商務實例 : Excel 2013/2010/2007對應 /"
+    },
+    {
+      "id": "990072795560107976",
+      "title": "Excel函數與分析工具(適用Excel2019/2016/2013) : 應用解析 x 實務範例 x 統計分析 /"
+    },
+    {
+      "id": "990060399900107976",
+      "title": "Microsoft Excel 2013商用範例實作 /"
+    }
+  ],
+  "user_input_tokens": 121596,
+  "user_output_tokens": 3856,
+  "user_total_tokens": 125452,
+  "librarian_input_tokens": 239229,
+  "librarian_output_tokens": 1109,
+  "librarian_total_tokens": 240338,
+  "total_input_tokens": 360825,
+  "total_output_tokens": 4965,
+  "total_tokens": 365790,
+  "elapsed_time": 125.62171387672424,
+  "turn": 5
+}

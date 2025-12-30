@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS6進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990063682060107976",
+      "title": "電腦繪圖設計認證指南 : Illustrator CS6 /"
+    },
+    {
+      "id": "990059751390107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS6 /"
+    },
+    {
+      "id": "990073175280107976",
+      "title": "Illustrator向量圖形設計 /"
+    },
+    {
+      "id": "990053008550107976",
+      "title": "電腦繪圖設計 : Illustrator與Photoshop CS4完美結合"
+    },
+    {
+      "id": "990058741430107976",
+      "title": "TQC+電腦繪圖設計認證指南Illustrator CS4 /"
+    },
+    {
+      "id": "990058742260107976",
+      "title": "TQC+電腦繪圖設計認證指南 : Illustrator CS4 /"
+    },
+    {
+      "id": "990063371220107976",
+      "title": "ACA國際認證 : Illustrator CC插畫設計與數位繪圖 /"
+    },
+    {
+      "id": "9973823804607976",
+      "title": "Illustrator x ChatGPT向量圖形設計 /"
+    },
+    {
+      "id": "990058742070107976",
+      "title": "TQC+電腦繪圖設計認證指南解題秘笈 : Illustrator CS4 /"
+    },
+    {
+      "id": "990052940950107976",
+      "title": "Illustrator即戰技 : Logo.標誌圖像設計"
+    }
+  ],
+  "input_tokens": 11712,
+  "output_tokens": 285,
+  "total_tokens": 11997,
+  "elapsed_time": 12.352250814437866
+}

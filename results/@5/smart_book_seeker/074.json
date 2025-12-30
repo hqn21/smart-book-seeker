@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找可以電繪的工具介紹相關的書籍",
+  "books": [
+    {
+      "id": "990051526700107976",
+      "title": "Illustrator 9.0數位繪圖主義"
+    },
+    {
+      "id": "990050867870107976",
+      "title": "電玩用繪圖軟體集"
+    },
+    {
+      "id": "990058742150107976",
+      "title": "Illustrator CS5數位向量繪圖講座 /"
+    },
+    {
+      "id": "990053138910107976",
+      "title": "跟國際級大師學CG電繪 : Photoshop & Painter數位插圖繪製技法"
+    },
+    {
+      "id": "990072792490107976",
+      "title": "和大師學電繪藝術 /"
+    }
+  ],
+  "user_input_tokens": 44090,
+  "user_output_tokens": 1647,
+  "user_total_tokens": 45737,
+  "librarian_input_tokens": 80761,
+  "librarian_output_tokens": 664,
+  "librarian_total_tokens": 81425,
+  "total_input_tokens": 124851,
+  "total_output_tokens": 2311,
+  "total_tokens": 127162,
+  "elapsed_time": 59.40617871284485,
+  "turn": 3
+}

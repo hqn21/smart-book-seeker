@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS5來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990053183840107976",
+      "title": "輕鬆學Flash CS5動畫設計 /"
+    },
+    {
+      "id": "990058795830107976",
+      "title": "動畫設計驚嘆號 : 至高的Flash網頁動畫88招 /"
+    },
+    {
+      "id": "990051639600107976",
+      "title": "Flash網上動畫教程"
+    },
+    {
+      "id": "990051672410107976",
+      "title": "Flash MX卡通、動畫、網頁 : 我就是愛動"
+    },
+    {
+      "id": "990051526990107976",
+      "title": "FLASH 5網頁影像與動畫設計師"
+    },
+    {
+      "id": "990052587060107976",
+      "title": "速習!Flash CS3做網頁動畫"
+    },
+    {
+      "id": "990051898210107976",
+      "title": "Flash MX 2004多媒體網頁動畫寫真"
+    },
+    {
+      "id": "990052759130107976",
+      "title": "Flash MX(中文版)網頁動畫e點通"
+    },
+    {
+      "id": "990051412930107976",
+      "title": "FLASH 4躍動的網頁"
+    },
+    {
+      "id": "990052405320107976",
+      "title": "Flash 8躍動的網頁"
+    }
+  ],
+  "user_input_tokens": 26749,
+  "user_output_tokens": 1003,
+  "user_total_tokens": 27752,
+  "librarian_input_tokens": 43046,
+  "librarian_output_tokens": 445,
+  "librarian_total_tokens": 43491,
+  "total_input_tokens": 69795,
+  "total_output_tokens": 1448,
+  "total_tokens": 71243,
+  "elapsed_time": 40.68694305419922,
+  "turn": 2
+}

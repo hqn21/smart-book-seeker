@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關輻射的分析以及相關的應用的書籍",
+  "books": [
+    {
+      "id": "990051287600107976",
+      "title": "原子、輻射、與輻射防護"
+    },
+    {
+      "id": "990051103960107976",
+      "title": "大氣輻射"
+    },
+    {
+      "id": "990051165370107976",
+      "title": "原子．核能．輻射"
+    },
+    {
+      "id": "990051115810107976",
+      "title": "人體與輻射"
+    },
+    {
+      "id": "990052304100107976",
+      "title": "輻射軼聞"
+    }
+  ],
+  "user_input_tokens": 27222,
+  "user_output_tokens": 900,
+  "user_total_tokens": 28122,
+  "librarian_input_tokens": 60973,
+  "librarian_output_tokens": 672,
+  "librarian_total_tokens": 61645,
+  "total_input_tokens": 88195,
+  "total_output_tokens": 1572,
+  "total_tokens": 89767,
+  "elapsed_time": 43.59167218208313,
+  "turn": 3
+}

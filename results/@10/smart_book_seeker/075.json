@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找和微波相關的原理、技術和應用等等的書籍",
+  "books": [
+    {
+      "id": "990072413720107976",
+      "title": "微波工程 /"
+    },
+    {
+      "id": "990051908370107976",
+      "title": "微波工程"
+    },
+    {
+      "id": "990051996680107976",
+      "title": "微波工程 = Microwave Engineering"
+    },
+    {
+      "id": "990051070330107976",
+      "title": "微波基本實驗"
+    },
+    {
+      "id": "990050840520107976",
+      "title": "微波能應用"
+    },
+    {
+      "id": "990060705510107976",
+      "title": "微波原理與應用 /"
+    },
+    {
+      "id": "990059349830107976",
+      "title": "微波固態電路 /"
+    },
+    {
+      "id": "990051419690107976",
+      "title": "微波電路原理與實驗"
+    },
+    {
+      "id": "990059342040107976",
+      "title": "微波技術與工程天線 /"
+    },
+    {
+      "id": "990051521620107976",
+      "title": "微波與光導波技術教程"
+    }
+  ],
+  "user_input_tokens": 25835,
+  "user_output_tokens": 1121,
+  "user_total_tokens": 26956,
+  "librarian_input_tokens": 40777,
+  "librarian_output_tokens": 361,
+  "librarian_total_tokens": 41138,
+  "total_input_tokens": 66612,
+  "total_output_tokens": 1482,
+  "total_tokens": 68094,
+  "elapsed_time": 40.95737600326538,
+  "turn": 2
+}

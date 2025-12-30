@@ -1,0 +1,49 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Premiere Pro來剪輯以及編輯影片的書籍",
+  "books": [
+    {
+      "id": "990063665410107976",
+      "title": "Premiere Pro CC影音剪輯大師 /"
+    },
+    {
+      "id": "990072375850107976",
+      "title": "Premiere Pro CC 影音剪輯大師 /"
+    },
+    {
+      "id": "990052680160107976",
+      "title": "Premiere Pro CS4影音剪輯精粹"
+    },
+    {
+      "id": "990052065300107976",
+      "title": "Premiere Pro 1.5 & After Effects 6.5視訊剪輯講堂"
+    },
+    {
+      "id": "990070954390107976",
+      "title": "Premiere Pro CC : 數位剪輯最重要的16堂課 /"
+    },
+    {
+      "id": "990052186640107976",
+      "title": "Final Cut Pro 5全面剪輯"
+    },
+    {
+      "id": "990052405370107976",
+      "title": "威力導演 : 影片剪輯.燒錄DIY"
+    },
+    {
+      "id": "990051796810107976",
+      "title": "會聲會影7 : 影片剪輯DIY"
+    },
+    {
+      "id": "990072172370107976",
+      "title": "網路行銷、社群經營必會!Premiere Pro 影音剪輯實務 /"
+    },
+    {
+      "id": "990059751750107976",
+      "title": "精彩Vegas Pro數位視訊剪輯 /"
+    }
+  ],
+  "input_tokens": 11493,
+  "output_tokens": 174,
+  "total_tokens": 11667,
+  "elapsed_time": 7.800044775009155
+}

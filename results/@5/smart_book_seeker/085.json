@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Lotus 1-2-3的應用以及基本操作的書籍",
+  "books": [
+    {
+      "id": "990050489430107976",
+      "title": "LOTUS 1-2-3 初步"
+    },
+    {
+      "id": "990050332780107976",
+      "title": "LOTUS 1-2-3 FOR WINDOWS"
+    },
+    {
+      "id": "990050019200107976",
+      "title": "LOTUS 1-2-3 命令指南"
+    },
+    {
+      "id": "990050057750107976",
+      "title": "Lotus 1-2-3 巨集技巧"
+    },
+    {
+      "id": "990050019190107976",
+      "title": "LOTUS 1-2-3 使用手冊"
+    }
+  ],
+  "user_input_tokens": 19831,
+  "user_output_tokens": 788,
+  "user_total_tokens": 20619,
+  "librarian_input_tokens": 35897,
+  "librarian_output_tokens": 361,
+  "librarian_total_tokens": 36258,
+  "total_input_tokens": 55728,
+  "total_output_tokens": 1149,
+  "total_tokens": 56877,
+  "elapsed_time": 29.124785900115967,
+  "turn": 2
+}

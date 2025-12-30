@@ -1,0 +1,52 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Illustrator CS5進行繪圖設計的書籍",
+  "books": [
+    {
+      "id": "990058742150107976",
+      "title": "Illustrator CS5數位向量繪圖講座 /"
+    },
+    {
+      "id": "990058742200107976",
+      "title": "跟我學Illustrator CS5一定要會的美工繪圖技巧 /"
+    },
+    {
+      "id": "990058741140107976",
+      "title": "Illustrator CS5創意設計經典技法 /"
+    },
+    {
+      "id": "990058740880107976",
+      "title": "Illustrator繪圖.設計の達人教室 : CS5/CS4/CS3/CS2完全對應 /"
+    },
+    {
+      "id": "990051876800107976",
+      "title": "Adobe Illustrator繪圖演譯"
+    },
+    {
+      "id": "990073175280107976",
+      "title": "Illustrator向量圖形設計 /"
+    },
+    {
+      "id": "990052022810107976",
+      "title": "Illustrator CS繪圖新視野"
+    },
+    {
+      "id": "990052015450107976",
+      "title": "Illustrator CS中文版數位向量繪圖寶典"
+    },
+    {
+      "id": "990051989970107976",
+      "title": "美工繪圖Illustrator CS一切搞定"
+    }
+  ],
+  "user_input_tokens": 630469,
+  "user_output_tokens": 10613,
+  "user_total_tokens": 641082,
+  "librarian_input_tokens": 2173391,
+  "librarian_output_tokens": 2443,
+  "librarian_total_tokens": 2175834,
+  "total_input_tokens": 2803860,
+  "total_output_tokens": 13056,
+  "total_tokens": 2816916,
+  "elapsed_time": 357.6197760105133,
+  "turn": 10
+}

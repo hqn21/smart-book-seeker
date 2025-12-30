@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找和微波相關的原理、技術和應用等等的書籍",
+  "books": [
+    {
+      "id": "990072413720107976",
+      "title": "微波工程 /"
+    },
+    {
+      "id": "990051908370107976",
+      "title": "微波工程"
+    },
+    {
+      "id": "990051996680107976",
+      "title": "微波工程 = Microwave Engineering"
+    },
+    {
+      "id": "990051070330107976",
+      "title": "微波基本實驗"
+    },
+    {
+      "id": "990050840520107976",
+      "title": "微波能應用"
+    }
+  ],
+  "user_input_tokens": 19009,
+  "user_output_tokens": 707,
+  "user_total_tokens": 19716,
+  "librarian_input_tokens": 35244,
+  "librarian_output_tokens": 324,
+  "librarian_total_tokens": 35568,
+  "total_input_tokens": 54253,
+  "total_output_tokens": 1031,
+  "total_tokens": 55284,
+  "elapsed_time": 34.71086263656616,
+  "turn": 2
+}

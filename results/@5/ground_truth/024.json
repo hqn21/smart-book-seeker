@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Raspberry Pi入門開發的應用相關的書籍",
+  "books": [
+    {
+      "id": "990064720280107976",
+      "title": "Raspberry Pi 好好玩不卡關！ : 開直播‧玩NAS‧手機監測器‧遙控推土機‧自動PO文機‧防盜系統 輕鬆搞定"
+    },
+    {
+      "id": "990063468260107976",
+      "title": "Windows 10 IOT物聯網入門與實戰 : 使用Raspberry Pi"
+    },
+    {
+      "id": "990063587800107976",
+      "title": "Raspberry Pi最佳入門與實戰應用"
+    },
+    {
+      "id": "990072593630107976",
+      "title": "超入門實作Python AIoT智能物聯網 : 使用Raspberry Pi 4B(iPOE R0+R1)"
+    },
+    {
+      "id": "990073709150107976",
+      "title": "Raspberry Pi 4 最佳入門與實戰應用, 3/e : 適用Raspberry Pi 2/Raspberry Pi 3"
+    },
+    {
+      "id": "990060791040107976",
+      "title": "Raspberry Pi機器人自造專案 : 從零開始, 花小錢打造屬於您自己的機器人"
+    },
+    {
+      "id": "990063363510107976",
+      "title": "超圖解物聯網IoT實作入門 : 使用JavaScript/Node.JS/Arduino/Raspberry Pi/ESP8266/ Espruino"
+    },
+    {
+      "id": "990071374420107976",
+      "title": "Raspberry Pi輕鬆上手指南"
+    },
+    {
+      "id": "990059638100107976",
+      "title": "Raspberry Pi快速上手指南"
+    },
+    {
+      "id": "990070943430107976",
+      "title": "Raspberry Pi樹莓派從不懂,到玩上手!"
+    }
+  ]
+}

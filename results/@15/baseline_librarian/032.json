@@ -1,0 +1,17 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用OpenCV來進行影像視覺處理相關技術的書籍",
+  "books": [
+    {
+      "id": "990071401570107976",
+      "title": "OpenCV 範例解析 : 運用OpenCV開發實務專案深入理解電腦視覺與影像處理 =OpenCV By Example /"
+    },
+    {
+      "id": "990072375550107976",
+      "title": "OpenCV 4 專案實務 : 用OpenCV與C++打造電腦視覺與影像處理應用程式 /"
+    }
+  ],
+  "input_tokens": 11592,
+  "output_tokens": 209,
+  "total_tokens": 11801,
+  "elapsed_time": 7.792729139328003
+}

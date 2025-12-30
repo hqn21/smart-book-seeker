@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Dreamweaver CS6設計網頁以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990071798390107976",
+      "title": "Dreamweaver CS6 : 網頁設計創意魔法."
+    },
+    {
+      "id": "990059697920107976",
+      "title": "就是愛玩Dreamweaver CS6 : 網頁、美化、特效、設計 /"
+    },
+    {
+      "id": "990059751160107976",
+      "title": "Photoshop + Dreamweaver + Flash CS6網頁設計三合一 /"
+    },
+    {
+      "id": "990059489480107976",
+      "title": "Dreamweaver CS6行動網頁全新進化 /"
+    },
+    {
+      "id": "990059689090107976",
+      "title": "Dreamweaver CS6網頁點子實戰課 /"
+    },
+    {
+      "id": "990052065430107976",
+      "title": "輕鬆學DreamWeaver網頁設計"
+    },
+    {
+      "id": "990052133630107976",
+      "title": "嗯!Dreamweaver網頁設計我也會"
+    },
+    {
+      "id": "990059637790107976",
+      "title": "Dreamweaver CS6 & PHP資料庫實例應用 /"
+    },
+    {
+      "id": "990059637680107976",
+      "title": "Dreamweaver CS6創意X學習趣 = Creative learning with Dreamweaver CS6 /"
+    },
+    {
+      "id": "990073709130107976",
+      "title": "HTML5、CSS3、JavaScript、jQuery、Vue.js、RWD 網頁設計 /"
+    }
+  ],
+  "user_input_tokens": 127503,
+  "user_output_tokens": 2088,
+  "user_total_tokens": 129591,
+  "librarian_input_tokens": 324361,
+  "librarian_output_tokens": 1229,
+  "librarian_total_tokens": 325590,
+  "total_input_tokens": 451864,
+  "total_output_tokens": 3317,
+  "total_tokens": 455181,
+  "elapsed_time": 126.40227818489075,
+  "turn": 5
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找和Excel巨集或是VBA有關的技巧、函數應用及資料庫相關的書籍",
+  "books": [
+    {
+      "id": "990052531280107976",
+      "title": "經理人提升效率的Excel函數與巨集技巧"
+    },
+    {
+      "id": "990059160270107976",
+      "title": "3秒鐘搞定EXCEL : 資料處理→函數→VBA /"
+    },
+    {
+      "id": "990050814050107976",
+      "title": "資料庫管理"
+    },
+    {
+      "id": "990063678080107976",
+      "title": "資料庫管理 /"
+    },
+    {
+      "id": "990051233970107976",
+      "title": "Excel 97函數與資料分析實例演練"
+    }
+  ],
+  "user_input_tokens": 20235,
+  "user_output_tokens": 720,
+  "user_total_tokens": 20955,
+  "librarian_input_tokens": 36559,
+  "librarian_output_tokens": 408,
+  "librarian_total_tokens": 36967,
+  "total_input_tokens": 56794,
+  "total_output_tokens": 1128,
+  "total_tokens": 57922,
+  "elapsed_time": 31.761336088180542,
+  "turn": 2
+}

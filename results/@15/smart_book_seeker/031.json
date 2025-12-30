@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹Visual FoxPro程式的入門及進階應用的書籍",
+  "books": [
+    {
+      "id": "990051314850107976",
+      "title": "Visual FoxPro 6.0 入門指引"
+    },
+    {
+      "id": "990051007150107976",
+      "title": "VISUAL FOXPRO 3 實務設計"
+    },
+    {
+      "id": "990050996580107976",
+      "title": "Visual FoxPro 程式設計寶典"
+    },
+    {
+      "id": "990051007250107976",
+      "title": "Visual FoxPro 3.0 入門與應用"
+    },
+    {
+      "id": "990051041160107976",
+      "title": "Visual FoxPro 實務導引入門手冊"
+    },
+    {
+      "id": "990050968660107976",
+      "title": "Visual Foxpro 實務導引入門手冊"
+    },
+    {
+      "id": "990051113210107976",
+      "title": "精簡易懂Visual FoxPro 5.0(含程式設計)"
+    },
+    {
+      "id": "990051158930107976",
+      "title": "Visual FoxPro 5.0 中文版入門與實作"
+    },
+    {
+      "id": "990051534580107976",
+      "title": "活學活用Visual FoxPro 6.0中文版"
+    },
+    {
+      "id": "990051145850107976",
+      "title": "Visual FoxPro 5.0 中文版程式設計寶典"
+    },
+    {
+      "id": "990051040450107976",
+      "title": "Visual FoxPro 實務應用手冊 : 高階技@@應用"
+    },
+    {
+      "id": "990051041210107976",
+      "title": "Visual FoxPro 實務應用手冊 : 一對多規範"
+    },
+    {
+      "id": "990051672420107976",
+      "title": "Visual FoxPro 7.0資料庫系統入門與實作"
+    },
+    {
+      "id": "990052449130107976",
+      "title": "Visual FoxPro 3.0X精靈與系統設定篇"
+    },
+    {
+      "id": "990052449120107976",
+      "title": "FoxPro For Windows"
+    }
+  ],
+  "user_input_tokens": 34381,
+  "user_output_tokens": 1606,
+  "user_total_tokens": 35987,
+  "librarian_input_tokens": 49666,
+  "librarian_output_tokens": 390,
+  "librarian_total_tokens": 50056,
+  "total_input_tokens": 84047,
+  "total_output_tokens": 1996,
+  "total_tokens": 86043,
+  "elapsed_time": 50.20906901359558,
+  "turn": 2
+}

@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹有關如何使用Office 2007版本的書籍",
+  "books": [
+    {
+      "id": "990052937180107976",
+      "title": "Office 2007商務應用範例集 = Word.Excel.Powerpoint"
+    },
+    {
+      "id": "990052316320107976",
+      "title": "OFFICE入門與應用 : Word.Excel.PowerPoint"
+    },
+    {
+      "id": "990051903610107976",
+      "title": "Word、Excel、PowerPoint徹底學通"
+    },
+    {
+      "id": "990051916780107976",
+      "title": "Word Excel PowerPoint超完整技巧600招"
+    },
+    {
+      "id": "990052078170107976",
+      "title": "Word、Excel、PowerPoint密技大百科"
+    },
+    {
+      "id": "990051473640107976",
+      "title": "Word、Excel、PowerPoint必備技巧500招"
+    },
+    {
+      "id": "990063583180107976",
+      "title": "超實用!Word.Excel.PowerPoint辦公室Office必備50招省時技 /"
+    },
+    {
+      "id": "990071806870107976",
+      "title": "Word/Excel/PowerPoint超效率500招速成技 /"
+    },
+    {
+      "id": "990058740870107976",
+      "title": "Word, Excel, PowerPoint強效精攻500招 /"
+    },
+    {
+      "id": "990052316210107976",
+      "title": "跟我學PowerPoint 2007"
+    },
+    {
+      "id": "990052338360107976",
+      "title": "PowerPoint 2007私房書"
+    },
+    {
+      "id": "990052587270107976",
+      "title": "Office 2007私房書"
+    },
+    {
+      "id": "990052351880107976",
+      "title": "跟我學Microsoft Office 2007"
+    },
+    {
+      "id": "990058734580107976",
+      "title": "Office 2007學習手冊 /"
+    },
+    {
+      "id": "990052591510107976",
+      "title": "Office 2007學習手冊"
+    }
+  ],
+  "user_input_tokens": 81094,
+  "user_output_tokens": 2886,
+  "user_total_tokens": 83980,
+  "librarian_input_tokens": 128081,
+  "librarian_output_tokens": 587,
+  "librarian_total_tokens": 128668,
+  "total_input_tokens": 209175,
+  "total_output_tokens": 3473,
+  "total_tokens": 212648,
+  "elapsed_time": 72.70909285545349,
+  "turn": 3
+}

@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找學習 Cisco 網路設備的設定與管理基本知識相關的書籍",
+  "books": [
+    {
+      "id": "990053158620107976",
+      "title": "Wireshark網路協定分析與管理"
+    },
+    {
+      "id": "990052356560107976",
+      "title": "電腦DIY2007 : 區域網路架設,分享與管理"
+    },
+    {
+      "id": "990051989940107976",
+      "title": "網路管理"
+    },
+    {
+      "id": "990052978460107976",
+      "title": "網路管理 /"
+    },
+    {
+      "id": "990051209920107976",
+      "title": "Linux 網路管理"
+    },
+    {
+      "id": "990051574260107976",
+      "title": "TCP/IP網路管理"
+    },
+    {
+      "id": "990051722120107976",
+      "title": "網路安全與管理"
+    },
+    {
+      "id": "990059157880107976",
+      "title": "深入淺出網路管理 : /"
+    },
+    {
+      "id": "990052338580107976",
+      "title": "Sniffer Pro網路管理與分析"
+    },
+    {
+      "id": "990051429470107976",
+      "title": "PPP網路管理 = Using & Managing PPP"
+    }
+  ],
+  "user_input_tokens": 96300,
+  "user_output_tokens": 2260,
+  "user_total_tokens": 98560,
+  "librarian_input_tokens": 372395,
+  "librarian_output_tokens": 1915,
+  "librarian_total_tokens": 374310,
+  "total_input_tokens": 468695,
+  "total_output_tokens": 4175,
+  "total_tokens": 472870,
+  "elapsed_time": 134.6468381881714,
+  "turn": 9
+}

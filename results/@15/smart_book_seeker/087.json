@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PhotoImpact 12版本的使用方式的書籍",
+  "books": [
+    {
+      "id": "990052313050107976",
+      "title": "突破PhotoImpact 12"
+    },
+    {
+      "id": "990052338060107976",
+      "title": "PhotoImpact 12影像玩味"
+    },
+    {
+      "id": "990052402130107976",
+      "title": "PhotoImpact 12楊比比生活影像館"
+    },
+    {
+      "id": "990052363670107976",
+      "title": "PhotoImpact 12影像處理e點通"
+    },
+    {
+      "id": "990052363690107976",
+      "title": "PhotoImpact 12實用教學寶典"
+    },
+    {
+      "id": "990052367700107976",
+      "title": "PhotoImpact 12創意魔法全蒐錄"
+    },
+    {
+      "id": "990052316350107976",
+      "title": "PhotoImpact 12數位照片編修與運用範例"
+    },
+    {
+      "id": "990052356030107976",
+      "title": "輕鬆學PhotoImpact12中文版影像設計實務"
+    },
+    {
+      "id": "990052313070107976",
+      "title": "iBook突破PhotoImpact 12中文版 : Soez2U數位學習"
+    },
+    {
+      "id": "990052313080107976",
+      "title": "突破多媒體設計Dreamweaver 8、Flash 8、PhotoImpact 12中文版"
+    },
+    {
+      "id": "990052545030107976",
+      "title": "網頁設計三星連環碰 : Dreamweaver CS3, PhotoImpact 12, Flash CS3"
+    },
+    {
+      "id": "990052316340107976",
+      "title": "數位暗房 : 創意影像編修特輯"
+    },
+    {
+      "id": "990051302720107976",
+      "title": "數位影像處理"
+    },
+    {
+      "id": "990072989820107976",
+      "title": "Photoshop CC必學教本 : 數位影像編修與設計 /"
+    },
+    {
+      "id": "990051429570107976",
+      "title": "數位影像處理 : 活用Matlab"
+    }
+  ],
+  "user_input_tokens": 397747,
+  "user_output_tokens": 3664,
+  "user_total_tokens": 401411,
+  "librarian_input_tokens": 2193050,
+  "librarian_output_tokens": 2730,
+  "librarian_total_tokens": 2195780,
+  "total_input_tokens": 2590797,
+  "total_output_tokens": 6394,
+  "total_tokens": 2597191,
+  "elapsed_time": 311.2200210094452,
+  "turn": 11
+}

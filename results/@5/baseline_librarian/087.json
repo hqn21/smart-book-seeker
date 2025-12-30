@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關PhotoImpact 12版本的使用方式的書籍",
+  "books": [
+    {
+      "id": "990052313050107976",
+      "title": "突破PhotoImpact 12"
+    },
+    {
+      "id": "990052338060107976",
+      "title": "PhotoImpact 12影像玩味"
+    },
+    {
+      "id": "990052402130107976",
+      "title": "PhotoImpact 12楊比比生活影像館"
+    },
+    {
+      "id": "990052363670107976",
+      "title": "PhotoImpact 12影像處理e點通"
+    },
+    {
+      "id": "990052363690107976",
+      "title": "PhotoImpact 12實用教學寶典"
+    }
+  ],
+  "input_tokens": 11564,
+  "output_tokens": 225,
+  "total_tokens": 11789,
+  "elapsed_time": 8.917955875396729
+}

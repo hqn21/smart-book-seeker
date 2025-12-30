@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找如何使用 Access 2007 來學習資料庫的建置與管理等等相關書籍",
+  "books": [
+    {
+      "id": "990052425030107976",
+      "title": "Access 2007資料庫管理祕笈"
+    },
+    {
+      "id": "990052016140107976",
+      "title": "精通Access 2003資料庫建置與管理"
+    },
+    {
+      "id": "990052176980107976",
+      "title": "Access 2003資料庫管理實務"
+    },
+    {
+      "id": "990051939630107976",
+      "title": "資料庫系統使用ACCESS 2003"
+    },
+    {
+      "id": "990051450530107976",
+      "title": "Access資料庫管理與應用"
+    }
+  ],
+  "user_input_tokens": 60992,
+  "user_output_tokens": 1651,
+  "user_total_tokens": 62643,
+  "librarian_input_tokens": 151933,
+  "librarian_output_tokens": 1053,
+  "librarian_total_tokens": 152986,
+  "total_input_tokens": 212925,
+  "total_output_tokens": 2704,
+  "total_tokens": 215629,
+  "elapsed_time": 74.54455494880676,
+  "turn": 5
+}

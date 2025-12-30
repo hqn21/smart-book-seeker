@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關昆蟲的圖鑑以及相關有趣知識及各方各面知識的書籍",
+  "books": [
+    {
+      "id": "990052273750107976",
+      "title": "原色日本昆蟲圖鑑 = Coloured illustrations of the insects of Japan"
+    },
+    {
+      "id": "9973788409907976",
+      "title": "原色千種昆蟲圖譜 /"
+    },
+    {
+      "id": "9973821275507976",
+      "title": "專為孩子設計!世界驚奇甲蟲圖鑑 /"
+    },
+    {
+      "id": "9973828005807976",
+      "title": "鍬形蟲58 : 野外觀察超圖鑑 = A field guide to the stag beetles of Taiwan /"
+    },
+    {
+      "id": "990071742910107976",
+      "title": "全彩圖解3分鐘讀懂霍金時間簡史 : 找出穿越千年的時空奧祕, 黑洞、蟲洞、時光機的科學知識 /"
+    }
+  ],
+  "input_tokens": 11580,
+  "output_tokens": 171,
+  "total_tokens": 11751,
+  "elapsed_time": 8.869999885559082
+}

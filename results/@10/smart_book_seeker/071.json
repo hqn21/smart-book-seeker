@@ -1,0 +1,52 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Office XP 使用實務及相關應用的書籍",
+  "books": [
+    {
+      "id": "990051619730107976",
+      "title": "Office XP中文版實務"
+    },
+    {
+      "id": "990051684220107976",
+      "title": "OFFICE XP入門與應用"
+    },
+    {
+      "id": "990051770540107976",
+      "title": "Office XP論文寫作實務"
+    },
+    {
+      "id": "990051689540107976",
+      "title": "精通 Office XP"
+    },
+    {
+      "id": "990051684230107976",
+      "title": "Office XP 2002學習範本"
+    },
+    {
+      "id": "990051968120107976",
+      "title": "精彩Office XP中文版入門"
+    },
+    {
+      "id": "990051533070107976",
+      "title": "OFFICE 2000進階活用實例 : 輕鬆上手"
+    },
+    {
+      "id": "990051639780107976",
+      "title": "深入淺出Windows XP操作手冊"
+    },
+    {
+      "id": "990051637390107976",
+      "title": "Windows XP系統實用秘笈"
+    }
+  ],
+  "user_input_tokens": 362744,
+  "user_output_tokens": 1943,
+  "user_total_tokens": 364687,
+  "librarian_input_tokens": 2804201,
+  "librarian_output_tokens": 2947,
+  "librarian_total_tokens": 2807148,
+  "total_input_tokens": 3166945,
+  "total_output_tokens": 4890,
+  "total_tokens": 3171835,
+  "elapsed_time": 323.84461307525635,
+  "turn": 12
+}

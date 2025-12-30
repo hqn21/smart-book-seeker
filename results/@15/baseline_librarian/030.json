@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找介紹使用Spark來處理及分析大數據書籍",
+  "books": [],
+  "input_tokens": 11541,
+  "output_tokens": 227,
+  "total_tokens": 11768,
+  "elapsed_time": 7.847143173217773
+}

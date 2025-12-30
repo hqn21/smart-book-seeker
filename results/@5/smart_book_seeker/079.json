@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關敏捷軟體開發的相關守則和技巧的書籍",
+  "books": [
+    {
+      "id": "990059637890107976",
+      "title": "無瑕的程式碼 : 敏捷軟體開發技巧守則 /"
+    },
+    {
+      "id": "990073709450107976",
+      "title": "敏捷開發的藝術."
+    },
+    {
+      "id": "990052086010107976",
+      "title": "敏捷軟體開發 : 原則.樣式及實務"
+    },
+    {
+      "id": "990072794580107976",
+      "title": "敏捷大師精選 /"
+    },
+    {
+      "id": "990072592980107976",
+      "title": "敏捷無敵之DevOps時代 /"
+    }
+  ],
+  "user_input_tokens": 20283,
+  "user_output_tokens": 734,
+  "user_total_tokens": 21017,
+  "librarian_input_tokens": 36716,
+  "librarian_output_tokens": 434,
+  "librarian_total_tokens": 37150,
+  "total_input_tokens": 56999,
+  "total_output_tokens": 1168,
+  "total_tokens": 58167,
+  "elapsed_time": 36.33717393875122,
+  "turn": 2
+}

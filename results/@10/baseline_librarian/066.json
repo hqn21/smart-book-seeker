@@ -1,0 +1,29 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 Ruby on Rails 程式設計、網站建構和開發等等應用的書籍",
+  "books": [
+    {
+      "id": "990052316240107976",
+      "title": "Ruby on Rails網路應用程式開發與建置"
+    },
+    {
+      "id": "990052631300107976",
+      "title": "Ruby on Rails程式設計入門"
+    },
+    {
+      "id": "990059637710107976",
+      "title": "Ruby on Rails最佳程式設計指南 /"
+    },
+    {
+      "id": "990060730850107976",
+      "title": "10天學會Ruby on Rails : Web 2.0網站架設速成 /"
+    },
+    {
+      "id": "990063369340107976",
+      "title": "10天學會Ruby on Rails : Web2.0網站架設速成 /"
+    }
+  ],
+  "input_tokens": 11622,
+  "output_tokens": 222,
+  "total_tokens": 11844,
+  "elapsed_time": 7.844289064407349
+}

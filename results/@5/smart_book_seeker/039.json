@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關Excel 2002版本的使用技巧及介紹相關工具的書籍",
+  "books": [
+    {
+      "id": "990051642730107976",
+      "title": "看圖例學Excel 2002"
+    },
+    {
+      "id": "990051639810107976",
+      "title": "Excel 2002精修範本"
+    },
+    {
+      "id": "990051689560107976",
+      "title": "Excel 2002超技巧方便麵 : 泡麵3分鐘，輕鬆學Excel 2002"
+    },
+    {
+      "id": "990051974180107976",
+      "title": "Excel 2002函數與分析工具"
+    },
+    {
+      "id": "990051619710107976",
+      "title": "Excel 2002 中文版實務"
+    }
+  ],
+  "user_input_tokens": 19971,
+  "user_output_tokens": 708,
+  "user_total_tokens": 20679,
+  "librarian_input_tokens": 35777,
+  "librarian_output_tokens": 318,
+  "librarian_total_tokens": 36095,
+  "total_input_tokens": 55748,
+  "total_output_tokens": 1026,
+  "total_tokens": 56774,
+  "elapsed_time": 28.210007190704346,
+  "turn": 2
+}

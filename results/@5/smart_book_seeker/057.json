@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找如何使用 Access 2002 來學習資料庫的建置與管理等等相關書籍",
+  "books": [
+    {
+      "id": "990051619790107976",
+      "title": "深入淺出Access 2002資料庫程式設計"
+    },
+    {
+      "id": "990052016140107976",
+      "title": "精通Access 2003資料庫建置與管理"
+    },
+    {
+      "id": "990051420420107976",
+      "title": "深入淺出 Access 2000資料庫程式設計"
+    },
+    {
+      "id": "990060238410107976",
+      "title": "資料庫設計與應用Access /"
+    },
+    {
+      "id": "990053035540107976",
+      "title": "資料庫設計與實務 : Access 2007"
+    }
+  ],
+  "user_input_tokens": 46337,
+  "user_output_tokens": 1457,
+  "user_total_tokens": 47794,
+  "librarian_input_tokens": 103657,
+  "librarian_output_tokens": 948,
+  "librarian_total_tokens": 104605,
+  "total_input_tokens": 149994,
+  "total_output_tokens": 2405,
+  "total_tokens": 152399,
+  "elapsed_time": 60.33327889442444,
+  "turn": 4
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關各種導體的分析和應用的書籍",
+  "books": [
+    {
+      "id": "990052769550107976",
+      "title": "超傳導應用"
+    },
+    {
+      "id": "990050805900107976",
+      "title": "半導體元件"
+    },
+    {
+      "id": "990071338070107976",
+      "title": "半導體物理元件 /"
+    },
+    {
+      "id": "990052191260107976",
+      "title": "半導體物理學"
+    },
+    {
+      "id": "990050914340107976",
+      "title": "半導體的結構原理"
+    }
+  ],
+  "user_input_tokens": 38448,
+  "user_output_tokens": 1339,
+  "user_total_tokens": 39787,
+  "librarian_input_tokens": 75401,
+  "librarian_output_tokens": 625,
+  "librarian_total_tokens": 76026,
+  "total_input_tokens": 113849,
+  "total_output_tokens": 1964,
+  "total_tokens": 115813,
+  "elapsed_time": 55.32751274108887,
+  "turn": 3
+}

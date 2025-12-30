@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關基因的分析以及相關應用的書籍",
+  "books": [
+    {
+      "id": "990051783390107976",
+      "title": "竄改基因 : 艾西莫夫科普開講"
+    },
+    {
+      "id": "990071374890107976",
+      "title": "超科少年 : 孟德爾 : 豌豆.遺傳學.基因 = Mendel /"
+    },
+    {
+      "id": "990063371720107976",
+      "title": "機器學習 : 類神經網路、模糊系統以及基因演算法則 /"
+    },
+    {
+      "id": "990051184760107976",
+      "title": "機器學習 : 類神經網路、模糊系統、以及基因演算法則"
+    },
+    {
+      "id": "9973825301907976",
+      "title": "額葉力 : 啟動大腦成功基因! /"
+    }
+  ],
+  "user_input_tokens": 22425,
+  "user_output_tokens": 1005,
+  "user_total_tokens": 23430,
+  "librarian_input_tokens": 38123,
+  "librarian_output_tokens": 452,
+  "librarian_total_tokens": 38575,
+  "total_input_tokens": 60548,
+  "total_output_tokens": 1457,
+  "total_tokens": 62005,
+  "elapsed_time": 36.14468789100647,
+  "turn": 2
+}

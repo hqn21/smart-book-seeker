@@ -1,0 +1,45 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用tensorflow來學習實作有關深度學習的開發相關知識的書籍",
+  "books": [
+    {
+      "id": "990063583160107976",
+      "title": "深度學習快速入門 : 使用TensorFlow"
+    },
+    {
+      "id": "990072286760107976",
+      "title": "TensorFlow自然語言處理 : 善用Python深度學習函式庫, 教機器學會自然語言"
+    },
+    {
+      "id": "990071791230107976",
+      "title": "初探深度學習 : 使用TensorFlow"
+    },
+    {
+      "id": "990071791740107976",
+      "title": "白話深度學習與TensorFlow"
+    },
+    {
+      "id": "990072199180107976",
+      "title": "輕鬆學會Google TensorFlow 2.0 : 人工智慧深度學習實作開發"
+    },
+    {
+      "id": "990072200300107976",
+      "title": "TensorFlow與Keras : Python深度學習應用實務 = Hands-on Deep Learning by TensorFlow and Keras with Python"
+    },
+    {
+      "id": "990072826100107976",
+      "title": "輕鬆學會Google TensorFlow 2 : 人工智慧深度學習實作開發"
+    },
+    {
+      "id": "990070943050107976",
+      "title": "實戰Google深度學習技術 : 使用TensorFlow"
+    },
+    {
+      "id": "990072794780107976",
+      "title": "TensorFlow 2.0 深度學習快速入門 : 從1到2快人一步.從0到2一步到位"
+    },
+    {
+      "id": "990070942800107976",
+      "title": "實戰TensorFlow : Google深度學習系統"
+    }
+  ]
+}

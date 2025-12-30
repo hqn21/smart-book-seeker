@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關 AutoCAD 2002 輔助繪圖的相關使用技巧的書籍",
+  "books": [
+    {
+      "id": "990052542310107976",
+      "title": "電腦輔助繪圖 : AutoCAD 2006"
+    },
+    {
+      "id": "990050805670107976",
+      "title": "電腦輔助繪圖 : AutoCAD 繪圖技術"
+    },
+    {
+      "id": "990051449760107976",
+      "title": "電腦輔助繪圖 : R14繪圖技巧"
+    },
+    {
+      "id": "990050331130107976",
+      "title": "電腔輔助繪圖 : Auto CAD 與傳統製圖"
+    },
+    {
+      "id": "990051259630107976",
+      "title": "AutoCAD R12 電腦輔助繪圖"
+    }
+  ],
+  "user_input_tokens": 36909,
+  "user_output_tokens": 889,
+  "user_total_tokens": 37798,
+  "librarian_input_tokens": 93702,
+  "librarian_output_tokens": 861,
+  "librarian_total_tokens": 94563,
+  "total_input_tokens": 130611,
+  "total_output_tokens": 1750,
+  "total_tokens": 132361,
+  "elapsed_time": 57.99752712249756,
+  "turn": 4
+}

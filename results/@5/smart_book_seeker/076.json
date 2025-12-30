@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找和人工增雨有關的技術、原理和計畫等等的書籍",
+  "books": [
+    {
+      "id": "990071932980107976",
+      "title": "人工增雨計畫. Supporting program on cloud seeding in Taiwan /"
+    },
+    {
+      "id": "990060701840107976",
+      "title": "人工增雨計畫 = Supporting Program on Cloud Seeding in Taiwan."
+    },
+    {
+      "id": "990072343290107976",
+      "title": "人工增雨計畫與閃電資料運用."
+    },
+    {
+      "id": "990059157310107976",
+      "title": "100年人工增雨服務團計畫 : 期末報告 /"
+    },
+    {
+      "id": "990053024130107976",
+      "title": "人工增雨作業評估計畫 = The evaluation of artificial rainfall enhancement project /"
+    }
+  ],
+  "user_input_tokens": 21267,
+  "user_output_tokens": 910,
+  "user_total_tokens": 22177,
+  "librarian_input_tokens": 37210,
+  "librarian_output_tokens": 414,
+  "librarian_total_tokens": 37624,
+  "total_input_tokens": 58477,
+  "total_output_tokens": 1324,
+  "total_tokens": 59801,
+  "elapsed_time": 37.390273094177246,
+  "turn": 2
+}

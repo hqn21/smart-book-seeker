@@ -1,0 +1,56 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Premiere Pro來剪輯以及編輯影片的書籍",
+  "books": [
+    {
+      "id": "990063665410107976",
+      "title": "Premiere Pro CC影音剪輯大師 /"
+    },
+    {
+      "id": "990072375850107976",
+      "title": "Premiere Pro CC 影音剪輯大師 /"
+    },
+    {
+      "id": "990072375860107976",
+      "title": "跟Adobe徹底研究Premiere Pro CC /"
+    },
+    {
+      "id": "990052680160107976",
+      "title": "Premiere Pro CS4影音剪輯精粹"
+    },
+    {
+      "id": "990052031540107976",
+      "title": "Premiere Pro 1.5數位影音大導演"
+    },
+    {
+      "id": "990052527360107976",
+      "title": "跟Adobe徹底研究Premiere Pro CS3"
+    },
+    {
+      "id": "990052711800107976",
+      "title": "跟Adobe徹底研究Premiere Pro CS4"
+    },
+    {
+      "id": "990059768070107976",
+      "title": "跟Adobe徹底研究Premiere Pro CS6 /"
+    },
+    {
+      "id": "990053158250107976",
+      "title": "影視後製全攻略 : Premiere Pro/After Effects/Encore /"
+    },
+    {
+      "id": "990052065300107976",
+      "title": "Premiere Pro 1.5 & After Effects 6.5視訊剪輯講堂"
+    }
+  ],
+  "user_input_tokens": 26751,
+  "user_output_tokens": 974,
+  "user_total_tokens": 27725,
+  "librarian_input_tokens": 43426,
+  "librarian_output_tokens": 423,
+  "librarian_total_tokens": 43849,
+  "total_input_tokens": 70177,
+  "total_output_tokens": 1397,
+  "total_tokens": 71574,
+  "elapsed_time": 34.19481921195984,
+  "turn": 2
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關怎麼使用Flash CS4來進行網頁動畫的製作、創作和相關應用的書籍",
+  "books": [
+    {
+      "id": "990053160700107976",
+      "title": "Flash CS4 動畫與遊戲製作必修技"
+    },
+    {
+      "id": "990052587380107976",
+      "title": "Flash ActionScript 3.0動畫製作大師"
+    },
+    {
+      "id": "990052759120107976",
+      "title": "動畫製作 : Flash"
+    },
+    {
+      "id": "990052527310107976",
+      "title": "Flash CS3商業動畫製作與網頁設計實務"
+    },
+    {
+      "id": "990052688320107976",
+      "title": "學會動畫製作Flash CS3"
+    }
+  ],
+  "user_input_tokens": 39186,
+  "user_output_tokens": 1341,
+  "user_total_tokens": 40527,
+  "librarian_input_tokens": 76951,
+  "librarian_output_tokens": 584,
+  "librarian_total_tokens": 77535,
+  "total_input_tokens": 116137,
+  "total_output_tokens": 1925,
+  "total_tokens": 118062,
+  "elapsed_time": 57.24000692367554,
+  "turn": 3
+}

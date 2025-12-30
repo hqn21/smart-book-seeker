@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關透過使用Scratch來學習程式設計邏輯或是Arduino的相關書籍",
+  "books": [
+    {
+      "id": "990063374380107976",
+      "title": "Scratch 2+S2A程式邏輯與Arduino創客訓練課 /"
+    },
+    {
+      "id": "990063367570107976",
+      "title": "程式設計邏輯訓練超簡單 : Scratch初學特訓班 /"
+    },
+    {
+      "id": "990072199400107976",
+      "title": "程式設計邏輯訓練超簡單 : Scratch 3初學特訓班 /"
+    },
+    {
+      "id": "990051439030107976",
+      "title": "邏輯概念與程式設計"
+    },
+    {
+      "id": "990050703380107976",
+      "title": "邏輯設計"
+    }
+  ],
+  "user_input_tokens": 21399,
+  "user_output_tokens": 804,
+  "user_total_tokens": 22203,
+  "librarian_input_tokens": 37580,
+  "librarian_output_tokens": 446,
+  "librarian_total_tokens": 38026,
+  "total_input_tokens": 58979,
+  "total_output_tokens": 1250,
+  "total_tokens": 60229,
+  "elapsed_time": 36.35374712944031,
+  "turn": 2
+}

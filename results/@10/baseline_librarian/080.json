@@ -1,0 +1,8 @@
+{
+  "user_book_needs": "使用者的目標是尋找學習 Cisco 網路設備的設定與管理基本知識相關的書籍",
+  "books": [],
+  "input_tokens": 11444,
+  "output_tokens": 165,
+  "total_tokens": 11609,
+  "elapsed_time": 7.093448877334595
+}

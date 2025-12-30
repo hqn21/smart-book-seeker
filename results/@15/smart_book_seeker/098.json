@@ -1,0 +1,76 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關使用Windows NT的相關技術和應用書籍",
+  "books": [
+    {
+      "id": "990051177100107976",
+      "title": "自己動手裝網路 : Windows NT系統整合與修復"
+    },
+    {
+      "id": "990051379630107976",
+      "title": "Windows NT 4.0版之網路功能"
+    },
+    {
+      "id": "990051158980107976",
+      "title": "Windows NT系統安全聖經"
+    },
+    {
+      "id": "990051145860107976",
+      "title": "Windows NT Server 4 管理經典"
+    },
+    {
+      "id": "990051607480107976",
+      "title": "深入研究Windows NT之TCP/IP網路系統"
+    },
+    {
+      "id": "990051258720107976",
+      "title": "Windows NT Workstation與Server 4.0實務管理"
+    },
+    {
+      "id": "990051055170107976",
+      "title": "Windows NT 3.5中文版網路實務操作"
+    },
+    {
+      "id": "990051202930107976",
+      "title": "Windows NT Server 4.0 管理經典 : 基礎篇"
+    },
+    {
+      "id": "990051158970107976",
+      "title": "Internet Server 管理聖經 : 以Windows NT架設Internet Server"
+    },
+    {
+      "id": "990051055200107976",
+      "title": "Windows NT Server 3.51中文版 : 實務管理"
+    },
+    {
+      "id": "990051402310107976",
+      "title": "Windows NT系統效能最佳化"
+    },
+    {
+      "id": "990052796050107976",
+      "title": "微軟專業認證檢定手冊 : Windows NT server 4.0 /"
+    },
+    {
+      "id": "990051146290107976",
+      "title": "循序漸進學Windows NT Workstation 4.0"
+    },
+    {
+      "id": "990051401460107976",
+      "title": "Windows NT DNS"
+    },
+    {
+      "id": "990051186780107976",
+      "title": "認識Windows NT"
+    }
+  ],
+  "user_input_tokens": 172686,
+  "user_output_tokens": 5238,
+  "user_total_tokens": 177924,
+  "librarian_input_tokens": 351605,
+  "librarian_output_tokens": 1164,
+  "librarian_total_tokens": 352769,
+  "total_input_tokens": 524291,
+  "total_output_tokens": 6402,
+  "total_tokens": 530693,
+  "elapsed_time": 152.47573518753052,
+  "turn": 5
+}

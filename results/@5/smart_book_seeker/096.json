@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找有關網路社群相關的書籍",
+  "books": [
+    {
+      "id": "990072692380107976",
+      "title": "社群網站的資料探勘 /"
+    },
+    {
+      "id": "990059643880107976",
+      "title": "社群網站的資料探勘 = Mining the social web /"
+    },
+    {
+      "id": "990052635640107976",
+      "title": "知識社群經營與社會網絡分析研習班 : 課程講義"
+    },
+    {
+      "id": "990063392720107976",
+      "title": "社群大數據 : 網路口碑及輿情分析 /"
+    },
+    {
+      "id": "990052993580107976",
+      "title": "用Drupal打造酷玩娛樂互動社群網站"
+    }
+  ],
+  "user_input_tokens": 20691,
+  "user_output_tokens": 803,
+  "user_total_tokens": 21494,
+  "librarian_input_tokens": 36781,
+  "librarian_output_tokens": 403,
+  "librarian_total_tokens": 37184,
+  "total_input_tokens": 57472,
+  "total_output_tokens": 1206,
+  "total_tokens": 58678,
+  "elapsed_time": 31.11328673362732,
+  "turn": 2
+}

@@ -1,0 +1,36 @@
+{
+  "user_book_needs": "使用者的目標是尋找使用Clipper 5.X進行程式設計技巧的相關書籍",
+  "books": [
+    {
+      "id": "990051101940107976",
+      "title": "CLIPPER 5.X 程式設計"
+    },
+    {
+      "id": "990050835520107976",
+      "title": "Clipper 5.X 程式設計"
+    },
+    {
+      "id": "990050156890107976",
+      "title": "Clipper 5.X 程式設計指南"
+    },
+    {
+      "id": "990050834630107976",
+      "title": "CA-CLIPPER 5.X問題集"
+    },
+    {
+      "id": "990050332720107976",
+      "title": "Clipper 5.X 程式設計 : 雷射篇"
+    }
+  ],
+  "user_input_tokens": 20247,
+  "user_output_tokens": 779,
+  "user_total_tokens": 21026,
+  "librarian_input_tokens": 36223,
+  "librarian_output_tokens": 391,
+  "librarian_total_tokens": 36614,
+  "total_input_tokens": 56470,
+  "total_output_tokens": 1170,
+  "total_tokens": 57640,
+  "elapsed_time": 29.18465304374695,
+  "turn": 2
+}
