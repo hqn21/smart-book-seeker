@@ -1,13 +1,14 @@
 [project]
 name = "smart-book-seeker"
-version = "0.1.0"
+version = "1.0.0"
 authors = [
     { name="Hao-Quan Liu", email="contact@haoquan.me" }
 ]
-description = "Add your description here"
+description = "Repository for the paper \"Smart Book Seeker: AI Agent Retrieval System\"."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "ipykernel>=7.1.0",
     "matplotlib>=3.10.6",
     "numpy>=2.2.6",
     "openai>=1.106.1",
