@@ -22,7 +22,7 @@ Before running the SBS-AARS (including experiments), ensure you have installed [
 - `src/smart_book_seeker/agents/`: Contains the implementation of various LLM agents including User-Needs Agent, User Agent, and Librarian Agent.
 - `data/`: Contains books for creating simulated real library scenarios.
 - `notebooks/`: Scripts and configurations for running experiments.
-- `result/`: Stores the results of experiments and evaluations.
+- `result/`: Stores the results of experiments.
 
 ## License
 This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
