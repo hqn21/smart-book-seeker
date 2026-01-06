@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = [
     { name="Hao-Quan Liu", email="contact@haoquan.me" }
 ]
-description = "Repository for the paper \"Smart Book Seeker: AI Agent Retrieval System\"."
+description = "Repository for the paper \"Smart Book Seeker: Agent-Augmented Retrieval System for Metadata-Sparse Libraries\"."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
