@@ -4,13 +4,12 @@ This repository contains the implementation of the Smart Book Seeker: Agent-Augm
 ## Framework
 ![Framework](assets/smart-book-seeker-framework.png)
 
-Workflow of the Smart Book Seeker: Agent-Augmented Retrieval System for Metadata-Sparse Libraries (SBS-AARS). The system operates through five coordinated steps: 
+Workflow of the Smart Book Seeker Agent-Augmented Retrieval System for Metadata-Sparse Libraries (SBS-AARS). The system operates through four coordinated steps:
 
 1. The User-Needs Agent clarifies ambiguous search requirements through interactive dialogue with the user.
 2. A structured user profile is constructed from the clarified needs.
-3. The User Agent and Librarian Agent engage in multi-turn collaborative discussions to evaluate retrieved books, with the User Agent accepting or rejecting candidates based on their alignment with user requirements.
-4. The Librarian Agent generates and executes keyword-based search queries against the library collection.
-5. The final curated set of books is delivered to the user.
+3. The User Agent and Librarian Agent engage in multi-turn collaborative discussions, where the Librarian Agent generates and executes keyword-based search queries against the library collection, and the User Agent evaluates retrieved books by accepting or rejecting candidates based on their alignment with user requirements.
+4. The final curated set of books is delivered to the user.
 
 The dashed box highlights the core Librarian Agent-User Agent Discussion Mechanism, which enables iterative refinement of retrieval strategies through reasoning-based dialogue.
 
