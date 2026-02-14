@@ -23,5 +23,8 @@ Before running the SBS-AARS (including experiments), ensure you have installed [
 - `notebooks/`: Scripts and configurations for running experiments.
 - `results/`: Stores the results of experiments.
 
+## Acknowledgments
+This research was supported (in part) by NSTC 114-2634-F-005-002 (project Smart Sustainable New Agriculture Research Center, SMARTer), project no. 112-2221-E-005-075-MY3, project no. 114B1295, project no. 114-2813-C-005-112-E, and Delta Research Center.
+
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License. See the [LICENSE](LICENSE) file for details.
