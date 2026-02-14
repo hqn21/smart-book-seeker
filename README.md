@@ -24,4 +24,4 @@ Before running the SBS-AARS (including experiments), ensure you have installed [
 - `results/`: Stores the results of experiments.
 
 ## License
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
+This work is licensed under a Creative Commons Attribution 4.0 International License. See the [LICENSE](LICENSE) file for details.
