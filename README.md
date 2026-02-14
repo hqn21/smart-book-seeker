@@ -1,6 +1,6 @@
 # Smart Book Seeker: Agent-Augmented Retrieval System for Metadata-Sparse Libraries
 
-[![WWW 2026 Workshop](https://img.shields.io/badge/WWW_2026_Workshop-Paper-blue)](https://doi.org/10.1145/3774905.3795723)
+[![LARS @ WWW 2026](https://img.shields.io/badge/LARS_@_WWW_2026-Paper-blue)](https://doi.org/10.1145/3774905.3795723)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](LICENSE)
 
 This repository contains the implementation of the Smart Book Seeker: Agent-Augmented Retrieval System for Metadata-Sparse Libraries (SBS-AARS), designed to enhance book retrieval in modern libraries facing challenges due to sparse metadata.
